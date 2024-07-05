@@ -47,8 +47,16 @@ The data loading process might take some time due to a check that occurs every 2
 ## 💾 Installation and Setup
 
 ### Prerequisites
-- Docker installed on your system.
-- Python installed (if running the application outside Docker).
+- **Python**: Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
+- **Docker**: Docker should be installed and running. Download it from [docker.com](https://www.docker.com/).
+- **Scrapy**: The Scrapy library is required for web scraping.
+- **Plotly and Dash**: These libraries are used for creating the interactive visualizations and the dashboard.
+- **Pymongo**: Required for connecting to MongoDB.
+
+You can install the Python libraries using pip:
+```bash
+pip install scrapy plotly dash pymongo
+```
 
 ### Steps to Run the Project
 
