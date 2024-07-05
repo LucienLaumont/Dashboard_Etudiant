@@ -76,7 +76,7 @@ pip install scrapy plotly dash pymongo
 4. **Access the Dashboard**:
   Open your web browser and navigate to http://localhost:8050 to view the dashboard.
 
-  **It is likely that the dashboard window will not fit the dimensions of your screen. Use Ctrl + - or Ctrl + + to adjust the display size accordingly.**
+  **It is likely that the dashboard window will not fit the dimensions of your screen. Use Ctrl - or Ctrl + to adjust the display size accordingly.**
 
 ## 📧 Contact
 For any inquiries or further information, please contact [Lucien Laumont] at lucien.laumont@edu.esiee.fr or Emmanuelle Lepage at emmanuelle.lepage@edu.esiee.fr.
