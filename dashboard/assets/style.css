@@ -1,0 +1,276 @@
+
+/*#######################################*/
+/* HAUT DE LA PAGE AVEC NAVBAR ET BOUTON */
+/*#######################################*/
+
+#navbar {
+    background-color: #514ea1; /* Couleur de fond */
+    display: flex;
+    justify-content: flex-start; /* Alignez les éléments au début du conteneur */
+    align-items: center;         /* Centre verticalement les éléments */
+    height: 10vh;            /* Hauteur relative à la fenêtre d'affichage */
+    box-shadow: 0px 5px 2px -2px rgb(54, 54, 54);
+    border-radius: 20px;
+}
+
+.titre-gras {
+    margin-left: 15px;
+    font-weight: bold;
+    font-family: 'Arial'
+}
+
+.conteneur-box {
+    display: flex;
+    margin-left: auto; /* Cela pousse ce conteneur (et donc les boîtes à l'intérieur) vers la droite */
+    align-items: center;
+    margin-right: 10px;
+}
+
+.Box {
+    height: 8vh;
+    width: 10vh;
+    border: 3px solid #000000;
+    margin-right: 25px;
+    border-radius: 20px;
+}
+
+/*#######################################*/
+/*          PAGE PRINCIPALE              */
+/*#######################################*/
+
+.conteneur-page {
+    display: flex;
+    flex-direction: column;
+    height: 87vh;
+    margin-top: 10px;
+    background-color: #e2eaf0;
+    border-radius: 20px;
+}
+
+/*#######################################*/
+/*              USER PAGE                */
+/*#######################################*/
+
+#page-user {
+    display: flex;
+    flex-direction: column;
+}
+
+#selecteur-box {
+    display: flex; /* Ajout pour aligner les graphes 1-1 et 1-2 en ligne */
+    flex-direction: row; /* Modifiez column en row pour aligner les graphes horizontalement */
+    width: 97vw;
+    height: 15vh; 
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;   
+}
+
+#selecteur-ville {
+    display: flex;
+    flex-direction: column; /* Aligner les éléments verticalement */
+    align-items: center; /* Centrer verticalement */
+    width: 35vw;
+    height: 15vh;
+    border-radius: 20px;
+    background-color: #e7e7e7;
+    border: 3px solid #000000;
+}
+
+.selecteur-titre {
+    margin-bottom: 10px; /* Espace entre le titre et le Dropdown */
+    text-align: center; /* Centrer le texte du titre */
+    color: #333333;
+    font-size: 2em;
+}
+
+#ville-dropdown {
+    width: 90%;
+}
+
+#selecteur-status {
+    /* Vos styles existants pour le conteneur */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30vw;
+    height: 15vh;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-color: #e7e7e7;
+    border: 3px solid #000000;
+}
+
+#selecteur-diplome {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30vw;
+    height: 15vh;
+    border-radius: 20px;
+    margin-left: 15px;
+    background-color: #e7e7e7;
+    border: 3px solid #000000;
+}
+
+#user-results-container{
+    background-color: #514ea1;
+    margin-left: 20px;
+    margin-top: 25px;
+    width: 97vw;
+    height: 55vh;
+    border: 3px solid #000000;
+}
+
+#table {
+    width: 100%;
+    height: 100%;
+}
+
+.creators-text {
+    width: 25vw;
+    height: 5vh;
+    margin-left: 20px;
+    margin-top: 25px;
+    font-family: Arial, sans-serif; /* Utiliser la police Arial */
+    font-size: 25px; /* Augmenter la taille du texte à 16 pixels */
+    font-weight: bold; /* Mettre en gras */
+}
+/*#######################################*/
+/*              STAT PAGE                */
+/*#######################################*/
+
+#page-stat {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+#container-graph-1 {
+    display: flex; /* Ajout pour aligner les graphes 1-1 et 1-2 en ligne */
+    flex-direction: row; /* Modifiez column en row pour aligner les graphes horizontalement */
+    flex-grow: 1;
+    width: 97vw;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+#container-graph-1-1 {
+    position: relative;
+    flex-grow: 1;
+    border-radius: 20px;
+}
+
+#graph-1-1 {
+    padding: 10px; 
+    height: 45vh; 
+    width: 60vw; 
+    border-radius: 20px;
+    background-color: #514ea1;
+}
+
+#container-graph-1-2 {
+    position: relative;
+    flex-grow: 1;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+#graph-1-2 {
+    padding: 10px; /* Ajoutez de l'espace autour de chaque graphique */
+    height: 45vh; /* Même hauteur que la carte pour aligner verticalement */
+    width: 34vw; 
+    border-radius: 20px;
+    background-color: #514ea1;
+}
+
+#container-line2 {
+    display: flex;
+    flex-direction: row; /* Aligner les enfants en ligne */
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#container-graph-2 {
+    position: relative;
+    height: 36vh;
+    width: 70vw; /* Ajusté pour s'adapter à côté du graphique en secteurs */
+    border-radius: 20px;
+}
+
+#graph-2-1 {
+    padding: 10px;
+    height: 32vh;
+    width: 69vw; /* Assurez-vous que cela correspond à la largeur du conteneur */
+    border-radius: 20px;
+    background-color: #514ea1;
+}
+
+#graph-2-2 {
+    padding: 10px;
+    height: 32vh;
+    width: 25vw; /* Assurez-vous que cela correspond à la largeur du conteneur */
+    border-radius: 20px;
+    background-color: #514ea1;
+}
+
+#container-graph-3 {
+    position: relative;
+    height: 34vh;
+    width: 25vw; /* Ajusté pour s'adapter à côté du graphique 2-1 */
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+/*#######################################*/
+/*              MAP PAGE                 */
+/*#######################################*/
+
+
+#page-map {
+    display: flex;
+}
+
+#container-map {
+    position: relative;
+    height: 81vh;
+    width: 69vw;
+    margin-top: 20px; /* Ajustez selon vos besoins */
+    margin-left: 20px; /* Ajustez selon vos besoins */
+    border-radius: 20px;
+    border: 10px solid #514ea1; /* Bordure violette solide */
+}
+
+#map {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    /* Autres propriétés... */
+}
+
+#piechart-container {
+    position : relative;
+    display: flex;
+    flex-direction: column;
+    height: 83vh; /* Même hauteur que la carte pour aligner verticalement */
+    width: 26vw;
+    margin-top: 20px; /* Ajustez selon vos besoins */
+    margin-left: 20px; /* Ajustez selon vos besoins */
+}
+
+.pie-chart {
+    padding: 10px; /* Ajoutez de l'espace autour de chaque graphique */
+    height: 46%; /* Même hauteur que la carte pour aligner verticalement */
+    border-radius: 20px;
+    background-color: #514ea1;
+}
+
+#pie-chart-1 {
+    margin-bottom: 20px; /* Ajustez cette valeur selon vos besoins */
+}
+
+#pie-chart-2 {
+    margin-top: 20px; /* Ajustez cette valeur selon vos besoins */
+}

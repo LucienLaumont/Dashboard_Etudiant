@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  scraper:
+    build: ./scraper
+    depends_on:
+      - mongo
+
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  dashboard:
+    build: ./dashboard
+    ports:
+      - "8050:8050"
+    depends_on:
+      - scraper
+      - mongo
+
+volumes:
+  mongo_data:

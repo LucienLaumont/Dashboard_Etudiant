@@ -1,0 +1,1205 @@
+nom,diplome,statut,ville,nombre_etoiles,nombre_commentaires,classement,mention,specialite,adresse,taux_reussite_bac,taux_mentions_bac,effectifs_terminale,classement_lycees_generaux_technos,classement_lycees_pros
+Lycée polyvalent Jan Lavezzari,Public,Polyvalent,Berck,3.2,(10),19.0,60.0,9.0,Berck Avenue du Phare BP 69 62602 Berck,98.0,60.0,227.0,14.1,14.7
+Lycée de l'Arc,Public,Général,Orange,3.1,(14),14.0,59.0,11.0,Orange 346 avenue des Etudiants BP 189 84106 Orange,96.0,59.0,351.0,13.6,13.1
+Lycée polyvalent Pierre Lagourgue,Public,Polyvalent,Le Tampon,3.8,(8),20.0,70.0,10.0,Le Tampon 30 Chemin Mazeau Trois Mares 97430 Le Tampon,95.0,70.0,225.0,13.6,9.6
+Lycée polyvalent Pyrène,Public,Polyvalent,Pamiers,3.8,(17),1.0,60.0,12.0,Pamiers place du Mercadal BP 30178 09104 Pamiers cedex,94.0,60.0,392.0,12.2,15.3
+Lycée Alphonse Benoît,Public,Polyvalent,L'Isle-sur-la-Sorgue,3.6,(7),18.0,67.0,11.0,L'Isle-sur-la-Sorgue Cours Victor Hugo BP 118 84803 L'Isle-sur-la-Sorgue,92.0,67.0,297.0,12.4,13.1
+Lycée général et technologique du Couserans,Public,Général,Saint-Girons,3.0,(9),7.0,63.0,8.0,Saint-Girons Esplanade Pierre Mendès France BP 113 09201 Saint-Girons,96.0,63.0,119.0,11.9,9.4
+Lycée Anatole France,Public,Général,Lillers,3.0,(13),18.0,65.0,9.0,Lillers 64 boulevard de Paris BP 49 62190 Lillers,95.0,65.0,220.0,11.6,14.7
+Lycée Louis Blaringhem,Public,Général,Béthune,3.7,(11),17.0,70.0,12.0,Béthune Boulevard Victor Hugo BP 812 62408 Béthune,95.0,70.0,406.0,14.8,14.4
+Lycée polyvalent Louis Marchal,Public,Polyvalent,Molsheim,2.8,(10),30.0,54.0,10.0,Molsheim 2 route industrielle de la Hardt BP 42056 67125 Molsheim,89.0,54.0,209.0,13.0,8.6
+Lycée Sévigné,Public,Général,Charleville-Mézières,3.2,(6),10.0,52.0,17.0,Charleville-Mézières 14 rue Mme de Sévigné 08013 Charleville-Mézières,90.0,52.0,280.0,11.7,12.3
+Lycée polyvalent Jean Joly,Public,Polyvalent,Saint-Louis,3.5,(8),39.0,55.0,10.0,Saint-Louis 2 chemin la Ouette 97421 Saint-Louis,94.0,55.0,274.0,11.5,9.1
+Lycée Mémona Hintermann-Afféjee,Public,Polyvalent,Saint-Denis,3.2,(2),38.0,48.0,10.0,Saint-Denis 1 rue des franciscéas BP 50136 97491 Saint-Denis,91.0,48.0,341.0,11.0,11.6
+Lycée polyvalent Roland Garros,Public,Polyvalent,Le Tampon,3.9,(13),37.0,56.0,14.0,Le Tampon Rue Roland Garros CS 11008 97831 Le Tampon,90.0,56.0,587.0,11.8,10.0
+Lycée polyvalent de Saint-Paul IV,Public,Polyvalent,Saint-Paul,3.5,(15),35.0,49.0,9.0,Saint-Paul 363 route de Savannah BP 20 97411 Saint-Paul,92.0,49.0,265.0,11.9,6.8
+Lycée polyvalent Stella,Public,Polyvalent,Saint-Leu,3.6,(13),24.0,62.0,9.0,Saint-Leu Chemin départemental 11 BP 17 97424 Saint-Leu,92.0,62.0,276.0,13.1,9.0
+Lycée polyvalent Paul Moreau,Public,Polyvalent,Bras-Panon,3.5,(5),34.0,50.0,10.0,Bras-Panon 51 chemin Bras Panon BP 67 97412 Bras-Panon,89.0,50.0,204.0,12.0,11.2
+Lycée polyvalent Antoine de Saint-Exupéry,Public,Polyvalent,Les Avirons,2.7,(12),33.0,63.0,7.0,Les Avirons 20 rue du lycée BP 28 97425 Les Avirons,90.0,63.0,323.0,12.6,9.2
+Lycée polyvalent Boisjoly Potier,Public,Polyvalent,Le Tampon,2.9,(13),31.0,49.0,11.0,Le Tampon 1 rue Ignaz Pleyel CS 91007 97839 Le Tampon,90.0,49.0,347.0,11.0,12.6
+Lycée polyvalent Moulin Joli,Public,Polyvalent,La Possession,2.9,(3),25.0,58.0,9.0,La Possession 60 rue Mahatma Gandhi 97419 La Possession,95.0,58.0,365.0,12.9,9.1
+Lycée polyvalent Georges Brassens,Public,Polyvalent,Saint-Denis,3.7,(4),23.0,58.0,9.0,Saint-Denis 16 avenue Georges Brassens BP 253 97493 Saint-Denis,90.0,58.0,291.0,13.2,12.7
+Lycée général et technologique Pierre Poivre,Public,Général,Saint-Joseph,2.0,(1),45.0,60.0,13.0,Saint-Joseph 35 rue Hippolyte Foucque BP 7 97480 Saint-Joseph,94.0,60.0,231.0,10.0,9.7
+Lycée Victor Louis,Public,Polyvalent,Talence,3.2,(23),66.0,54.0,10.0,Talence 2 avenue DE THOUARS 33405 Talence,86.0,54.0,513.0,9.4,4.4
+Lycée général et technologique Lislet Geoffroy,Public,Général,Saint-Denis,2.3,(3),46.0,52.0,15.0,"Saint-Denis 15 rue Christol de Sigoyer Cité scolaire du Butor, BP 50002 97491 Saint-Denis",94.0,52.0,256.0,8.5,7.9
+Lycée polyvalent Bel Air,Public,Polyvalent,Sainte-Suzanne,2.9,(5),41.0,54.0,11.0,Sainte-Suzanne 2 rue du lycée BP 43 97441 Sainte-Suzanne,88.0,54.0,184.0,11.3,9.4
+Lycée Václav Havel,Public,Polyvalent,Bègles,4.6,(3),54.0,63.0,10.0,Bègles 5 avenue Danielle Mitterrand BP 154 33130 Bègles,94.0,63.0,423.0,10.8,10.2
+Lycée les Iris,Public,Polyvalent,Lormont,3.3,(22),52.0,59.0,8.0,Lormont 13 rue Saint-Cricq BP 69 33305 Lormont,93.0,59.0,364.0,11.0,9.7
+Lycée polyvalent de la mer,Public,Polyvalent,Gujan-Mestras,3.1,(13),45.0,65.0,9.0,Gujan-Mestras Port de la Barbotière 33470 Gujan-Mestras,93.0,65.0,361.0,11.3,9.2
+Lycée polyvalent Marie Curie,Public,Polyvalent,Saint-Benoît,2.9,(19),43.0,48.0,9.0,Saint-Benoît 81 Rue Roger Dijoux BP 126 97437 Saint-Benoît,90.0,48.0,195.0,10.2,10.4
+Lycée Jaufré Rudel,Public,Général,Blaye,2.4,(17),34.0,49.0,11.0,Blaye 2 rue Urbain Chasseloup BP 70 33394 Blaye,91.0,49.0,294.0,12.0,7.5
+Lycée Kléber,Public,Général,Strasbourg,3.7,(17),38.0,64.0,10.0,Strasbourg 25 place de Bordeaux CS 40017 67082 Strasbourg,96.0,64.0,418.0,11.2,11.5
+Lycée Edouard Schuré,Public,Général,Barr,4.2,(6),32.0,72.0,8.0,Barr 2 rue du Lycée BP 50066 67142 Barr,98.0,72.0,131.0,12.7,4.0
+Lycée privé Notre-Dame,Privé,Général,Bordeaux,2.3,(12),28.0,43.0,8.0,Bordeaux 13 rue Castéja 33000 Bordeaux,97.0,43.0,39.0,11.6,12.6
+Lycée privé de la Sauque,Privé,Général,La Brède,3.9,(44),27.0,83.0,9.0,La Brède 2 avenue de la Sauque 33650 La Brède,99.0,83.0,197.0,10.9,12.7
+Lycée polyvalent Jean Baptiste Schwilgué,Public,Polyvalent,Sélestat,3.6,(10),34.0,54.0,9.0,Sélestat 8 avenue Adrien Zeller BP 70209 67604 Sélestat,89.0,54.0,309.0,12.1,8.1
+Lycée polyvalent Jean Monnet,Public,Polyvalent,Libourne,2.8,(11),29.0,49.0,9.0,Libourne 40 avenue Henri Brulle BP 249 33505 Libourne,88.0,49.0,198.0,9.8,12.5
+Lycée privé Saint-Joseph de Tivoli,Privé,Général,Bordeaux,3.5,(21),26.0,82.0,9.0,Bordeaux 40 avenue d'Eysines 33073 Bordeaux,99.0,82.0,243.0,12.3,12.7
+Lycée polyvalent Jean Rostand,Public,Polyvalent,Strasbourg,3.5,(27),29.0,57.0,6.0,Strasbourg 5 rue Edmond Labbé 67084 Strasbourg,89.0,57.0,551.0,12.1,13.0
+Lycée privé Notre Dame,Privé,Général,Strasbourg,3.8,(12),46.0,86.0,9.0,Strasbourg 6 rue des Bonnes Gens 67082 Strasbourg,99.0,86.0,169.0,10.1,10.8
+Lycée polyvalent Louis Couffignal,Public,Polyvalent,Strasbourg,2.8,(8),28.0,49.0,10.0,Strasbourg 11 route de la Fédération BP 70149 67025 Strasbourg,83.0,49.0,265.0,8.6,13.0
+Lycée polyvalent Marcel Rudloff,Public,Polyvalent,Strasbourg,3.2,(19),42.0,47.0,9.0,Strasbourg 21 avenue François Mitterrand Quartier des Poteries 67200 Strasbourg,84.0,47.0,378.0,11.0,9.3
+Lycée Marie Curie,Public,Général,Strasbourg,2.9,(20),24.0,51.0,11.0,Strasbourg 7 rue de Leicester 67083 Strasbourg,91.0,51.0,264.0,11.3,13.2
+Lycée polyvalent Gustave Eiffel,Public,Polyvalent,Bordeaux,3.5,(58),23.0,68.0,10.0,Bordeaux 143 cours de la Marne CS 31237 33074 Bordeaux cedex,97.0,68.0,639.0,12.9,13.0
+Lycée polyvalent Jean Moulin,Public,Polyvalent,Revin,3.5,(15),16.0,41.0,7.0,Revin 996 avenue de la Cité Scolaire BP 24 08501 Revin,81.0,41.0,122.0,8.6,9.0
+Lycée Marie Pila,Privé,Général,Carpentras,3.5,(25),17.0,89.0,9.0,Carpentras 105 rue Duplessis 84200 Carpentras,100.0,89.0,183.0,12.3,13.3
+Lycée Hippolyte Fontaine,Public,Polyvalent,Dijon,2.7,(17),20.0,46.0,12.0,Dijon 20 boulevard Voltaire BP 1512 21033 Dijon,85.0,46.0,312.0,8.2,11.1
+Lycée Jean-Henri Fabre,Public,Polyvalent,Carpentras,3.6,(8),16.0,60.0,12.0,Carpentras 387 avenue du Mont Ventoux BP 272 84208 Carpentras,95.0,60.0,315.0,13.4,11.8
+Lycée Condorcet,Public,Général,Lens,2.9,(10),21.0,48.0,8.0,Lens 25 rue Etienne Dolet BP 169 62303 Lens cedex,88.0,48.0,240.0,14.4,8.1
+Lycée privé Les Arcades,Privé,Polyvalent,Dijon,3.1,(28),17.0,46.0,9.0,Dijon 13 rue du Vieux Collège BP 61830 21018 Dijon cedex,92.0,46.0,337.0,8.6,11.8
+Lycée polyvalent Louis Pasteur,Public,Polyvalent,Hénin-Beaumont,3.7,(8),30.0,51.0,9.0,Hénin-Beaumont 800 rue Léon Blum BP 19 62251 Hénin-Beaumont cedex,87.0,51.0,276.0,13.4,8.3
+Lycée polyvalent de Mirepoix,Public,Polyvalent,Mirepoix,2.9,(8),3.0,55.0,12.0,Mirepoix Route DE LIMOUX 09500 Mirepoix,94.0,55.0,144.0,13.3,13.0
+Lycée Frédéric Mistral,Public,Général,Avignon,3.8,(15),21.0,62.0,15.0,Avignon 37 rue d'Annanelle 84000 Avignon,98.0,62.0,297.0,12.3,11.0
+Lycée privé La Malassise,Privé,Général,Longuenesse,3.8,(40),35.0,94.0,8.0,Longuenesse Pensionnat Saint Joseph BP 30089 62968 Longuenesse,100.0,94.0,192.0,13.2,10.4
+Lycée polyvalent Edouard Branly,Public,Polyvalent,Boulogne-sur-Mer,4.3,(5),31.0,61.0,10.0,Boulogne-sur-Mer 2 rue de la Porte Gayole BP 779 62321 Boulogne-sur-Mer,91.0,61.0,336.0,12.8,13.3
+Lycée Auguste Béhal,Public,Général,Lens,2.4,(11),41.0,40.0,8.0,Lens 6 rue Paul Eluard 62300 Lens,85.0,40.0,184.0,12.4,12.6
+Lycée polyvalent Carnot,Public,Polyvalent,Bruay-la-Buissière,3.9,(8),33.0,55.0,10.0,Bruay-la-Buissière 1 rue Sadi Carnot BP 50 62701 Bruay-la-Buissière cedex,91.0,55.0,442.0,13.2,10.2
+Lycée Albert Châtelet,Public,Général,Saint-Pol-sur-Ternoise,3.7,(10),56.0,60.0,11.0,Saint-Pol-sur-Ternoise 15 Rue Cassin BP 70050 62165 Saint-Pol-sur-Ternoise,97.0,60.0,285.0,8.2,11.1
+Lycée polyvalent Marguerite Yourcenar,Public,Polyvalent,Beuvry,3.9,(9),53.0,49.0,8.0,Beuvry 68 rue Antoine de Saint-Exupéry BP 35 62660 Beuvry,87.0,49.0,283.0,8.4,11.3
+Lycée polyvalent Eugène Woillez,Public,Polyvalent,Montreuil,3.7,(18),48.0,55.0,10.0,Montreuil 1 RUE PORTE BECQUERELLE 62170 Montreuil,92.0,55.0,410.0,12.1,7.3
+Lycée polyvalent d'Artois,Public,Polyvalent,Noeux-les-Mines,3.3,(5),47.0,47.0,9.0,Noeux-les-Mines rue Jules Mousseron BP 35 62290 Noeux-les-Mines,87.0,47.0,303.0,12.1,10.3
+Lycée polyvalent Léonard de Vinci,Public,Polyvalent,Calais,3.4,(7),24.0,57.0,12.0,Calais Rue du Pasteur Martin Luther King BP 701 62228 Calais,93.0,57.0,294.0,14.1,9.6
+Lycée Lucie Aubrac,Public,Général,Bollène,3.9,(11),22.0,62.0,10.0,Bollène 224 avenue Ernest Laffont 84500 Bollène,95.0,62.0,197.0,9.3,10.8
+Lycée polyvalent François Bazin,Public,Polyvalent,Charleville-Mézières,3.5,(4),11.0,51.0,15.0,Charleville-Mézières 145 avenue Charles de Gaulle 08013 Charleville-Mézières,88.0,51.0,161.0,9.8,12.2
+Lycée et campus Saint-Joseph,Privé,Polyvalent,Saint-Martin-Boulogne,4.1,(4),26.0,56.0,5.0,Saint-Martin-Boulogne 26 - 30 route de Calais 62280 Saint-Martin-Boulogne,97.0,56.0,230.0,13.8,13.5
+Lycée Fernand Darchicourt,Public,Général,Hénin-Beaumont,2.6,(20),23.0,49.0,13.0,Hénin-Beaumont 211 rue René Cassin BP 49 62251 Hénin-Beaumont cedex,89.0,49.0,502.0,14.1,9.7
+Lycée Fernand Daguin,Public,Général,Mérignac,2.8,(25),19.0,59.0,10.0,Mérignac 15 rue Gustave Flaubert CS 60265 33698 Mérignac cedex,93.0,59.0,565.0,11.8,13.4
+Lycée Élie Faure,Public,Général,Lormont,3.0,(27),17.0,44.0,10.0,Lormont 63 avenue de la Libération BP 90 33305 Lormont,90.0,44.0,311.0,13.6,10.1
+Lycée polyvalent Le Mans sud,Public,Polyvalent,Le Mans,2.9,(22),18.0,45.0,11.0,Le Mans 128 rue Henri Champion 72058 Le Mans,88.0,45.0,441.0,8.7,11.6
+Lycée Prieur de la Côte-d'Or,Public,Polyvalent,Auxonne,3.5,(8),14.0,54.0,10.0,Auxonne 6 rue Vauban 21130 Auxonne,94.0,54.0,205.0,12.4,12.6
+Lycée polyvalent Georges Braque - Lycée des métiers de l'intelligence économique et du management,Public,Polyvalent,Argenteuil,3.0,(15),19.0,43.0,7.0,Argenteuil 21 rue Victor Puiseux 95100 Argenteuil,86.0,43.0,420.0,14.7,12.5
+Ensemble Baudimont,Privé,Polyvalent,Arras,3.9,(20),16.0,75.0,12.0,Arras 32 rue Baudimont 62000 Arras,98.0,75.0,468.0,14.8,11.6
+Lycée Pape Clément,Public,Général,Pessac,3.4,(17),18.0,66.0,11.0,Pessac 1 rue Léo Lagrange BP 90 33605 Pessac cedex,95.0,66.0,479.0,13.6,12.5
+Lycée Charles de Gaulle,Public,Polyvalent,Apt,3.4,(18),12.0,57.0,9.0,Apt 104 place Charles de Gaulle BP 149 84405 Apt,92.0,57.0,214.0,13.9,13.2
+Lycée Victor Hugo,Public,Polyvalent,Carpentras,3.6,(14),10.0,59.0,12.0,Carpentras 139 avenue Victor Hugo BP 273 84208 Carpentras,93.0,59.0,441.0,14.6,12.3
+Lycée polyvalent Paul Verlaine,Public,Polyvalent,Rethel,3.8,(9),7.0,55.0,9.0,Rethel 19 Rue Normandie Niemen BP 5134 08305 Rethel,92.0,55.0,251.0,13.0,9.6
+Lycée polyvalent Jean Perrin,Public,Polyvalent,Saint-Ouen-l'Aumône,2.7,(13),21.0,53.0,5.0,Saint-Ouen-l'Aumône 2 rue des Egalisses 95310 Saint-Ouen-l'Aumône,86.0,53.0,264.0,14.5,8.8
+Lycée polyvalent Robert Garnier,Public,Polyvalent,La Ferté-Bernard,3.2,(12),17.0,51.0,9.0,La Ferté-Bernard Avenue du Général de Gaulle BP 110 72405 La Ferté-Bernard,86.0,51.0,350.0,11.8,9.5
+Lycée Parc de Vilgénis,Public,Polyvalent,Massy,3.4,(11),40.0,51.0,9.0,Massy 80 rue de Versailles BP 112 91300 Massy,87.0,51.0,515.0,12.2,9.2
+Lycée René Cassin,Public,Général,Arpajon,3.8,(22),37.0,65.0,11.0,Arpajon 17 rue Jean Moulin 91290 Arpajon,98.0,65.0,453.0,10.2,12.9
+Lycée Marie Laurencin,Public,Polyvalent,Mennecy,3.2,(14),34.0,58.0,9.0,Mennecy 51 rue Paul Cézanne BP 56 91542 Mennecy,93.0,58.0,408.0,13.0,13.0
+Lycée Camille Claudel,Public,Polyvalent,Vauréal,3.5,(33),39.0,60.0,11.0,Vauréal 4 avenue Federico Garcia Lorca 95490 Vauréal,93.0,60.0,360.0,10.8,12.9
+Lycée Val de Durance,Public,Polyvalent,Pertuis,3.5,(23),9.0,66.0,10.0,Pertuis Route de l'étang de la Bonde BP 95 84123 Pertuis,96.0,66.0,393.0,14.6,12.4
+Lycée Robert Doisneau,Public,Polyvalent,Corbeil-Essonnes,3.8,(13),33.0,52.0,14.0,Corbeil-Essonnes 89 avenue Serge Dassault 91813 Corbeil-Essonnes,86.0,52.0,727.0,13.1,9.4
+Lycée Jean Pierre Timbaud,Public,Polyvalent,Brétigny-sur-Orge,3.1,(17),32.0,43.0,8.0,Brétigny-sur-Orge 4 rue Henri Douard 91220 Brétigny-sur-Orge,85.0,43.0,501.0,13.3,4.6
+Lycée Monge,Public,Général,Charleville-Mézières,2.6,(8),6.0,40.0,15.0,Charleville-Mézières 2 avenue DE SAINT JULIEN 08000 Charleville-Mézières,77.0,40.0,141.0,11.8,13.9
+Lycée polyvalent Henri Poincaré,Public,Polyvalent,Palaiseau,2.9,(11),28.0,57.0,6.0,Palaiseau 36 rue Léon Bourgeois BP 59 91120 Palaiseau,92.0,57.0,265.0,13.7,12.8
+Lycée Evariste Galois,Public,Polyvalent,Beaumont-sur-Oise,3.1,(11),43.0,49.0,8.0,Beaumont-sur-Oise 14 boulevard Léon Blum 95260 Beaumont-sur-Oise,87.0,49.0,370.0,12.0,9.6
+Lycée Gaspard Monge,Public,Polyvalent,Savigny-sur-Orge,3.1,(13),35.0,49.0,7.0,Savigny-sur-Orge 1 place Monge 91600 Savigny-sur-Orge,84.0,49.0,358.0,13.0,12.1
+Lycée Fernand et Nadia Léger,Public,Polyvalent,Argenteuil,3.1,(9),50.0,38.0,6.0,Argenteuil 7 allée Fernand Léger 95100 Argenteuil,73.0,38.0,274.0,6.6,10.6
+"Lycée polyvalent Gustave Monod, Lycée des métiers de l'ingénierie industrielle",Public,Polyvalent,Enghien-les-Bains,3.5,(14),48.0,45.0,10.0,Enghien-les-Bains 71 avenue de Ceinture 95880 Enghien-les-Bains,84.0,45.0,584.0,10.8,6.6
+Lycée privé Sainte-Ursule,Privé,Général,Tours,3.5,(22),21.0,84.0,10.0,Tours 26 rue Emile Zola BP 907 37009 Tours,100.0,84.0,265.0,11.5,11.2
+Lycée Saint-Rémy,Privé,Général,Soissons,3.3,(13),34.0,76.0,10.0,Soissons 8 rue Saint-Jean CS 90151 02207 Soissons,98.0,76.0,150.0,8.2,10.0
+Lycée Ribeaupierre,Public,Général,Ribeauvillé,4.5,(12),31.0,78.0,9.0,Ribeauvillé 12 rue du Château 68150 Ribeauvillé,99.0,78.0,176.0,10.8,10.1
+Lycée Alfred Kastler,Public,Général,Guebwiller,3.7,(9),23.0,72.0,11.0,Guebwiller 5 rue du Luspel BP 40065 68502 Guebwiller,98.0,72.0,232.0,11.5,12.5
+Lycée Paul Emile Victor,Public,Polyvalent,Osny,2.9,(26),38.0,54.0,7.0,Osny 116 rue de Livilliers 95520 Osny,89.0,54.0,176.0,12.9,12.6
+Lycée La Salle-Saint Rosaire,Privé,Général,Sarcelles,2.7,(25),37.0,76.0,9.0,Sarcelles 53 rue Pierre Brossolette 95200 Sarcelles,98.0,76.0,184.0,13.0,9.2
+Lycée Jeanne d'Arc,Privé,Général,Brétigny-sur-Orge,3.2,(2),29.0,73.0,6.0,Brétigny-sur-Orge 31 rue Alfred Leblanc 91220 Brétigny-sur-Orge,100.0,73.0,63.0,10.9,13.5
+Lycée Marguerite Yourcenar,Public,Polyvalent,Morangis,3.8,(13),27.0,49.0,7.0,Morangis 62 rue des Edouets BP 86 91423 Morangis,82.0,49.0,269.0,13.7,9.4
+Lycée Jean Jaurès,Public,Polyvalent,Argenteuil,3.2,(25),35.0,34.0,8.0,Argenteuil 25 rue Charles Lecocq 95100 Argenteuil,80.0,34.0,348.0,12.2,13.3
+Lycée polyvalent Saint Léon,Privé,Polyvalent,Corbeil-Essonnes,3.2,(35),24.0,72.0,8.0,Corbeil-Essonnes 8 quai de l'Essonne 91100 Corbeil-Essonnes,99.0,72.0,262.0,14.2,14.0
+Lycée Louis Jouvet,Public,Polyvalent,Taverny,2.5,(25),32.0,46.0,10.0,Taverny 26 rue de Saint-Prix 95150 Taverny,85.0,46.0,492.0,8.4,13.8
+Lycée Edmond Rostand,Public,Polyvalent,Saint-Ouen-l'Aumône,2.8,(11),29.0,43.0,7.0,Saint-Ouen-l'Aumône 75 rue de Paris 95310 Saint-Ouen-l'Aumône,89.0,43.0,358.0,11.4,14.0
+Lycée Charles Baudelaire,Public,Polyvalent,Fosses,3.2,(16),30.0,51.0,8.0,Fosses 13 rue du Grand Tremblay BP 37 95470 Fosses,89.0,51.0,321.0,14.0,13.7
+Lycée Camille Pissarro,Public,Polyvalent,Pontoise,3.6,(16),28.0,52.0,8.0,Pontoise 1 rue Henri Matisse 95300 Pontoise,90.0,52.0,535.0,12.1,14.1
+Lycée polyvalent Jules Verne,Public,Polyvalent,Château-Thierry,3.0,(19),25.0,57.0,8.0,Château-Thierry 23 rue des Chesneaux BP 178 02405 Château-Thierry,87.0,57.0,179.0,11.9,10.0
+Lycée de l'Hautil,Public,Polyvalent,Jouy-le-Moutier,2.5,(24),26.0,51.0,10.0,Jouy-le-Moutier 1 rue Gabriel Fauré 95280 Jouy-le-Moutier,87.0,51.0,267.0,14.2,12.7
+Lycée Louis Armand,Public,Polyvalent,Eaubonne,3.8,(13),25.0,63.0,9.0,Eaubonne 32 rue Stéphane Proust 95600 Eaubonne,94.0,63.0,348.0,14.3,13.8
+Lycée polyvalent privé Notre Dame de La Compassion,Privé,Polyvalent,Pontoise,3.4,(40),23.0,83.0,8.0,Pontoise 8 place Nicolas-Flamel 95000 Pontoise,99.0,83.0,248.0,14.4,14.0
+Lycée Simone de Beauvoir,Public,Général,Garges-lès-Gonesse,2.6,(18),22.0,47.0,10.0,Garges-lès-Gonesse 171 avenue de Stalingrad BP 215 95140 Garges-lès-Gonesse,88.0,47.0,377.0,12.1,14.4
+Lycée Désiré Nisard,Public,Polyvalent,Châtillon-sur-Seine,3.4,(12),11.0,50.0,9.0,Châtillon-sur-Seine 19 rue de Seine BP 61 21402 Châtillon-sur-Seine,97.0,50.0,102.0,13.2,10.4
+Lycée Nikola Tesla,Public,Polyvalent,Dourdan,3.3,(4),23.0,60.0,9.0,Dourdan 15-21 Chemin du Champ de Courses 91410 Dourdan,91.0,60.0,626.0,14.2,11.1
+Lycée Heinrich Nessel,Public,Polyvalent,Haguenau,3.3,(11),16.0,59.0,9.0,Haguenau 123 route de Strasbourg BP 50235 67504 Haguenau,89.0,59.0,314.0,14.0,8.6
+Lycée polyvalent René Cassin,Public,Polyvalent,Strasbourg,2.5,(1),15.0,41.0,6.0,Strasbourg 4 rue Schoch BP 67 67046 Strasbourg,77.0,41.0,236.0,14.0,7.6
+Lycée de la Tourelle,Public,Polyvalent,Sarcelles,3.2,(20),33.0,34.0,8.0,Sarcelles 8 rue Fernand Léger 95200 Sarcelles,79.0,34.0,410.0,13.5,12.8
+Lycée polyvalent Le Corbusier,Public,Polyvalent,Illkirch-Graffenstaden,3.4,(13),14.0,53.0,8.0,Illkirch-Graffenstaden 15 rue Lixenbuhl BP 10133 67404 Illkirch-Graffenstaden,86.0,53.0,268.0,14.2,7.2
+Lycée polyvalent Raphaël Elizé,Public,Polyvalent,Sablé-sur-Sarthe,3.9,(7),13.0,55.0,11.0,Sablé-sur-Sarthe 26 rue Saint-Denis BP 149 72305 Sablé-sur-Sarthe,91.0,55.0,304.0,11.5,12.1
+Lycée Jules Verne,Public,Polyvalent,Cergy,3.4,(22),24.0,57.0,9.0,Cergy 1 rue Michel Strogoff 95800 Cergy,91.0,57.0,356.0,14.3,7.0
+Lycée privé Saint-Coeur,Privé,Général,Beaune,3.4,(14),9.0,82.0,6.0,Beaune 3 rue du Faubourg Saint-Nicolas 21201 Beaune,99.0,82.0,69.0,11.5,14.1
+Lycée Louis Davier,Public,Polyvalent,Joigny,3.2,(18),14.0,41.0,11.0,Joigny Avenue Molière BP 247 89306 Joigny,84.0,41.0,432.0,10.4,7.1
+Lycée George Sand,Public,Polyvalent,Domont,2.9,(28),18.0,54.0,9.0,Domont Avenue du Lycée BP 22 95330 Domont,90.0,54.0,479.0,11.0,14.8
+Lycée Camille Saint-Saëns,Public,Général,Deuil-la-Barre,3.4,(22),15.0,47.0,8.0,Deuil-la-Barre 18 à 22 rue Guynemer BP 92 95170 Deuil-la-Barre,86.0,47.0,419.0,12.5,15.3
+Lycée Alfred Kastler,Public,Polyvalent,Talence,3.2,(10),15.0,49.0,10.0,Talence 14 avenue de l'Université BP 73 33402 Talence,92.0,49.0,314.0,7.0,13.8
+Lycée polyvalent Amélie Zurcher,Public,Polyvalent,Wittelsheim,3.9,(5),16.0,55.0,7.0,Wittelsheim 30 rue Jean Mermoz BP 4 68310 Wittelsheim,88.0,55.0,184.0,11.2,13.9
+Lycée René Cassin,Public,Général,Montfort-sur-Meu,3.4,(23),20.0,67.0,8.0,Montfort-sur-Meu 2 les batailles BP 86228 35162 Montfort-sur-Meu,97.0,67.0,321.0,14.4,11.4
+Lycée polyvalent Jean de La Fontaine,Public,Polyvalent,Château-Thierry,2.9,(17),19.0,51.0,10.0,Château-Thierry 2 rue de Mosbach BP 70159 02404 Château-Thierry,86.0,51.0,380.0,13.6,6.2
+Lycée polyvalent Saint-Charles-Sainte-Croix,Privé,Polyvalent,Le Mans,4.5,(3),14.0,51.0,11.0,Le Mans 25 rue Antoine de Saint Exupéry 72000 Le Mans,93.0,51.0,292.0,11.8,8.5
+Lycée polyvalent Vauban,Public,Polyvalent,Aire-sur-la-Lys,3.1,(20),15.0,72.0,10.0,Aire-sur-la-Lys 1 rue de Bretagne 62120 Aire-sur-la-Lys,96.0,72.0,296.0,14.9,12.2
+Lycée polyvalent Théodore Deck,Public,Polyvalent,Guebwiller,4.3,(6),19.0,62.0,10.0,Guebwiller 5 rue des Chanoines BP 190 68504 Guebwiller,93.0,62.0,278.0,11.9,13.5
+Lycée polyvalent La Salle,Privé,Polyvalent,Avignon,3.6,(9),5.0,58.0,4.0,Avignon 9 rue Notre-Dame des 7 Douleurs BP 165 84008 Avignon,96.0,58.0,128.0,11.9,15.8
+Lycée polyvalent René Char,Public,Polyvalent,Avignon,3.1,(17),7.0,60.0,9.0,Avignon 2 rue Pierre Auguste Renoir BP 696 84033 Avignon,93.0,60.0,371.0,14.0,15.0
+Lycée polyvalent Saint Paul,Privé,Polyvalent,Charleville-Mézières,2.3,(9),5.0,70.0,10.0,Charleville-Mézières 6 place Winston Churchill 08000 Charleville-Mézières,99.0,70.0,170.0,13.7,14.9
+Lycée polyvalent Masaryk,Public,Général,Vouziers,3.2,(14),4.0,59.0,9.0,Vouziers 35 rue Bournizet BP 52 08400 Vouziers,94.0,59.0,75.0,14.9,12.3
+Lycée privé Saint-Bénigne,Privé,Polyvalent,Dijon,3.1,(12),8.0,59.0,8.0,Dijon 99 rue de Talant 21000 Dijon,97.0,59.0,259.0,14.3,11.6
+Lycée Saint-Magloire,Privé,Général,Dol-de-Bretagne,3.9,(10),25.0,64.0,9.0,Dol-de-Bretagne 2 rue du Chanoine Boursier BP 70 35120 Dol-de-Bretagne,100.0,64.0,107.0,12.5,13.6
+Lycée polyvalent Pierre Méchain,Public,Polyvalent,Laon,3.2,(27),18.0,60.0,7.0,Laon 19 rue Léo Lagrange 02011 Laon,89.0,60.0,294.0,13.7,9.9
+Lycée et section d'enseignement professionnel Frédéric Ozanam,Privé,Polyvalent,Cesson-Sévigné,3.0,(12),33.0,67.0,8.0,Cesson-Sévigné 99 rue de la Chalotais CS 97704 35577 Cesson-Sévigné,98.0,67.0,351.0,13.0,12.8
+Lycée privé Saint Rémi,Privé,Général,Roubaix,2.5,(34),26.0,58.0,13.0,Roubaix 10 rue NOTRE DAME DES VICTOIRES 59100 Roubaix,96.0,58.0,416.0,14.3,15.7
+Lycée Dupleix,Public,Général,Landrecies,2.9,(10),24.0,54.0,8.0,Landrecies 10 boulevard des Résistants BP 69 59550 Landrecies,91.0,54.0,126.0,13.8,16.1
+Lycée de l'Europe,Public,Général,Dunkerque,4.7,(5),23.0,52.0,11.0,Dunkerque 809 rue du Banc Vert BP 58 59640 Dunkerque,94.0,52.0,274.0,16.1,13.1
+Lycée Clos Maire,Public,Polyvalent,Beaune,4.6,(31),7.0,63.0,10.0,Beaune 4 rue des Rôles BP 229 21200 Beaune,95.0,63.0,262.0,14.4,8.1
+Lycée privé St Joseph Pierre Rouge,Privé,Polyvalent,Montferrier-sur-Lez,3.3,(11),31.0,65.0,7.0,Montferrier-sur-Lez 600 avenue du campus Agropolis Baillarguet 34980 Montferrier-sur-Lez,96.0,65.0,111.0,12.1,12.3
+Lycée Jean Mermoz (voie générale et technologique),Public,Polyvalent,Montpellier,3.4,(19),30.0,52.0,10.0,Montpellier 717 avenue Jean Mermoz CS 29007 34060 Montpellier,90.0,52.0,629.0,12.3,5.5
+Lycée polyvalent Jean Moulin,Public,Polyvalent,Roubaix,4.6,(9),38.0,35.0,5.0,Roubaix 49 boulevard du Général de Gaulle BP 19 59051 Roubaix,73.0,35.0,325.0,7.6,15.3
+Campus Ozanam,Privé,Général,Lille,2.2,(15),35.0,62.0,9.0,Lille 238 rue du faubourg de Roubaix 59000 Lille,99.0,62.0,229.0,15.3,12.9
+Lycée Marc Bloch (voie générale et technologique),Public,Polyvalent,Sérignan,3.2,(9),32.0,52.0,11.0,Sérignan Avenue Georges Frêche 34410 Sérignan,89.0,52.0,427.0,12.2,9.4
+Lycée Joseph Vallot (voie générale et technologique),Public,Polyvalent,Lodève,3.5,(17),29.0,63.0,10.0,Lodève RUE DU DOCTEUR HENRI MAS 34700 Lodève,91.0,63.0,260.0,12.3,11.4
+Lycée René Gosse,Public,Général,Clermont-l'Hérault,3.0,(9),37.0,64.0,10.0,Clermont-l'Hérault 2 rue Victor Hugo BP 96 34800 Clermont-l'Hérault,96.0,64.0,195.0,11.1,6.8
+Lycée Emile Zola,Public,Général,Rennes,3.0,(31),41.0,83.0,8.0,Rennes 2 avenue Janvier CS 54444 35044 Rennes,99.0,83.0,321.0,10.8,11.8
+Lycée polyvalent Jacques Cartier,Public,Polyvalent,Saint-Malo,3.3,(18),48.0,50.0,10.0,Saint-Malo 31 rue de la Balue CS 51811 35418 Saint-Malo,90.0,50.0,398.0,9.5,6.2
+Ensemble scolaire privé La Salle,Privé,Polyvalent,Lille,3.7,(7),40.0,62.0,14.0,Lille 2 rue Jean Levasseur 59000 Lille,99.0,62.0,311.0,11.6,15.0
+Lycée Irène et Frédéric Joliot-Curie,Public,Polyvalent,Sète,3.1,(14),28.0,53.0,10.0,Sète 105 rue du Dauphiné 34200 Sète,90.0,53.0,468.0,12.4,11.2
+Lycée Georges Clemenceau,Public,Général,Montpellier,3.4,(17),27.0,59.0,10.0,Montpellier 31 avenue GEORGES CLEMENCEAU 34060 Montpellier,90.0,59.0,306.0,12.4,6.0
+Lycée Jean Moulin (voie générale et technologique),Public,Polyvalent,Béziers,3.0,(29),22.0,54.0,12.0,Béziers Avenue des Martyrs de la Résistance BP 745 34521 Béziers,89.0,54.0,647.0,13.4,11.1
+Lycée Yves Kernanec,Public,Général,Marcq-en-Baroeul,3.8,(16),31.0,71.0,9.0,Marcq-en-Baroeul 91 avenue du Docteur Calmette BP 92029 59702 Marcq-en-Baroeul,93.0,71.0,221.0,14.3,15.5
+Lycée Victor Hugo (voie générale et technologique),Public,Polyvalent,Lunel,3.2,(27),21.0,65.0,8.0,Lunel 300 avenue Louis Médard BP 80203 34401 Lunel,93.0,65.0,348.0,13.6,8.1
+Lycée J-M de la Mennais - annexe Assomption,Privé,Général,Retiers,3.7,(17),44.0,85.0,10.0,Retiers 20 square Charles de Gaulle 35240 Retiers,99.0,85.0,335.0,11.2,10.5
+Lycée Jean-Paul II,Privé,Général,Saint-Grégoire,3.6,(28),40.0,90.0,8.0,Saint-Grégoire 2 rue Antoine de St Exupéry BP 96214 35762 Saint-Grégoire,100.0,90.0,229.0,12.0,8.3
+Lycée d'excellence Edgar Morin,Public,Général,Douai,3.1,(17),21.0,32.0,8.0,Douai 264 rue d'Arras 59500 Douai,86.0,32.0,37.0,10.5,16.2
+Lycée Saint-Martin - quartier Sainte-Geneviève,Privé,Général,Rennes,3.7,(14),35.0,73.0,9.0,Rennes 14 D rue Ginguené CS 44434 35044 Rennes,96.0,73.0,107.0,13.0,11.3
+Lycée les Rimains,Privé,Général,Saint-Malo,3.9,(6),28.0,75.0,5.0,Saint-Malo Esplanade de la gare BP 60939 35409 Saint-Malo,99.0,75.0,75.0,13.4,10.7
+Lycée Champollion (voie générale et technologique),Public,Polyvalent,Lattes,2.7,(27),34.0,60.0,10.0,Lattes Avenue de Figuières CS 31012 34973 Lattes,92.0,60.0,497.0,11.6,12.1
+Lycée privé Notre-Dame de la Paix,Privé,Général,Lille,2.8,(24),41.0,69.0,11.0,Lille 14 place du Concert BP 167 59009 Lille cedex,99.0,69.0,131.0,15.0,14.7
+Lycée privé Saint Joseph La Salle,Privé,Polyvalent,Dijon,3.5,(16),6.0,71.0,9.0,Dijon 39 rue du Transvaal BP 51090 21010 Dijon cedex,96.0,71.0,311.0,14.4,9.7
+Lycée Valentine Labbé,Public,Polyvalent,La Madeleine,3.8,(8),60.0,54.0,7.0,La Madeleine 41 rue Paul Doumer BP 226 59563 La Madeleine,89.0,54.0,387.0,12.8,14.3
+Lycée polyvalent Jessé de Forest,Public,Polyvalent,Avesnes-sur-Helpe,3.2,(11),58.0,62.0,10.0,Avesnes-sur-Helpe 15 avenue du Pont Rouge BP 215 59363 Avesnes-sur-Helpe,92.0,62.0,209.0,14.4,11.3
+Lycée polyvalent Gustave Eiffel,Public,Polyvalent,Armentières,3.9,(9),57.0,72.0,7.0,Armentières 96 rue Jules Lebleu BP 111 59427 Armentières cedex,94.0,72.0,321.0,14.1,14.4
+Lycée polyvalent Jean Favard,Public,Polyvalent,Guéret,3.9,(4),7.0,49.0,6.0,Guéret 27 route DE COURTILLE 23000 Guéret,85.0,49.0,236.0,8.4,8.6
+Lycée Sainte-Thérèse,Privé,Général,Avesnes-sur-Helpe,3.6,(5),56.0,74.0,7.0,Avesnes-sur-Helpe 4 place Guillemin BP 53 59362 Avesnes-sur-Helpe,100.0,74.0,28.0,14.5,14.0
+Lycée Jean Prouvé,Public,Général,Lille,3.5,(5),51.0,68.0,5.0,Lille 2 rue de Lompret BP 30327 59463 Lille,97.0,68.0,74.0,14.7,13.0
+Lycée polyvalent Colbert,Public,Polyvalent,Tourcoing,4.3,(3),53.0,48.0,5.0,Tourcoing 2 parvis Jean-Baptiste Colbert BP 50620 59208 Tourcoing,89.0,48.0,230.0,13.0,14.6
+Lycée Maxence Van Der Meersch,Public,Général,Roubaix,4.6,(4),52.0,49.0,9.0,Roubaix 1 avenue Maxence Van Der Meersch BP 97 59052 Roubaix,86.0,49.0,163.0,12.5,14.7
+Lycée polyvalent Charlotte Perriand,Public,Polyvalent,Genech,3.0,(7),50.0,74.0,11.0,Genech Chateau du Bois 59242 Genech,98.0,74.0,391.0,14.7,9.4
+Marcq Institution (Lycée),Privé,Général,Marcq-en-Baroeul,4.1,(85),49.0,95.0,7.0,Marcq-en-Baroeul 170 rue du Collège 59700 Marcq-en-Baroeul,100.0,95.0,290.0,14.3,14.8
+Lycée des Nerviens,Public,Général,Bavay,4.4,(7),46.0,69.0,9.0,Bavay Place Charles de Gaulle BP 94049 59570 Bavay,94.0,69.0,102.0,14.9,7.7
+Lycée international Montebello,Public,Général,Lille,4.0,(35),47.0,66.0,10.0,Lille 196 boulevard Montebello BP 80 59006 Lille,95.0,66.0,437.0,14.0,14.8
+Ecole active bilingue Jeannine Manuel (lycée),Privé,Général,Marcq-en-Baroeul,4.2,(1),63.0,98.0,7.0,Marcq-en-Baroeul 418 bis rue ALBERT BAILLY 59700 Marcq-en-Baroeul,100.0,98.0,73.0,13.5,14.2
+Lycée polyvalent Camille Claudel,Public,Polyvalent,Fourmies,2.8,(1),70.0,46.0,11.0,Fourmies Cité scolaire - 1 rue Paul Lafargue BP 70082 59613 Fourmies,86.0,46.0,178.0,13.8,9.7
+Lycée privé Saint-Michel,Privé,Général,Solesmes,3.8,(7),79.0,75.0,9.0,Solesmes 13 rue Emile Zola 59730 Solesmes,97.0,75.0,73.0,11.9,13.3
+EIC-Lycée polyvalent privé industriel et commercial,Privé,Polyvalent,Tourcoing,2.7,(10),59.0,61.0,13.0,Tourcoing 27 rue du Dragon CS 90279 59200 Tourcoing,93.0,61.0,598.0,14.4,11.4
+Lycée privé Averroès,Privé,Général,Lille,4.8,(13),67.0,73.0,7.0,Lille 65 rue de la Prévoyance 59000 Lille,98.0,73.0,150.0,12.3,14.0
+Lycée privé Saint-Jean,Privé,Général,Douai,3.8,(10),62.0,86.0,9.0,Douai 246 rue Saint Jean BP 70639 59500 Douai,100.0,86.0,148.0,14.2,13.5
+Lycée Arthur Rimbaud,Public,Général,Sin-le-Noble,3.4,(21),93.0,55.0,12.0,Sin-le-Noble 1075 rue Paul Foucaut 59450 Sin-le-Noble,94.0,55.0,371.0,12.6,12.0
+Lycée polyvalent Val de Lys,Public,Polyvalent,Estaires,3.0,(2),90.0,62.0,7.0,Estaires Rue Jacqueminemars BP 43 59940 Estaires,94.0,62.0,178.0,12.8,11.9
+Lycée Baggio,Public,Général,Lille,3.3,(15),76.0,37.0,10.0,Lille 332 boulevard d'Alsace 59000 Lille,84.0,37.0,161.0,13.4,13.5
+Lycée privé Notre-Dame de la Providence,Privé,Polyvalent,Orchies,3.6,(14),109.0,69.0,7.0,Orchies Rue des Glycines BP 59 59310 Orchies,95.0,69.0,139.0,10.3,11.5
+Lycée Faidherbe,Public,Général,Lille,3.1,(9),73.0,69.0,11.0,Lille 9 rue Armand Carrel BP 767 59034 Lille cedex,94.0,69.0,350.0,13.8,4.2
+Lycée polyvalent Beaupré,Public,Polyvalent,Haubourdin,3.7,(9),100.0,56.0,11.0,Haubourdin 8 Avenue de Beaupre BP 70079 59481 Haubourdin,89.0,56.0,451.0,11.9,9.4
+Lycée privé Saint-Vincent de Paul,Privé,Polyvalent,Loos,2.8,(21),106.0,50.0,11.0,Loos 6 rue du Maréchal Joffre 59120 Loos,89.0,50.0,240.0,7.3,11.7
+Institution Sainte Jeanne d'Arc,Privé,Polyvalent,Aulnoye-Aymeries,2.2,(4),96.0,56.0,7.0,Aulnoye-Aymeries 157 rue de l'Hôtel de Ville BP 20069 59620 Aulnoye-Aymeries,88.0,56.0,106.0,7.7,12.4
+Lycée polyvalent André Lurçat,Public,Polyvalent,Maubeuge,3.1,(8),124.0,31.0,6.0,Maubeuge 113 rue d'Hautmont BP 30107 59602 Maubeuge,77.0,31.0,292.0,9.7,10.5
+Lycée polyvalent Emile Zola,Public,Polyvalent,Wattrelos,3.3,(13),136.0,29.0,10.0,Wattrelos 174 rue de la Baillerie BP 139 59391 Wattrelos,71.0,29.0,190.0,5.2,9.4
+Lycée Henri Wallon,Public,Général,Valenciennes,2.7,(7),111.0,57.0,10.0,Valenciennes 16 place de la République BP 435 59322 Valenciennes cedex,87.0,57.0,344.0,9.5,11.4
+Lycée privé Epid,Privé,Général,Dunkerque,2.8,(3),110.0,65.0,5.0,Dunkerque 20 rue DE LILLE 59140 Dunkerque,99.0,65.0,79.0,11.4,9.7
+Lycée privé Saint-Adrien,Privé,Général,Villeneuve-d'Ascq,3.6,(22),121.0,88.0,10.0,Villeneuve-d'Ascq 15 rue St JB de la Salle BP 167 59653 Villeneuve-d'Ascq,100.0,88.0,274.0,10.6,8.6
+Lycée polyvalent Ernest Couteaux,Public,Polyvalent,Saint-Amand-les-Eaux,3.3,(8),130.0,54.0,10.0,Saint-Amand-les-Eaux 37 avenue du Collège BP 229 59734 Saint-Amand-les-Eaux,88.0,54.0,296.0,10.2,9.2
+Lycée polyvalent Camille Desmoulins,Public,Polyvalent,Le Cateau-Cambrésis,3.0,(5),123.0,38.0,9.0,Le Cateau-Cambrésis 47 rue de la République BP 30025 59360 Le Cateau-Cambrésis,74.0,38.0,127.0,10.6,3.4
+Lycée du Noordover,Public,Général,Grande-Synthe,3.8,(8),86.0,51.0,11.0,Grande-Synthe 26 avenue de Suwalki BP 50189 59792 Grande-Synthe,93.0,51.0,256.0,13.0,8.7
+Lycée polyvalent Marguerite Yourcenar,Public,Polyvalent,Erstein,4.1,(21),10.0,70.0,8.0,Erstein 12 rue Victor Schoelcher BP 80050 67152 Erstein,97.0,70.0,297.0,14.7,10.8
+Lycée polyvalent Gabriel Touchard - Washington,Public,Polyvalent,Le Mans,3.7,(18),12.0,56.0,9.0,Le Mans 8 place Washington BP 22160 72002 Le Mans,91.0,56.0,565.0,12.2,11.9
+Lycée polyvalent de Perseigne,Public,Polyvalent,Mamers,3.9,(4),11.0,51.0,8.0,Mamers Rue Jean Jaurès BP 89 72600 Mamers,90.0,51.0,127.0,12.9,9.3
+Lycée Jean-Joseph Fourier,Public,Polyvalent,Auxerre,3.2,(11),13.0,39.0,10.0,Auxerre 16 rue Raymond Poincaré BP 26 89010 Auxerre,85.0,39.0,339.0,10.8,7.7
+Lycée Saint-Martin de France,Privé,Général,Pontoise,3.6,(23),12.0,56.0,8.0,Pontoise 1 avenue de Verdun CS 70025 95301 Pontoise,97.0,56.0,142.0,15.8,12.4
+Lycée de Bezons,Public,Polyvalent,Bezons,2.8,(4),11.0,48.0,7.0,Bezons 5-7 rue Marcel Langlois BP 125 95870 Bezons,85.0,48.0,199.0,12.6,15.8
+Lycée Fénelon,Public,Général,Lille,3.4,(21),89.0,66.0,11.0,Lille 27 rue Alexandre Leleux BP 2028 59013 Lille,94.0,66.0,213.0,12.9,12.0
+Lycée Anita Conti,Public,Général,Bruz,3.5,(18),18.0,61.0,8.0,Bruz Esplanade Anita Conti BP 67402 35174 Bruz,99.0,61.0,296.0,12.1,14.7
+Lycée Henri Martin,Public,Général,Saint-Quentin,3.0,(1),17.0,54.0,12.0,Saint-Quentin 1 rue Gabriel Girodon 02100 Saint-Quentin,90.0,54.0,259.0,13.7,13.1
+Lycée Jean Bart,Public,Général,Dunkerque,3.9,(10),19.0,62.0,11.0,Dunkerque 1 rue du Nouvel Arsenal BP 4522 59383 Dunkerque,95.0,62.0,434.0,12.8,16.3
+Lycée polyvalent Benjamin Franklin,Public,Polyvalent,Orléans,3.1,(11),19.0,43.0,11.0,Orléans 21 bis rue Eugène Vignat BP 72049 45010 Orléans,86.0,43.0,469.0,10.1,11.1
+Lycée Jean Jaurès (voie générale et technologique),Public,Polyvalent,Saint-Clément-de-Rivière,3.2,(21),19.0,72.0,8.0,Saint-Clément-de-Rivière 480 avenue St Sauveur du Pin 34980 Saint-Clément-de-Rivière,95.0,72.0,511.0,13.8,13.4
+Lycée Clément Ader,Public,Polyvalent,Athis-Mons,3.5,(19),16.0,41.0,6.0,Athis-Mons 37 bis rue Geneviève Anthonioz de Gaulle 91200 Athis-Mons,89.0,41.0,238.0,12.5,15.2
+Lycée Léonard de Vinci,Public,Polyvalent,Saint-Michel-sur-Orge,3.1,(10),15.0,58.0,8.0,Saint-Michel-sur-Orge Place Léonard de Vinci BP 169 91240 Saint-Michel-sur-Orge,90.0,58.0,335.0,15.3,12.2
+Lycée privé Notre-Dame de Grâce,Privé,Général,Maubeuge,3.4,(8),20.0,71.0,9.0,Maubeuge 13 rue de la Croix BP 50127 59602 Maubeuge,98.0,71.0,101.0,16.2,15.8
+Lycée Étienne-Jules Marey,Public,Polyvalent,Beaune,3.3,(18),5.0,61.0,9.0,Beaune 5 rue du 16e Chasseur BP 225 21206 Beaune,92.0,61.0,294.0,11.6,14.7
+Lycée Anna Judic,Public,Polyvalent,Semur-en-Auxois,3.5,(10),4.0,55.0,8.0,Semur-en-Auxois 37 rue de la Liberté 21140 Semur-en-Auxois,95.0,55.0,177.0,12.9,14.8
+Lycée Voltaire,Public,Général,Orléans,3.5,(11),23.0,59.0,13.0,Orléans 3 avenue Voltaire 45072 Orléans,91.0,59.0,454.0,8.2,10.4
+Lycée Le Castel,Public,Polyvalent,Dijon,3.2,(21),3.0,64.0,10.0,Dijon 22 rue Daubenton 21000 Dijon,92.0,64.0,409.0,14.9,14.3
+Lycée Pierre Bourdan,Public,Général,Guéret,3.4,(5),2.0,57.0,8.0,Guéret place Molière BP 19 23011 Guéret cedex,91.0,57.0,235.0,14.4,9.7
+Lycée Élisée Reclus,Public,Général,Sainte-Foy-la-Grande,4.0,(6),11.0,62.0,9.0,Sainte-Foy-la-Grande 7 avenue de Verdun BP 69 33220 Sainte-Foy-la-Grande,93.0,62.0,157.0,12.5,14.4
+Lycée Jules Renard,Public,Général,Nevers,3.6,(17),5.0,58.0,11.0,Nevers 11 boulevard Saint-Exupéry BP 249 58002 Nevers,96.0,58.0,248.0,13.1,9.5
+Lycée Eugène Jamot,Public,Général,Aubusson,3.4,(7),3.0,58.0,8.0,Aubusson 1 rue WILLIAMS DUMAZET 23200 Aubusson,95.0,58.0,92.0,14.3,11.6
+Lycée polyvalent du Haut-Barr,Public,Polyvalent,Saverne,3.9,(11),7.0,72.0,10.0,Saverne 4 rue Jean de Manderscheid BP 50108 67703 Saverne,97.0,72.0,200.0,14.7,15.0
+Lycée Raymond Loewy,Public,Général,La Souterraine,4.3,(1),4.0,58.0,8.0,La Souterraine place de Filderstadt BP 26 23300 La Souterraine,93.0,58.0,112.0,11.8,12.9
+Lycée polyvalent d'Estournelles de Constant,Public,Polyvalent,La Flèche,3.4,(21),8.0,57.0,9.0,La Flèche Boulevard du Québec BP 90155 72205 La Flèche,92.0,57.0,455.0,10.8,13.3
+Lycée Pierre Larousse,Public,Général,Toucy,3.1,(14),8.0,65.0,8.0,Toucy 6 rue des Montagnes 89130 Toucy,99.0,65.0,127.0,13.1,4.6
+Lycée Jacques Prévert,Public,Général,Taverny,3.4,(17),9.0,56.0,9.0,Taverny 23 chemin Vert de Boissy 95150 Taverny,91.0,56.0,322.0,16.0,11.0
+Centre Scolaire Notre-Dame - Lycée polyvalent (sup),Privé,Polyvalent,Nevers,2.5,(4),8.0,54.0,7.0,Nevers 22 rue Jeanne d'Arc 58000 Nevers,91.0,54.0,190.0,10.8,11.9
+Lycée Pierre-Gilles de Gennes,Public,Polyvalent,Cosne-Cours-sur-Loire,3.6,(8),6.0,59.0,10.0,"Cosne-Cours-sur-Loire Rue du Colonel Rabier site général et technologique, BP 144 58206 Cosne-Cours-sur-Loire",91.0,59.0,190.0,12.6,8.0
+Lycée l'Essouriau,Public,Polyvalent,Les Ulis,3.8,(16),13.0,53.0,11.0,Les Ulis 1 avenue de Dordogne BP 1031 91979 Les Ulis,89.0,53.0,418.0,11.9,15.4
+Lycée Jules Verne,Public,Général,Limours,3.8,(13),12.0,72.0,8.0,Limours 49 rue d'Arpajon 91470 Limours,97.0,72.0,278.0,14.7,15.4
+Lycée polyvalent Laurent de Lavoisier,Public,Polyvalent,Mulhouse,2.9,(10),13.0,46.0,9.0,Mulhouse 42 rue Lavoisier BP 52056 68059 Mulhouse,89.0,46.0,302.0,14.2,13.5
+Lycée Jean-Jacques Rousseau,Public,Polyvalent,Sarcelles,3.6,(15),10.0,40.0,7.0,Sarcelles 2 rue Jean-Jacques Rousseau 95200 Sarcelles,88.0,40.0,645.0,15.9,13.2
+Lycée Honoré Romane,Public,Spécialisé,Embrun,3.2,(17),9.0,64.0,9.0,Embrun Route de Caleyère BP 93 05202 Embrun,94.0,64.0,135.0,11.1,7.9
+Lycée et section d'enseignement professionnel Pierre Mendès France,Public,Polyvalent,Rennes,4.3,(1),13.0,53.0,9.0,Rennes 34 rue Bahon Rault CS 86906 35069 Rennes cedex,86.0,53.0,248.0,15.1,5.3
+Lycée polyvalent privé Saint-Paul,Privé,Polyvalent,Lens,3.3,(25),11.0,80.0,8.0,Lens 38 route de la Bassée BP 17 62301 Lens,99.0,80.0,373.0,15.1,13.9
+Lycée polyvalent J-B Le Taillandier - site Notre-Dame des Marais,Privé,Polyvalent,Fougères,3.2,(9),14.0,69.0,10.0,Fougères 9 bis rue Eugène Pacory BP 30402 35304 Fougères cedex,96.0,69.0,363.0,14.9,13.3
+Lycée Joliot Curie,Public,Général,Hirson,2.6,(2),13.0,56.0,11.0,Hirson 5 rue Chanzy 02500 Hirson,89.0,56.0,173.0,14.4,14.0
+Lycée européen,Public,Général,Villers-Cotterêts,4.2,(35),12.0,67.0,9.0,Villers-Cotterêts avenue de Noue BP 159 02600 Villers-Cotterêts,96.0,67.0,187.0,14.7,8.0
+Lycée Gambetta,Public,Général,Tourcoing,3.9,(12),17.0,48.0,12.0,Tourcoing 80 boulevard Gambetta BP 20500 59208 Tourcoing,89.0,48.0,292.0,13.6,16.3
+Lycée polyvalent du Pays de Condé,Public,Polyvalent,Condé-sur-l'Escaut,3.3,(13),16.0,47.0,11.0,Condé-sur-l'Escaut 2 rue Jean Monnet BP 39 59163 Condé-sur-l'Escaut,81.0,47.0,390.0,16.3,7.1
+Centre scolaire Saint Paul (Prépas),Privé,Général,Lille,3.6,(24),14.0,91.0,13.0,Lille 62 rue Royale 59000 Lille,100.0,91.0,316.0,16.1,16.6
+Lycée polyvalent privé Saint-Paul - Bourdon Blanc,Privé,Polyvalent,Orléans,4.0,(29),17.0,50.0,10.0,Orléans 4 rue Neuve Saint-Aignan 45000 Orléans,92.0,50.0,251.0,11.4,11.5
+Lycée privé Saint-Joseph (voie générale et technologique),Privé,Polyvalent,Sète,3.3,(29),16.0,62.0,7.0,Sète 11 avenue Marx Dormoy BP 77 34202 Sète,97.0,62.0,136.0,11.8,13.9
+Lycée Jules Guesde (voie générale et technologique),Public,Polyvalent,Montpellier,3.2,(33),15.0,64.0,13.0,Montpellier 110 avenue de Lodève 34060 Montpellier,93.0,64.0,668.0,12.8,14.0
+Lycée privé épiscopal,Privé,Général,Zillisheim,3.6,(25),10.0,84.0,9.0,Zillisheim 5 rue du Séminaire 68720 Zillisheim,100.0,84.0,155.0,12.9,14.4
+Lycée polyvalent Saint-Pierre,Privé,Polyvalent,Brunoy,3.7,(2),11.0,81.0,5.0,Brunoy 70 rue de Montgeron 91800 Brunoy,98.0,81.0,357.0,15.5,12.3
+Lycée polyvalent Blaise Pascal,Public,Polyvalent,Colmar,3.4,(8),12.0,65.0,9.0,Colmar 74 rue du Logelbach 68025 Colmar,92.0,65.0,375.0,14.2,13.0
+Lycée général et technologique privé d'Avesnières,Privé,Général,Laval,3.3,(14),14.0,74.0,10.0,Laval 51 rue d'Avesnières BP 51209 53012 Laval,100.0,74.0,206.0,11.9,9.4
+Lycée polyvalent de Bois d'Olive,Public,Polyvalent,Saint-Pierre,4.0,(4),14.0,52.0,9.0,Saint-Pierre 112 Avenue Laurent Vergès BP 71 97432 Saint-Pierre,92.0,52.0,283.0,14.4,5.9
+Lycée polyvalent Léonard de Vinci,Public,Polyvalent,Soissons,4.2,(7),15.0,54.0,8.0,Soissons 1 espace Jean Guerland BP 547 02331 Soissons cedex,88.0,54.0,193.0,14.0,12.1
+Lycée Ismaël Dauphin,Public,Général,Cavaillon,4.2,(19),1.0,62.0,10.0,Cavaillon Rue Pierre Fabre 84300 Cavaillon,95.0,62.0,353.0,15.4,18.4
+Lycée Vauban,Public,Général,Givet,3.3,(7),1.0,56.0,8.0,Givet 15 rue André Bousy 08600 Givet,90.0,56.0,68.0,17.3,13.7
+Lycée des Graves,Public,Général,Gradignan,3.6,(25),4.0,71.0,11.0,Gradignan 238 cours Général-de-Gaulle 33170 Gradignan,97.0,71.0,413.0,14.5,15.4
+Cité scolaire Françoise Combes (lycée),Public,Général,Montpellier,3.3,(3),14.0,61.0,7.0,Montpellier 4 rue du 81E Régiment d'Infanterie 34090 Montpellier,97.0,61.0,94.0,14.0,10.6
+Lycée Bellevue,Public,Général,Le Mans,3.9,(36),4.0,65.0,12.0,Le Mans 2 rue de l' Abbaye Saint-Vincent BP 524 72001 Le Mans,96.0,65.0,387.0,11.3,16.7
+Lycée Chevalier d'Éon,Public,Polyvalent,Tonnerre,3.9,(6),6.0,50.0,8.0,Tonnerre 2 place Edmond Jacob 89700 Tonnerre,92.0,50.0,155.0,11.7,15.0
+Lycée Romain Rolland,Public,Polyvalent,Goussainville,3.1,(18),7.0,42.0,9.0,Goussainville 21 avenue de Montmorency 95190 Goussainville,83.0,42.0,590.0,16.3,12.3
+Lycée Saint-Joseph,Privé,Général,Argenteuil,4.5,(1),6.0,86.0,6.0,Argenteuil 127 avenue du Maréchal Joffre 95100 Argenteuil,100.0,86.0,94.0,16.3,9.2
+Lycée Julie-Victoire Daubié,Public,Général,Argenteuil,3.8,(22),5.0,50.0,9.0,Argenteuil 9 rue Louis Massignon 95100 Argenteuil,89.0,50.0,312.0,17.3,14.3
+Lycée Sophie Berthelot,Public,Général,Calais,4.0,(14),7.0,68.0,13.0,Calais 224 boulevard Gambetta BP 209 62104 Calais,94.0,68.0,388.0,10.2,16.0
+Lycée Maurice Genevoix,Public,Polyvalent,Decize,3.4,(10),2.0,49.0,10.0,Decize 51 route d'Avril-sur-Loire 58300 Decize,90.0,49.0,154.0,8.4,15.2
+Lycée polyvalent Sainte-Anne,Privé,Polyvalent,Sablé-sur-Sarthe,2.6,(2),3.0,73.0,7.0,Sablé-sur-Sarthe 5 rue Alain de Rouge BP 175 72300 Sablé-sur-Sarthe,99.0,73.0,67.0,15.4,16.8
+Lycée Parc des Chaumes,Public,Polyvalent,Avallon,3.3,(4),7.0,58.0,7.0,Avallon 14-16 avenue du Parc des Chaumes BP 187 89206 Avallon,94.0,58.0,138.0,13.1,12.5
+Lycée Scheurer Kestner,Public,Général,Thann,3.2,(16),9.0,67.0,7.0,Thann 1 rue Moschenross BP 110 68802 Thann,93.0,67.0,287.0,14.5,14.4
+Lycée Albert Schweitzer,Public,Général,Mulhouse,4.0,(12),7.0,58.0,12.0,Mulhouse 8 boulevard de la Marne BP 2269 68068 Mulhouse,93.0,58.0,412.0,14.6,14.4
+Lycée Jean Brito,Public,Général,Bain-de-Bretagne,3.6,(21),12.0,65.0,10.0,Bain-de-Bretagne Avenue du Bois Greffier BP 27039 35470 Bain-de-Bretagne,96.0,65.0,322.0,14.3,15.3
+Lycée et section d'enseignement professionnel Marcel Callo,Privé,Polyvalent,Redon,3.8,(12),11.0,76.0,3.0,Redon 21 avenue Etienne Gascon BP 80324 35603 Redon,98.0,76.0,216.0,14.9,15.6
+Lycée Saint-Joseph,Privé,Général,Fontaine-lès-Vervins,3.6,(3),11.0,87.0,7.0,Fontaine-lès-Vervins 2 chaussée DE FONTAINE 02140 Fontaine-lès-Vervins,99.0,87.0,47.0,10.7,15.0
+Lycée polyvalent Eugène Thomas,Public,Polyvalent,Le Quesnoy,4.2,(13),13.0,63.0,8.0,Le Quesnoy 100 avenue Léo Lagrange BP 63 59530 Le Quesnoy,94.0,63.0,232.0,11.3,16.7
+Lycée privé Marmoutier,Privé,Général,Tours,3.0,(15),11.0,57.0,8.0,Tours 17 quai Marmoutier BP 27344 37073 Tours cedex 2,95.0,57.0,55.0,13.9,8.6
+Lycée privé Saint-Jean,Privé,Général,Besançon,3.9,(7),15.0,69.0,9.0,Besançon 1 rue de l'Espérance 25000 Besançon,99.0,69.0,256.0,4.2,11.9
+Lycée polyvalent privé Saint-François de Sales,Privé,Polyvalent,Gien,3.0,(14),15.0,61.0,8.0,Gien 66 rue Paul Bert 45504 Gien,93.0,61.0,91.0,11.8,12.0
+Lycée Romain Rolland,Public,Polyvalent,Clamecy,3.9,(3),1.0,55.0,8.0,Clamecy 7 rue Pablo Neruda BP 173 58503 Clamecy,98.0,55.0,119.0,14.7,15.5
+Lycée Paul Scarron,Public,Général,Sillé-le-Guillaume,3.7,(9),1.0,52.0,7.0,Sillé-le-Guillaume La Brunetière BP 46 72140 Sillé-le-Guillaume,94.0,52.0,110.0,17.8,11.2
+Groupe scolaire Saint-Joseph La Salle,Privé,Polyvalent,Auxerre,4.2,(8),2.0,69.0,7.0,Auxerre 1 boulevard de la Marne 89015 Auxerre,96.0,69.0,166.0,12.0,18.3
+Lycée Robespierre,Public,Général,Arras,3.7,(13),4.0,66.0,11.0,Arras Avenue des Fusillés BP 50911 62022 Arras,96.0,66.0,296.0,13.0,16.4
+Lycée privé Vauban,Privé,Polyvalent,Pontoise,3.5,(14),2.0,90.0,6.0,Pontoise 23 place du Petit Martroy 95300 Pontoise,100.0,90.0,77.0,14.4,18.7
+Lycée Louis Feuillade (voie générale et technologique),Public,Polyvalent,Lunel,3.0,(16),10.0,62.0,11.0,Lunel 49 rue Romain Rolland BP 210 34402 Lunel,92.0,62.0,394.0,14.5,13.8
+Lycée Catherine et Raymond Janot,Public,Général,Sens,2.3,(34),5.0,47.0,13.0,Sens 1 place Lech Walesa BP 803 89094 Sens,93.0,47.0,658.0,15.9,14.1
+Lycée professionnel Institution Saint Malo la Providence,Privé,Polyvalent,Saint-Malo,3.7,(21),8.0,70.0,10.0,Saint-Malo 2 rue du Collège CS 31863 35418 Saint-Malo,97.0,70.0,439.0,11.8,15.9
+Lycée François-René de Chateaubriand,Public,Général,Combourg,3.4,(21),7.0,51.0,9.0,Combourg 12 avenue des Acacias BP 56 35270 Combourg,93.0,51.0,229.0,14.2,16.0
+Lycée Saint-Joseph,Privé,Général,Bruz,3.7,(17),6.0,81.0,9.0,Bruz 3 avenue Alphonse Legault CS 77118 35171 Bruz,100.0,81.0,216.0,13.3,16.1
+Lycée polyvalent Giraux Sannier,Public,Polyvalent,Saint-Martin-Boulogne,3.3,(4),2.0,63.0,8.0,Saint-Martin-Boulogne Rue Giraux Sannier BP 946 62280 Saint-Martin-Boulogne,87.0,63.0,257.0,16.6,8.5
+Lycée d'altitude,Public,Polyvalent,Briançon,3.7,(6),5.0,70.0,10.0,Briançon 2 rue Marius Chancel 05105 Briançon,97.0,70.0,206.0,15.0,9.4
+Lycée Jules Haag,Public,Polyvalent,Besançon,3.7,(9),13.0,60.0,9.0,Besançon 1 rue Edmond Labbé 25041 Besançon,92.0,60.0,520.0,10.9,12.7
+Lycée privé Notre-Dame des Dunes,Privé,Général,Dunkerque,3.2,(21),11.0,81.0,11.0,Dunkerque 60 rue du Sud 59140 Dunkerque,100.0,81.0,167.0,15.1,17.0
+Lycée Edgar Faure,Public,Polyvalent,Morteau,4.1,(6),10.0,57.0,8.0,Morteau 2 rue du Docteur Sauze BP 63087 25503 Morteau cedex,94.0,57.0,307.0,11.8,13.4
+Lycée Dominique Villars,Public,Général,Gap,2.4,(8),2.0,75.0,11.0,Gap Place de Verdun BP 1004 05010 Gap,99.0,75.0,215.0,15.2,11.2
+Institut de Genech,Privé,Général,Genech,4.2,(14),9.0,83.0,10.0,Genech Rue de la Libération 59242 Genech,100.0,83.0,249.0,17.1,11.8
+Lycée François Truffaut,Public,Polyvalent,Bondoufle,3.4,(7),7.0,44.0,8.0,Bondoufle Rue Georges Pompidou BP 108 91070 Bondoufle,87.0,44.0,419.0,14.2,15.9
+Lycée polyvalent Jean Jacques Henner,Public,Polyvalent,Altkirch,3.2,(12),5.0,67.0,10.0,Altkirch 20 rue de Hirtzbach 68130 Altkirch,95.0,67.0,514.0,15.0,11.7
+Lycée Georges Pompidou (voie générale et technologique),Public,Polyvalent,Castelnau-le-Lez,3.5,(25),8.0,67.0,10.0,Castelnau-le-Lez 351 avenue Maréchal de Lattre de Tassigny BP 71 34170 Castelnau-le-Lez,94.0,67.0,510.0,10.3,14.8
+Lycée privé Saint-Grégoire,Privé,Général,Tours,4.1,(5),9.0,86.0,8.0,Tours 3 place Choiseul 37100 Tours,99.0,86.0,65.0,11.4,14.0
+Lycée polyvalent privé Saint-Gatien La Salle,Privé,Polyvalent,Joué-lès-Tours,4.4,(11),7.0,63.0,9.0,Joué-lès-Tours 107 rue De LA Douzillère 37300 Joué-lès-Tours,94.0,63.0,142.0,12.6,14.4
+Lycée polyvalent Pierre Forest,Public,Polyvalent,Maubeuge,4.0,(7),10.0,48.0,11.0,Maubeuge boulevard Charles de Gaulle BP 30599 59605 Maubeuge,86.0,48.0,385.0,9.2,17.1
+Lycée Lavoisier,Public,Général,Mayenne,3.0,(22),9.0,66.0,10.0,Mayenne 281 rue du Pommier BP 70139 53103 Mayenne cedex,99.0,66.0,201.0,12.8,14.3
+Lycée polyvalent privé La Salle Saint-Charles,Privé,Polyvalent,Saint-Pierre,3.7,(8),10.0,78.0,8.0,Saint-Pierre 62 rue Auguste Babet BP 394 97458 Saint-Pierre,99.0,78.0,270.0,15.1,12.3
+Lycée général et technologique Alexis Monteil,Public,Général,Rodez,3.8,(4),16.0,60.0,10.0,Rodez 14 rue Carnus BP 3405 12034 Rodez,97.0,60.0,348.0,11.7,10.3
+Lycée polyvalent Jean Zay,Public,Polyvalent,Orléans,3.4,(25),10.0,57.0,11.0,Orléans 2 rue Ferdinand Buisson 45044 Orléans,89.0,57.0,464.0,12.7,7.3
+Lycée privé Saint-Guilhem,Privé,Général,Clermont-l'Hérault,5.0,(1),9.0,94.0,6.0,Clermont-l'Hérault RD 609 34800 Clermont-l'Hérault,100.0,94.0,36.0,14.7,10.3
+Lycée privé Saint-Vaast-Saint-Dominique,Privé,Général,Béthune,3.8,(15),1.0,74.0,9.0,Béthune 92 rue de l'université BP 47 62401 Béthune,98.0,74.0,162.0,16.8,16.0
+Lycée Geoffroy- Saint-Hilaire,Public,Polyvalent,Étampes,3.0,(26),4.0,60.0,10.0,Étampes 2-6 avenue Geoffroy-Saint-Hilaire 91150 Étampes,94.0,60.0,621.0,16.1,11.2
+Lycée Georges Brassens,Public,Polyvalent,Évry-Courcouronnes,3.0,(20),3.0,50.0,8.0,Évry-Courcouronnes 8 rue Georges Brassens 91080 Évry-Courcouronnes,90.0,50.0,400.0,14.3,16.3
+Lycée François Joseph Talma,Public,Général,Brunoy,2.6,(5),2.0,59.0,8.0,Brunoy 1 rue des Cerfs BP 84 91805 Brunoy,95.0,59.0,428.0,16.8,14.4
+Lycée Camille Sée,Public,Général,Colmar,3.4,(10),3.0,72.0,10.0,Colmar 42 avenue de l'Europe 68025 Colmar,95.0,72.0,299.0,13.4,15.5
+Lycée et section d'enseignement professionnel La Providence,Privé,Polyvalent,Montauban-de-Bretagne,2.7,(15),2.0,82.0,9.0,Montauban-de-Bretagne 21 rue de Rennes BP 36007 35360 Montauban-de-Bretagne,100.0,82.0,94.0,15.7,17.1
+Lycée polyvalent Germaine Tillion,Public,Polyvalent,Montbéliard,4.5,(3),8.0,50.0,9.0,Montbéliard 1bis rue Pierre Donzelot BP 327 25206 Montbéliard,90.0,50.0,522.0,13.6,10.1
+Lycée Xavier Marmier,Public,Polyvalent,Pontarlier,2.9,(12),9.0,64.0,10.0,Pontarlier 53 rue de Doubs BP 269 25304 Pontarlier cedex,96.0,64.0,460.0,13.6,12.5
+Lycée Jean-Baptiste Corot,Public,Général,Douai,3.2,(8),7.0,61.0,13.0,Douai 133 rue Saint Vaast BP 90810 59508 Douai,90.0,61.0,300.0,15.6,17.2
+Lycée privé Saint-Jacques,Privé,Général,Hazebrouck,3.7,(12),6.0,73.0,9.0,Hazebrouck 58 rue de la sous-Prefecture 59190 Hazebrouck,95.0,73.0,163.0,16.8,17.2
+Lycée Joffre,Public,Général,Montpellier,3.4,(30),6.0,75.0,9.0,Montpellier 150 Allée de la Citadelle 34060 Montpellier,96.0,75.0,519.0,15.6,14.2
+Lycée privé Nevers (voie générale et technologique),Privé,Polyvalent,Montpellier,3.7,(35),5.0,81.0,9.0,Montpellier 18 rue DE LA GARENNE 34090 Montpellier,100.0,81.0,368.0,15.4,15.6
+Lycée Jeanne d'Arc,Privé,Général,Étampes,3.7,(13),5.0,84.0,8.0,Étampes 11 boulevard Henri IV BP 22 91150 Étampes,100.0,84.0,104.0,16.0,14.3
+Lycée polyvalent Stanislas,Public,Polyvalent,Wissembourg,4.2,(17),1.0,74.0,11.0,Wissembourg 7 rue du lycée BP 40143 67163 Wissembourg,97.0,74.0,436.0,16.7,14.6
+Lycée polyvalent privé Maison Blanche,Privé,Général,Saint-Paul,4.3,(6),7.0,90.0,7.0,Saint-Paul 7 chemin Summer n°3 Le Guillaume 97423 Saint-Paul,99.0,90.0,130.0,16.0,14.5
+Lycée général et technologique Louis Payen,Public,Général,Saint-Paul,3.6,(5),6.0,57.0,10.0,Saint-Paul 329 rue Saint-Louis BP 114 97863 Saint-Paul,96.0,57.0,198.0,16.3,16.3
+Lycée polyvalent Louise Weiss,Public,Polyvalent,Sainte-Marie-aux-Mines,3.7,(3),1.0,65.0,7.0,Sainte-Marie-aux-Mines 5 route du Stade 68160 Sainte-Marie-aux-Mines,87.0,65.0,68.0,18.8,9.4
+Lycée polyvalent Jean Mermoz,Public,Polyvalent,Saint-Louis,3.4,(11),4.0,65.0,9.0,Saint-Louis 53 rue du docteur Marcel Hurst 68300 Saint-Louis,94.0,65.0,594.0,15.3,12.3
+Lycée Jeanne d'Arc,Privé,Polyvalent,Vitré,3.7,(11),4.0,74.0,9.0,Vitré 13 place de la République BP 90326 35503 Vitré cedex,99.0,74.0,270.0,14.8,16.4
+Lycée polyvalent François Rabelais,Public,Polyvalent,Chinon,3.0,(23),5.0,65.0,12.0,Chinon 28 quai Danton BP 90146 37501 Chinon cedex 1,96.0,65.0,410.0,12.5,14.8
+Lycée Victor Hugo,Public,Général,Besançon,3.1,(13),6.0,54.0,10.0,Besançon 1 rue Rembrandt BP 2159 25052 Besançon cedex,93.0,54.0,305.0,14.0,12.1
+Lycée polyvalent Jean Hinglo,Public,Polyvalent,Le Port,2.8,(6),8.0,53.0,11.0,Le Port 2 rue des Sans-Soucis BP 2021 97825 Le Port,95.0,53.0,307.0,15.7,15.8
+Lycée Claude Nicolas Ledoux,Public,Polyvalent,Besançon,3.4,(13),3.0,76.0,11.0,Besançon 14 rue Alain Savary BP 1327 25006 Besançon cedex,96.0,76.0,274.0,14.5,15.4
+Lycée Alfred Kastler,Public,Général,Denain,3.2,(5),2.0,51.0,9.0,Denain 123 rue Paul Elie Casanova BP 249 59723 Denain,88.0,51.0,167.0,17.9,15.1
+Lycée polyvalent La Découverte,Public,Polyvalent,Decazeville,4.5,(7),12.0,60.0,10.0,Decazeville avenue Léo Lagrange BP 352 12300 Decazeville,92.0,60.0,181.0,12.3,9.0
+Lycée Ferdinand Fabre,Public,Général,Bédarieux,3.1,(13),4.0,63.0,8.0,Bédarieux Boulevard Jean Moulin 34600 Bédarieux,94.0,63.0,64.0,15.2,16.5
+Lycée Paul Valéry,Public,Général,Sète,3.8,(16),3.0,67.0,10.0,Sète 55 rue Paul Valéry 34200 Sète,96.0,67.0,183.0,10.6,16.6
+Lycée polyvalent Thérèse Planiol,Public,Polyvalent,Loches,4.1,(21),3.0,65.0,10.0,Loches Place des Prébendes 37600 Loches,94.0,65.0,335.0,15.2,12.0
+Lycée Jean Monnet,Public,Général,Joué-lès-Tours,3.4,(16),2.0,64.0,10.0,Joué-lès-Tours 45 rue de la Gitonnière BP 600 37306 Joué-lès-Tours cedex,95.0,64.0,347.0,13.8,15.4
+Lycée privé La Merci Littoral (voie générale et technologique),Privé,Polyvalent,La Grande-Motte,3.8,(7),2.0,83.0,8.0,La Grande-Motte 603 AVENUE DE LA PETITE MOTTE 34280 La Grande-Motte,98.0,83.0,191.0,15.8,16.8
+Lycée Paul Claudel,Public,Général,Laon,3.2,(12),2.0,54.0,10.0,Laon place Foch BP 531 02001 Laon,93.0,54.0,347.0,17.4,13.1
+Lycée polyvalent de Trois Bassins,Public,Polyvalent,Les Trois-Bassins,3.0,(8),4.0,58.0,10.0,Les Trois-Bassins 81 rue Georges Brassens BP 03 97426 Les Trois-Bassins,97.0,58.0,221.0,14.3,16.9
+Lycée général et technologique privé Levavasseur,Privé,Général,Saint-Denis,3.9,(23),5.0,88.0,7.0,Saint-Denis 4 rue Fénelon CS 91074 97404 Saint-Denis,100.0,88.0,260.0,15.3,16.4
+Lycée polyvalent Maurice Genevoix,Public,Polyvalent,Ingré,3.2,(17),1.0,69.0,8.0,Ingré 1 avenue de la Grenaudière BP 30 45147 Ingré,96.0,69.0,377.0,14.4,16.0
+Lycée Auguste Loubatières (voie générale et technologique),Public,Polyvalent,Agde,3.6,(16),1.0,61.0,11.0,Agde Boulevard Jean Monnet BP 60109 34304 Agde,96.0,61.0,369.0,14.6,18.2
+Lycée Don Bosco,Privé,Général,Mayenne,3.4,(8),1.0,67.0,7.0,Mayenne 18 boulevard Anatole France BP 55 53102 Mayenne,100.0,67.0,75.0,16.4,17.4
+Lycée polyvalent Joseph-Marie Jacquard,Public,Polyvalent,Caudry,4.7,(54),1.0,65.0,9.0,Caudry 4 avenue Jean Moulin BP 90207 59544 Caudry,94.0,65.0,217.0,15.8,18.2
+Lycée polyvalent Raoul Vadepied,Public,Polyvalent,Évron,3.9,(9),2.0,67.0,8.0,Évron Boulevard Rossignol 53600 Évron,96.0,67.0,130.0,15.5,12.7
+Lycée de l'Immaculée Conception,Privé,Général,Laval,3.6,(14),3.0,77.0,9.0,Laval 15 rue Crossardière 53000 Laval,100.0,77.0,284.0,15.4,13.4
+Lycée polyvalent Léon Blum,Public,Polyvalent,Villefranche-de-Lauragais,2.7,(4),1.0,72.0,9.0,Villefranche-de-Lauragais 8 chemin du tracas BP 34 31290 Villefranche-de-Lauragais,99.0,72.0,251.0,13.9,16.7
+Lycée polyvalent de Vincendo,Public,Polyvalent,Saint-Joseph,3.0,(8),3.0,64.0,11.0,Saint-Joseph 10 route de la Marine Vincendo 97480 Saint-Joseph,97.0,64.0,167.0,15.9,17.0
+Lycée polyvalent Pierre d'Aragon,Public,Polyvalent,Muret,3.2,(32),3.0,57.0,11.0,Muret 14 avenue Henri Peyrusse BP 70316 31605 Muret,97.0,57.0,488.0,12.5,16.0
+Lycée polyvalent Jean Jaurès,Public,Polyvalent,Saint-Affrique,3.2,(7),2.0,61.0,10.0,Saint-Affrique 625 avenue Jean Jaurès 12400 Saint-Affrique,96.0,61.0,94.0,14.9,11.2
+Lycée polyvalent de Haute Auvergne,Public,Polyvalent,Saint-Flour,3.0,(10),2.0,67.0,7.0,Saint-Flour 20 rue Marcellin Boudet BP 41 15101 Saint-Flour cedex,96.0,67.0,186.0,13.8,12.5
+Lycée polyvalent Jean-Baptiste Vuillaume,Public,Général,Mirecourt,3.2,(10),15.0,58.0,7.0,Mirecourt 5 avenue Graillet BP 109 88503 Mirecourt,96.0,58.0,174.0,12.6,9.2
+Lycée Jean Lurçat,Public,Général,Bruyères,2.7,(3),14.0,63.0,6.0,Bruyères 22 avenue de Lattre de Tassigny 88600 Bruyères,98.0,63.0,113.0,12.9,9.1
+"Lycée des métiers de la conception, de l'automatique et de l'énergie Pierre Mendès France",Public,Polyvalent,Épinal,4.0,(10),13.0,59.0,6.0,Épinal 2 rue du Haut des Etages 88021 Épinal,91.0,59.0,239.0,13.0,11.3
+Lycée Alcide Dusolier,Public,Polyvalent,Nontron,3.0,(8),11.0,62.0,9.0,Nontron Avenue Jules Ferry 24300 Nontron,94.0,62.0,105.0,11.9,12.8
+Lycée La Haie Griselle,Public,Général,Gérardmer,4.2,(10),20.0,69.0,8.0,Gérardmer 25 chemin des Epinettes 88407 Gérardmer,95.0,69.0,160.0,11.8,10.0
+Lycée des métiers des arts de l'habitat et de l'ameublement Pierre et Marie Curie,Public,Polyvalent,Neufchâteau,2.9,(13),19.0,56.0,8.0,Neufchâteau Rue Victor Martin BP 269 88307 Neufchâteau,92.0,56.0,191.0,12.0,8.3
+Lycée Saint-Paul,Privé,Général,Saint-Étienne,3.5,(25),39.0,81.0,12.0,Saint-Étienne 9 rue de la Paix BP 286 42016 Saint-Étienne,99.0,81.0,167.0,12.1,9.3
+Lycée Saint-Paul,Privé,Général,Roanne,3.9,(8),48.0,65.0,7.0,Roanne 15 rue Bourgneuf 42300 Roanne,98.0,65.0,74.0,10.4,7.1
+Lycée Georges Brassens,Public,Général,Rive-de-Gier,3.9,(11),47.0,58.0,9.0,Rive-de-Gier 8 rue GRANGE BURLAT 42800 Rive-de-Gier,96.0,58.0,281.0,10.8,7.7
+Cité scolaire Monnet Fourneyron - Lycée Monnet Fourneyron - site Portail rouge,Public,Général,Saint-Étienne,2.7,(7),44.0,55.0,9.0,Saint-Étienne 16 rue du Portail Rouge BP 269 42014 Saint-Étienne,97.0,55.0,159.0,11.2,10.7
+Lycée Albert Camus,Public,Général,Firminy,3.2,(12),46.0,47.0,10.0,Firminy 32 bis rue de la Loire BP 180 42700 Firminy,87.0,47.0,236.0,10.4,11.0
+Lycée Geneviève de Gaulle-Anthonioz (voie générale et technologique),Public,Polyvalent,Milhaud,3.6,(15),26.0,49.0,10.0,Milhaud 43 rue du Moulin 30540 Milhaud,89.0,49.0,388.0,11.0,9.6
+Lycée privé Institut Emmanuel d'Alzon (voie professionnelle),Privé,Polyvalent,Nîmes,3.1,(17),23.0,59.0,11.0,Nîmes 11 rue Sainte Perpétue 30000 Nîmes,96.0,59.0,358.0,11.3,11.5
+Lycée polyvalent Jérémie de la Rue,Public,Polyvalent,Charlieu,3.2,(26),33.0,66.0,9.0,Charlieu Route de Saint-Bonnet BP 39 42190 Charlieu,91.0,66.0,157.0,12.7,8.7
+Lycée Hippolyte Carnot,Public,Général,Roanne,4.3,(13),30.0,67.0,7.0,Roanne 35 avenue Carnot 42328 Roanne,99.0,67.0,275.0,10.9,13.0
+Lycée Jean Puy,Public,Général,Roanne,3.7,(9),29.0,61.0,8.0,Roanne Rue Jean Puy BP 505 42328 Roanne,99.0,61.0,260.0,13.1,12.5
+Lycée Jacques Prévert (voie générale et technologique),Public,Polyvalent,Saint-Christol-lès-Alès,4.0,(12),24.0,53.0,10.0,Saint-Christol-lès-Alès 1 place LUCIE AUBRAC 30380 Saint-Christol-lès-Alès,87.0,53.0,301.0,11.4,6.3
+Lycée Etienne Mimard,Public,Général,Saint-Étienne,2.9,(6),26.0,56.0,5.0,Saint-Étienne 32 rue Etienne Mimard 42000 Saint-Étienne,90.0,56.0,141.0,13.4,10.6
+Lycée Ernest Hemingway (voie générale et technologique),Public,Polyvalent,Nîmes,2.9,(8),22.0,54.0,9.0,Nîmes 98 avenue Jean Jaurès BP 7034 30910 Nîmes,92.0,54.0,332.0,11.6,6.9
+Lycée général et technologique de l'Albanais,Public,Général,Rumilly,3.9,(25),28.0,73.0,10.0,Rumilly rue du Lycée BP 102 74152 Rumilly,97.0,73.0,433.0,9.6,11.5
+Lycée Notre-Dame,Privé,Général,Charlieu,3.4,(22),22.0,66.0,10.0,Charlieu 9 RUE CACHERAT 42190 Charlieu,100.0,66.0,57.0,13.7,10.7
+Lycée polyvalent Jean Monnet,Public,Polyvalent,Annemasse,2.5,(11),30.0,58.0,9.0,"Annemasse 1 place de Lattre de Tassigny Vetraz - Monthoux , BP 241 74106 Annemasse",89.0,58.0,371.0,11.0,11.0
+Lycée Albert Claveille,Public,Polyvalent,Périgueux,3.1,(21),14.0,61.0,8.0,Périgueux 80 rue Victor Hugo BP 1085 24001 Périgueux,93.0,61.0,241.0,11.9,7.6
+Lycée Louis Lapicque,Public,Général,Épinal,3.3,(9),16.0,58.0,9.0,Épinal 5 rue Nicolas Bellot 88000 Épinal,95.0,58.0,441.0,11.0,12.6
+Lycée privé Bellevue,Privé,Général,Alès,3.2,(17),18.0,80.0,10.0,Alès 11 rue de la Glacière 30100 Alès,98.0,80.0,167.0,12.4,8.1
+Lycée polyvalent des Glières,Public,Polyvalent,Annemasse,3.2,(18),24.0,47.0,9.0,Annemasse 2 A avenue de Verdun BP 527 74107 Annemasse,87.0,47.0,428.0,10.6,12.0
+Lycée des métiers André Malraux,Public,Polyvalent,Remiremont,2.9,(13),10.0,62.0,9.0,Remiremont 13 rue de l'Epinette BP 20160 88200 Remiremont,95.0,62.0,337.0,13.4,10.7
+Lycée climatique Jean Prévost,Public,Spécialisé,Villard-de-Lans,3.4,(8),33.0,79.0,8.0,Villard-de-Lans 470 rue de Tintaine BP 62 38250 Villard-de-Lans,98.0,79.0,112.0,12.7,9.9
+Lycée des métiers d'art Charles Gide (voie générale et technologique),Public,Polyvalent,Uzès,3.5,(10),19.0,60.0,9.0,Uzès Place Adolphe Bosc 30700 Uzès,94.0,60.0,305.0,12.1,7.3
+Lycée polyvalent André Argouges,Public,Polyvalent,Grenoble,3.5,(25),34.0,58.0,13.0,Grenoble 61 rue Léon Jouhaux 38029 Grenoble,89.0,58.0,462.0,12.5,10.7
+Lycée polyvalent Edouard Herriot,Public,Polyvalent,Voiron,3.8,(13),31.0,63.0,12.0,Voiron avenue Edouard Herriot BP 228 38506 Voiron,93.0,63.0,414.0,13.0,7.1
+Lycée général et technologique Marie Reynoard,Public,Général,Villard-Bonnot,3.1,(12),30.0,74.0,10.0,Villard-Bonnot 20 rue Louis Néel 38190 Villard-Bonnot,97.0,74.0,285.0,9.5,13.2
+Lycée général et technologique privé Notre-Dame des Victoires,Privé,Général,Voiron,3.1,(4),29.0,77.0,9.0,Voiron 1 rue de la terrasse BP 236 38506 Voiron,99.0,77.0,167.0,13.2,10.2
+Lycée général Stendhal,Public,Général,Grenoble,3.5,(13),27.0,76.0,11.0,Grenoble 1 bis place Jean Achard BP 80208 38014 Grenoble,98.0,76.0,137.0,13.4,8.4
+Lycée Raymond Queneau,Public,Polyvalent,Yvetot,3.4,(13),39.0,56.0,11.0,Yvetot Rue du Docteur Zamenhof BP 143 76194 Yvetot,92.0,56.0,426.0,12.2,10.7
+Lycée Anguier,Public,Polyvalent,Eu,3.3,(10),38.0,54.0,13.0,Eu Place Gaston Leroux 76260 Eu,92.0,54.0,260.0,12.2,8.4
+Lycée polyvalent Elie Cartan,Public,Polyvalent,La Tour-du-Pin,3.3,(11),35.0,59.0,9.0,La Tour-du-Pin 2 rue Justin Vernet BP 212 38110 La Tour-du-Pin,91.0,59.0,191.0,12.4,8.1
+Lycée polyvalent Ella Fitzgerald,Public,Polyvalent,Vienne,3.5,(9),36.0,53.0,11.0,Vienne 4 RD 502 - ST ROMAIN EN GAL BP 40 38200 Vienne,89.0,53.0,587.0,12.4,6.0
+Lycée général Champollion,Public,Général,Grenoble,3.6,(25),39.0,84.0,12.0,Grenoble 1 cours LAFONTAINE 38026 Grenoble,99.0,84.0,258.0,11.9,8.3
+Lycée polyvalent Hector Berlioz,Public,Polyvalent,La Côte-Saint-André,3.0,(14),26.0,49.0,9.0,La Côte-Saint-André place de l'Europe 38260 La Côte-Saint-André,92.0,49.0,274.0,13.4,8.3
+Lycée Val de Seine,Public,Général,Le Grand-Quevilly,2.9,(28),31.0,53.0,12.0,Le Grand-Quevilly 11 avenue Georges Braque BP 266 76124 Le Grand-Quevilly,91.0,53.0,421.0,12.6,12.2
+Lycée polyvalent Vaucanson,Public,Polyvalent,Grenoble,3.4,(5),28.0,52.0,8.0,Grenoble 27 rue Anatole France 38030 Grenoble,86.0,52.0,253.0,13.4,11.1
+"Lycée privé Jeanne d'Arc, site De Gaulle",Privé,Polyvalent,Sainte-Adresse,4.0,(8),35.0,52.0,6.0,Sainte-Adresse 10 rue Général de Gaulle 76310 Sainte-Adresse,90.0,52.0,306.0,12.3,9.5
+Lycée de la Côte d'Albâtre,Public,Général,Saint-Valery-en-Caux,3.3,(10),29.0,70.0,9.0,Saint-Valery-en-Caux 24 bis rue du Noroît BP 20006 76460 Saint-Valery-en-Caux,98.0,70.0,146.0,12.7,8.7
+Lycée privé Jean-Baptiste de La Salle,Privé,Général,Rouen,3.2,(28),58.0,84.0,7.0,Rouen 84 rue Saint-Gervais 76000 Rouen,100.0,84.0,201.0,10.3,10.5
+Lycée Gustave Flaubert,Public,Général,Rouen,3.2,(14),49.0,69.0,11.0,Rouen 1 rue Albert Dupuis 76044 Rouen,95.0,69.0,402.0,11.0,11.5
+Lycée Guillaume Le Conquérant,Public,Général,Lillebonne,3.1,(18),61.0,53.0,9.0,Lillebonne Allée de la Côte Blanche 76170 Lillebonne,91.0,53.0,316.0,9.9,9.4
+Lycée Jehan Ango,Public,Général,Dieppe,3.0,(10),66.0,59.0,9.0,Dieppe 25 rue Roger Lecoffre BP 228 76203 Dieppe,96.0,59.0,383.0,9.2,2.4
+Lycée de la Vallée du Cailly,Public,Général,Déville-lès-Rouen,3.2,(13),24.0,47.0,9.0,Déville-lès-Rouen 44 rue du Petit-Aulnay 76250 Déville-lès-Rouen,90.0,47.0,265.0,12.7,13.1
+Lycée François 1er,Public,Général,Le Havre,3.7,(16),48.0,63.0,9.0,Le Havre 2 rue Jean-Paul Sartre BP 1445 76066 Le Havre,96.0,63.0,314.0,11.6,11.3
+Lycée Porte Océane,Public,Polyvalent,Le Havre,3.2,(10),71.0,26.0,9.0,Le Havre 44 rue Emile Zola BP 40217 76053 Le Havre,73.0,26.0,174.0,6.0,5.9
+Lycée Schuman-Perret,Public,Polyvalent,Le Havre,4.2,(6),62.0,39.0,7.0,Le Havre 51 avenue du 8 mai 1945 76610 Le Havre,73.0,39.0,310.0,6.4,9.8
+Lycée Blaise Pascal,Public,Polyvalent,Rouen,3.7,(13),22.0,53.0,7.0,Rouen 5 rue des Emmurées BP 1105 76174 Rouen,90.0,53.0,265.0,13.3,3.8
+Lycée général et technologique Marie Curie,Public,Général,Échirolles,3.7,(17),54.0,54.0,11.0,Échirolles avenue du 8 Mai 1945 BP 348 38435 Échirolles,92.0,54.0,403.0,10.1,8.9
+Lycée polyvalent Philibert Delorme,Public,Polyvalent,L'Isle-d'Abeau,3.1,(16),55.0,53.0,13.0,L'Isle-d'Abeau 68 boulevard Saint-Hubert BP 10 38081 L'Isle-d'Abeau,88.0,53.0,370.0,9.6,9.8
+Lycée général et technologique Aristide Bergès,Public,Général,Seyssinet-Pariset,2.7,(8),49.0,59.0,9.0,Seyssinet-Pariset 30 avenue Aimé Bouchayer BP 31 38171 Seyssinet-Pariset,93.0,59.0,368.0,10.7,10.7
+Lycée polyvalent Louise Michel,Public,Polyvalent,Grenoble,3.1,(6),47.0,44.0,8.0,Grenoble 30 rue Louise Michel BP 2708 38037 Grenoble cedex 2,86.0,44.0,379.0,10.3,10.8
+Lycée général et technologique Camille Corot,Public,Général,Morestel,3.2,(5),45.0,56.0,8.0,Morestel 454 rue Paul Claudel BP 64 38510 Morestel,97.0,56.0,260.0,8.6,11.0
+Lycée général international Europole,Public,Général,Grenoble,4.1,(18),24.0,87.0,8.0,"Grenoble 4 place de Sfax Europole, BP 1570 38012 Grenoble",99.0,87.0,167.0,13.5,9.5
+Lycée général privé Externat Notre-Dame,Privé,Général,Grenoble,4.4,(5),23.0,79.0,12.0,Grenoble 43 avenue Marcelin Berthelot 38100 Grenoble,100.0,79.0,111.0,13.7,12.2
+Lycée polyvalent Pablo Neruda,Public,Polyvalent,Saint-Martin-d'Hères,3.0,(10),21.0,68.0,11.0,Saint-Martin-d'Hères 35 rue Henri Wallon 38400 Saint-Martin-d'Hères,94.0,68.0,319.0,14.0,10.6
+Lycée polyvalent Pravaz,Public,Polyvalent,Le Pont-de-Beauvoisin,2.7,(30),22.0,58.0,9.0,Le Pont-de-Beauvoisin 257 rue du pré St Martin 38480 Le Pont-de-Beauvoisin,93.0,58.0,331.0,13.7,8.4
+Ensemble scolaire Notre-Dame - Saint-Joseph (lycée),Privé,Général,Épinal,3.7,(17),8.0,73.0,8.0,Épinal 23 rue Thiers 88000 Épinal,100.0,73.0,111.0,13.6,9.6
+Lycée général et technologique de la Versoie,Public,Général,Thonon-les-Bains,3.1,(26),20.0,62.0,10.0,Thonon-les-Bains 12 avenue du Forchat BP 515 74203 Thonon-les-Bains,95.0,62.0,541.0,12.8,10.7
+Lycée polyvalent de l'Edit,Public,Polyvalent,Roussillon,2.9,(5),44.0,45.0,7.0,Roussillon 24 avenue du Lycée 38150 Roussillon,80.0,45.0,248.0,11.1,6.8
+Lycée général privé Saint-Joseph,Privé,Général,Thônes,3.6,(16),16.0,84.0,9.0,Thônes 18 rue du bienheureux Pierre Favre 74230 Thônes,100.0,84.0,97.0,9.3,13.5
+Lycée polyvalent Guillaume Fichet,Public,Polyvalent,Bonneville,2.8,(25),17.0,54.0,9.0,Bonneville 219 rue de Pressy BP 150 74136 Bonneville cedex,93.0,54.0,308.0,13.4,11.9
+Lycée polyvalent Charles Poncet,Public,Polyvalent,Cluses,2.9,(15),18.0,53.0,10.0,Cluses 1 avenue Charles Poncet BP 109 74302 Cluses,90.0,53.0,500.0,13.1,6.5
+Lycée Victor Hugo,Public,Général,Hennebont,3.8,(11),19.0,54.0,10.0,Hennebont 26 avenue François Mitterrand BP 142 56704 Hennebont,97.0,54.0,241.0,10.0,12.7
+Lycée polyvalent Marcelin Berthelot,Public,Polyvalent,Questembert,3.8,(7),20.0,58.0,10.0,Questembert Avenue Roland Garros BP 90010 56231 Questembert,93.0,58.0,171.0,12.5,12.6
+Lycée général privé Jeanne d'Arc,Privé,Général,Le Péage-de-Roussillon,2.9,(4),17.0,71.0,9.0,Le Péage-de-Roussillon 2 rue Raymond Poincaré 38550 Le Péage-de-Roussillon,100.0,71.0,80.0,14.2,4.4
+Lycée des métiers Ferdinand Buisson,Public,Polyvalent,Elbeuf,2.6,(20),17.0,55.0,7.0,Elbeuf 6 rue Auguste Houzeau BP 430 76504 Elbeuf,92.0,55.0,363.0,12.8,13.6
+Lycée Claude Gellée,Public,Général,Épinal,3.1,(33),4.0,71.0,11.0,Épinal 44 rue Abel Ferry 88000 Épinal,98.0,71.0,254.0,15.7,15.8
+Lycée privé Saint Pierre - Saint Paul (voie générale et technologique),Privé,Polyvalent,Langogne,2.8,(32),7.0,58.0,5.0,Langogne 1 rue du Collège 48300 Langogne,95.0,58.0,112.0,11.7,12.3
+Lycée privé Sacré-Coeur (voie générale et technologique),Privé,Polyvalent,Saint-Chély-d'Apcher,3.8,(6),6.0,70.0,4.0,Saint-Chély-d'Apcher 43 avenue de la Gare 48200 Saint-Chély-d'Apcher,93.0,70.0,96.0,11.8,12.4
+Lycée polyvalent Portes de l'Oisans,Public,Polyvalent,Vizille,3.3,(16),18.0,66.0,11.0,Vizille 960 avenue Aristide Briand 38220 Vizille,96.0,66.0,391.0,14.1,12.9
+Lycée Sainte-Anne - Saint-Louis,Privé,Polyvalent,Sainte-Anne-d'Auray,3.9,(13),25.0,64.0,10.0,Sainte-Anne-d'Auray 2 rue de Locmaria (lycée) 56400 Sainte-Anne-d'Auray,95.0,64.0,258.0,11.8,8.3
+Lycée polyvalent privé les Bressis,Privé,Polyvalent,Annecy,3.0,(10),13.0,59.0,7.0,"Annecy 85 route des Creuses Seynod, CS 30012 74601 Annecy",93.0,59.0,161.0,13.8,12.9
+Lycée l'Astrée,Public,Général,Boën-sur-Lignon,3.3,(17),16.0,66.0,7.0,Boën-sur-Lignon 16 rue Arquillière 42130 Boën-sur-Lignon,97.0,66.0,77.0,11.0,14.2
+Lycée polyvalent Jean Monnet,Public,Polyvalent,Yzeure,3.1,(11),14.0,44.0,4.0,Yzeure 39 place Jules Ferry BP 5 03401 Yzeure cedex,81.0,44.0,270.0,9.8,7.4
+Lycée polyvalent Mont-Blanc René Dayve,Public,Polyvalent,Passy,3.7,(11),15.0,59.0,9.0,Passy allée des étudiants 74190 Passy,94.0,59.0,370.0,10.6,13.5
+Lycée privé La Providence Nicolas Barré,Privé,Général,Le Mesnil-Esnard,2.6,(14),13.0,76.0,8.0,Le Mesnil-Esnard 6 rue Neuvillette 76240 Le Mesnil-Esnard,98.0,76.0,156.0,14.4,14.4
+Lycée polyvalent Jean Baptiste Colbert,Public,Polyvalent,Lorient,3.1,(13),18.0,61.0,11.0,Lorient 117 boulevard Léon Blum BP 2135 56321 Lorient,94.0,61.0,331.0,13.0,12.8
+Lycée des métiers de l'ingénierie et des créations industrielles Georges Baumont,Public,Polyvalent,Saint-Dié-des-Vosges,3.3,(8),2.0,72.0,5.0,Saint-Dié-des-Vosges 32 rue de l'Orme 88100 Saint-Dié-des-Vosges,96.0,72.0,186.0,15.0,16.5
+Lycée Chaptal,Public,Général,Mende,3.2,(12),4.0,65.0,10.0,Mende Avenue Paulin Daudé 48001 Mende,98.0,65.0,135.0,14.1,12.9
+Lycée Théophile Roussel (voie générale et technologique),Public,Polyvalent,Saint-Chély-d'Apcher,4.2,(7),2.0,81.0,7.0,Saint-Chély-d'Apcher 15 rue DU DOCTEUR YVES DALLE 48200 Saint-Chély-d'Apcher,100.0,81.0,87.0,15.7,16.7
+Lycée général privé Saint-Pierre,Privé,Général,Cusset,3.2,(12),11.0,62.0,8.0,Cusset 26 allée Pierre Berthomier BP 138 03304 Cusset,96.0,62.0,100.0,10.8,10.2
+Lycée général privé Saint-Benoît,Privé,Général,Moulins,3.4,(10),9.0,53.0,7.0,Moulins 4 rue Achille Roche BP 806 03008 Moulins,94.0,53.0,35.0,4.6,11.2
+Lycée polyvalent Anna de Noailles,Public,Polyvalent,Évian-les-Bains,3.2,(16),12.0,62.0,10.0,Évian-les-Bains 2 avenue ANNA DE NOAILLES 74500 Évian-les-Bains,96.0,62.0,246.0,13.8,13.2
+Lycée Delamare-Deboutteville,Public,Polyvalent,Forges-les-Eaux,3.0,(13),14.0,59.0,9.0,Forges-les-Eaux 5 rue André Bertrand 76440 Forges-les-Eaux,95.0,59.0,289.0,14.0,10.6
+Lycée général et technologique Emile Peytavin,Public,Général,Mende,2.2,(4),5.0,56.0,7.0,Mende 63 avenue du 11 Novembre BP 38 48001 Mende,96.0,56.0,117.0,13.0,7.1
+Lycée polyvalent Ferdinand Buisson,Public,Polyvalent,Voiron,4.7,(18),16.0,71.0,7.0,Voiron 21 boulevard Edouard Kofler BP 209 38506 Voiron,91.0,71.0,406.0,14.3,11.3
+Lycée Saint-Michel,Privé,Général,Saint-Étienne,3.3,(5),11.0,81.0,10.0,Saint-Étienne 4 rue Jules Vallès 42030 Saint-Étienne,99.0,81.0,170.0,11.7,15.0
+Lycée privé Notre-Dame (voie générale et technologique),Privé,Polyvalent,Mende,3.7,(8),3.0,66.0,7.0,Mende Quartier FONTANILLES 48000 Mende,96.0,66.0,115.0,14.9,12.3
+Lycée Alain René Lesage,Public,Général,Vannes,3.4,(9),16.0,60.0,13.0,Vannes 20 rue Winston Churchill BP 551 56017 Vannes,96.0,60.0,362.0,13.8,11.7
+Lycée polyvalent privé Robin,Privé,Polyvalent,Vienne,3.7,(4),14.0,69.0,8.0,Vienne place Saint-Pierre BP 329 38204 Vienne,96.0,69.0,352.0,14.4,10.4
+Lycée polyvalent Louis Lachenal,Public,Polyvalent,Annecy,4.1,(10),11.0,69.0,9.0,"Annecy 335 route de Champ Farçon Argonay, BP 38 74372 Annecy",95.0,69.0,477.0,13.9,8.5
+Lycée polyvalent Paul Constans,Public,Polyvalent,Montluçon,3.3,(28),12.0,47.0,7.0,Montluçon Rue Christophe Thivrier BP 415 03107 Montluçon,88.0,47.0,421.0,10.7,9.3
+Lycée polyvalent La Saulaie,Public,Polyvalent,Saint-Marcellin,2.9,(25),13.0,62.0,7.0,Saint-Marcellin la Saulaie BP 80 38162 Saint-Marcellin,94.0,62.0,276.0,14.7,10.3
+Lycée polyvalent Saint-Jean Bosco - Les Cordeliers,Privé,Polyvalent,Cluses,3.3,(4),8.0,73.0,7.0,Cluses 11 rue Marcellin Berthelot BP 6 74301 Cluses,97.0,73.0,123.0,14.7,13.7
+Lycée polyvalent Rémi Belleau,Public,Polyvalent,Nogent-le-Rotrou,3.8,(13),5.0,58.0,13.0,Nogent-le-Rotrou 33 rue Bretonnerie 28400 Nogent-le-Rotrou,95.0,58.0,314.0,13.5,8.0
+Lycée et section d'enseignement professionnel Jean Macé,Public,Polyvalent,Lanester,3.9,(16),14.0,62.0,10.0,Lanester Rue Jean Paul Sartre BP 80107 56601 Lanester cedex,93.0,62.0,186.0,14.3,11.2
+Lycée Albert Einstein (voie générale et technologique),Public,Polyvalent,Bagnols-sur-Cèze,3.1,(16),12.0,54.0,10.0,Bagnols-sur-Cèze 354 avenue Vigan Braquet BP 165 30205 Bagnols-sur-Cèze,89.0,54.0,562.0,13.3,6.6
+Ensemble scolaire Jeanne d'Arc - Saint-Joseph (lycée),Privé,Général,Remiremont,3.4,(6),1.0,55.0,7.0,Remiremont 6 rue du Canton BP 20045 88202 Remiremont,93.0,55.0,74.0,14.3,16.9
+Lycée général et technologique Louis Bertrand,Public,Général,Val de Briey,3.5,(10),19.0,63.0,8.0,Val de Briey 27 rue Albert de Briey 54150 Val de Briey,95.0,63.0,319.0,13.8,12.5
+Lycée Dhuoda,Public,Général,Nîmes,3.7,(7),10.0,40.0,6.0,Nîmes 17 rue Dhuoda BP 71155 30913 Nîmes,87.0,40.0,288.0,13.7,8.4
+Lycée général et technologique privé Saint-Joseph La Salle,Privé,Général,Thonon-les-Bains,3.1,(16),4.0,81.0,7.0,Thonon-les-Bains 16 avenue d'Evian CS 80074 74202 Thonon-les-Bains,100.0,81.0,189.0,15.2,12.3
+Lycée polyvalent Roger Frison-Roche,Public,Polyvalent,Chamonix-Mont-Blanc,3.5,(18),2.0,82.0,8.0,Chamonix-Mont-Blanc Promenade du Fori BP 9 74401 Chamonix-Mont-Blanc,97.0,82.0,152.0,15.9,13.9
+Lycée polyvalent Alfred Mézières,Public,Polyvalent,Longwy,2.8,(31),21.0,56.0,10.0,Longwy 3 avenue André Malraux BP 50018 54401 Longwy,89.0,56.0,550.0,13.6,3.9
+Lycée Henri Loritz,Public,Général,Nancy,3.7,(23),31.0,66.0,5.0,Nancy 29 rue des Jardiniers CS 34218 54042 Nancy,94.0,66.0,433.0,12.4,11.6
+Lycée polyvalent Emmanuel Mounier,Public,Polyvalent,Grenoble,4.4,(3),12.0,41.0,11.0,Grenoble 6 avenue MARCELIN BERTHELOT 38029 Grenoble,88.0,41.0,294.0,14.7,10.5
+Lycée Pierre de Coubertin,Public,Polyvalent,Bolbec,3.1,(8),10.0,57.0,4.0,Bolbec 130 bis rue Georges Clemenceau BP 50097 76210 Bolbec,92.0,57.0,144.0,11.7,14.7
+Lycée Jeanne d'Arc,Public,Général,Nancy,3.6,(13),39.0,64.0,7.0,Nancy 16 rue PIERRE FOURIER 54000 Nancy,96.0,64.0,336.0,11.7,8.1
+Lycée polyvalent Stanislas,Public,Polyvalent,Villers-lès-Nancy,3.1,(15),29.0,61.0,7.0,Villers-lès-Nancy 468 rue DE VANDOEUVRE 54600 Villers-lès-Nancy,89.0,61.0,256.0,12.6,7.8
+Lycée Simone Weil,Public,Général,Saint-Priest-en-Jarez,3.4,(8),2.0,67.0,9.0,Saint-Priest-en-Jarez 63 avenue Albert Raimond BP 54 42272 Saint-Priest-en-Jarez,97.0,67.0,247.0,12.9,17.8
+Lycée polyvalent Jehan de Beauce,Public,Polyvalent,Chartres,4.1,(13),3.0,60.0,11.0,Chartres 20 rue du Commandant Chesne 28000 Chartres,94.0,60.0,582.0,14.0,13.5
+Lycée Ernest Bichat,Public,Général,Lunéville,3.2,(9),28.0,59.0,9.0,Lunéville 4 avenue DU DOCTEUR PAUL KAHN 54300 Lunéville,96.0,59.0,302.0,12.7,8.8
+Lycée des Récollets,Privé,Général,Longwy,2.8,(3),22.0,69.0,7.0,Longwy 44 rue du Général Pershing 54400 Longwy,99.0,69.0,103.0,13.5,11.4
+Lycée Georges Brassens,Public,Polyvalent,Neufchâtel-en-Bray,3.4,(5),6.0,64.0,8.0,Neufchâtel-en-Bray 27 boulevard Gustave Eiffel BP 94 76270 Neufchâtel-en-Bray,93.0,64.0,251.0,13.4,15.8
+Lycée Guy de Maupassant,Public,Général,Fécamp,3.3,(12),5.0,54.0,12.0,Fécamp 1575 boulevard Nelson Mandela BP 194 76401 Fécamp,93.0,54.0,358.0,10.2,16.0
+Lycée André Chamson (voie générale et technologique),Public,Polyvalent,Le Vigan,3.1,(18),8.0,61.0,8.0,Le Vigan 1 avenue Jean Jaurès BP 29 30120 Le Vigan,97.0,61.0,143.0,14.2,13.7
+Lycée polyvalent privé Philippine Duchesne ITEC - Boisfleury,Privé,Polyvalent,Corenc,4.2,(31),10.0,78.0,9.0,Corenc 118 avenue de l'Eygala 38700 Corenc,99.0,78.0,322.0,14.5,15.3
+Lycée général et technologique Vincent Auriol,Public,Général,Revel,3.0,(8),20.0,71.0,9.0,Revel 36 route de Sorèze 31250 Revel,97.0,71.0,136.0,13.2,11.9
+Lycée polyvalent privé Demotz de la Salle,Privé,Polyvalent,Rumilly,4.5,(7),1.0,71.0,9.0,Rumilly 2 rue du Collège 74150 Rumilly,98.0,71.0,111.0,14.2,17.8
+Lycée polyvalent Silvia Monfort,Public,Polyvalent,Luisant,3.1,(12),2.0,52.0,11.0,Luisant 6 rue de l'Orme de Sours BP 9 28600 Luisant,95.0,52.0,377.0,13.5,14.4
+Lycée privé Saint-Vincent de Paul (voie générale et technologique),Privé,Polyvalent,Nîmes,4.1,(3),5.0,69.0,7.0,Nîmes 3 boulevard DE BRUXELLES 30020 Nîmes,97.0,69.0,347.0,15.2,14.7
+Lycée Philippe Lamour,Public,Général,Nîmes,3.7,(19),7.0,57.0,12.0,Nîmes 36 rue de l'Occitanie BP 14038 30001 Nîmes cedex 5,92.0,57.0,372.0,11.8,14.9
+Lycée Jean-Baptiste Dumas (voie générale et technologique),Public,Polyvalent,Alès,3.6,(26),3.0,57.0,13.0,Alès Place de Belgique BP 236 30104 Alès,87.0,57.0,516.0,15.9,9.3
+Lycée polyvalent du Grésivaudan,Public,Polyvalent,Meylan,3.8,(10),11.0,71.0,12.0,Meylan 1 avenue du Taillefer 38240 Meylan,96.0,71.0,435.0,11.8,14.9
+Lycée et section d'enseignement professionnel Jeanne d'Arc Saint-Ivy,Privé,Polyvalent,Pontivy,3.0,(15),10.0,69.0,9.0,Pontivy 29 rue Abbé Martin BP 30019 56306 Pontivy,96.0,69.0,425.0,15.0,11.7
+Lycée Notre-Dame le Ménimur,Privé,Polyvalent,Vannes,3.4,(3),8.0,68.0,7.0,Vannes 71 rue de Metz 56000 Vannes,99.0,68.0,381.0,14.5,16.2
+Lycée polyvalent Edouard Branly,Public,Polyvalent,Dreux,4.0,(16),1.0,58.0,11.0,Dreux 29 avenue Kennedy 28100 Dreux,94.0,58.0,507.0,14.7,11.8
+Lycée Albert Thomas,Public,Général,Roanne,2.9,(10),1.0,49.0,6.0,Roanne 20 rue Albert Thomas BP 517 42328 Roanne,93.0,49.0,299.0,12.0,18.3
+Lycée Henri Poincaré,Public,Général,Nancy,4.1,(25),13.0,69.0,12.0,Nancy 2 rue de la Visitation CS 54202 54042 Nancy,97.0,69.0,419.0,15.1,13.3
+Lycée polyvalent M.L Dissard Françoise,Public,Polyvalent,Tournefeuille,2.9,(18),19.0,67.0,7.0,Tournefeuille 5 boulevard Alain Savary BP 21121 31170 Tournefeuille,94.0,67.0,536.0,13.3,11.6
+Lycée d'enseignement général et technologique Nelson Mandela,Public,Général,Pibrac,3.9,(7),40.0,77.0,10.0,Pibrac 8 avenue Maurice Fonvieille 31820 Pibrac,99.0,77.0,307.0,11.3,9.1
+Lycée Albert Camus,Public,Général,Nîmes,3.6,(18),4.0,57.0,10.0,Nîmes 51 avenue Georges Pompidou BP 7069 30911 Nîmes,94.0,57.0,460.0,14.5,15.3
+Lycée polyvalent Paul Mathou,Public,Polyvalent,Gourdan-Polignan,3.2,(13),39.0,51.0,11.0,Gourdan-Polignan Avenue DE LUCHON 31210 Gourdan-Polignan,87.0,51.0,191.0,11.4,9.3
+Lycée polyvalent Galilée,Public,Polyvalent,Vienne,2.9,(4),9.0,66.0,7.0,Vienne 124 avenue Général Leclerc BP 145 38209 Vienne,93.0,66.0,229.0,15.6,14.2
+Lycée polyvalent Raymond Naves,Public,Polyvalent,Toulouse,2.8,(25),33.0,58.0,11.0,Toulouse 139 route d'Albi BP 52143 31018 Toulouse cedex 2,91.0,58.0,598.0,11.7,5.9
+Lycée polyvalent de la Matheysine,Public,Polyvalent,La Mure,2.7,(15),8.0,67.0,8.0,La Mure 3 rue Lesdiguières 38350 La Mure,96.0,67.0,142.0,15.6,10.7
+Lycée polyvalent Saint-Joseph Lasalle,Privé,Polyvalent,Vannes,3.8,(9),9.0,75.0,5.0,Vannes 39 boulevard des Iles CS 42404 56010 Vannes,98.0,75.0,220.0,13.2,15.8
+Lycée polyvalent Bellevue,Public,Polyvalent,Toulouse,3.3,(14),28.0,64.0,10.0,Toulouse 135 route de Narbonne BP 44370 31031 Toulouse cedex 4,91.0,64.0,598.0,12.3,6.9
+Lycée polyvalent Saint Exupéry,Public,Polyvalent,Blagnac,3.4,(18),30.0,64.0,11.0,Blagnac 1 place Alain Savary BP 80093 31703 Blagnac,89.0,64.0,495.0,12.2,9.7
+Lycée privé de la Salle (voie générale et technologique),Privé,Polyvalent,Alès,4.3,(14),1.0,69.0,6.0,Alès 17 place Henri Barbusse BP 50319 30106 Alès cedex,93.0,69.0,298.0,16.7,11.9
+Lycée polyvalent Déodat de Séverac,Public,Polyvalent,Toulouse,2.9,(16),27.0,45.0,11.0,Toulouse 26 boulevard Déodat de Séverac 31076 Toulouse,89.0,45.0,417.0,11.3,12.4
+Lycée Brocéliande,Public,Polyvalent,Guer,3.3,(7),6.0,62.0,10.0,Guer Bellevue BP 07 56383 Guer,95.0,62.0,237.0,12.0,16.2
+Lycée Saint-Joseph La Salle,Privé,Polyvalent,Lorient,3.5,(9),7.0,68.0,8.0,Lorient 42 rue de Kerguestenen BP 925 56109 Lorient,96.0,68.0,328.0,16.2,12.3
+Lycée polyvalent privé Saint-Marc,Privé,Polyvalent,Nivolas-Vermelle,3.9,(46),4.0,85.0,11.0,Nivolas-Vermelle rue Vernay BP 7 38312 Nivolas-Vermelle,100.0,85.0,417.0,15.2,16.5
+Lycée Jeanne d'Arc,Privé,Général,Gourin,5.0,(1),5.0,64.0,11.0,Gourin 2 rue Pénantraon 56110 Gourin,94.0,64.0,59.0,16.4,10.4
+Lycée polyvalent Charles de Gaulle,Public,Polyvalent,Muret,3.7,(23),49.0,52.0,10.0,Muret 24 avenue Charles de Gaulle BP 10113 31604 Muret,86.0,52.0,349.0,10.5,6.3
+Lycée général et technologique des Arènes,Public,Général,Toulouse,2.8,(15),46.0,60.0,10.0,Toulouse PLACE EMILE MALE 31024 Toulouse,94.0,60.0,274.0,10.5,10.8
+Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet,Public,Polyvalent,Pont-à-Mousson,3.9,(4),12.0,56.0,6.0,Pont-à-Mousson 79 place de Trey BP 289 54701 Pont-à-Mousson cedex,90.0,56.0,166.0,10.5,15.2
+Lycée polyvalent privé Sainte-Thérèse,Privé,Polyvalent,Saint-Gaudens,3.7,(11),15.0,63.0,9.0,Saint-Gaudens 16 rue du Bugatet BP 161 31800 Saint-Gaudens,95.0,63.0,52.0,13.7,7.4
+Lycée polyvalent Jean Pierre Vernant,Public,Polyvalent,Pins-Justaret,4.0,(12),16.0,71.0,10.0,Pins-Justaret 9 chemin de la Cépette BP 31860 31860 Pins-Justaret,97.0,71.0,441.0,13.5,7.8
+Lycée Benjamin Franklin,Public,Général,Auray,3.8,(15),4.0,65.0,11.0,Auray 1 rue de la Forêt BP 70634 56406 Auray cedex,98.0,65.0,386.0,15.0,16.5
+Lycée général Pierre Bourdieu,Public,Général,Fronton,3.7,(33),41.0,72.0,12.0,Fronton avenue de Villaudric BP 54 31620 Fronton,97.0,72.0,285.0,10.4,11.2
+Lycée et section d'enseignement professionnel La Mennais,Privé,Polyvalent,Ploërmel,3.9,(28),2.0,80.0,12.0,Ploërmel 2 rue Général Dubreton BP 36 56801 Ploërmel,99.0,80.0,489.0,16.7,14.8
+Lycée polyvalent Léonard de Vinci,Public,Polyvalent,Villefontaine,3.1,(9),3.0,61.0,12.0,Villefontaine boulevard de Villefontaine BP 29 38091 Villefontaine,91.0,61.0,382.0,10.6,16.6
+Lycée général et technologique l'Oiselet,Public,Général,Bourgoin-Jallieu,2.6,(10),2.0,54.0,13.0,Bourgoin-Jallieu Rue Vaucanson BP 50403 38302 Bourgoin-Jallieu cedex,92.0,54.0,604.0,12.8,17.0
+Lycée Jacques Marquette,Public,Général,Pont-à-Mousson,3.6,(14),10.0,66.0,9.0,Pont-à-Mousson Place Foch 54700 Pont-à-Mousson,98.0,66.0,289.0,13.8,15.4
+Lycée polyvalent Monnet-Mermoz,Public,Polyvalent,Aurillac,3.3,(6),8.0,45.0,11.0,Aurillac 10 rue du Docteur Chibret BP 535 15005 Aurillac cedex,88.0,45.0,318.0,8.7,9.6
+Lycée Saint-Dominique,Privé,Général,Nancy,3.8,(2),7.0,52.0,6.0,Nancy 11 rue du Manège BP 20223 54004 Nancy,98.0,52.0,31.0,15.7,14.6
+Lycée polyvalent Edmond Rostand,Public,Polyvalent,Bagnères-de-Luchon,4.8,(4),14.0,63.0,9.0,Bagnères-de-Luchon 2 boulevard Charles de Gaulle 31110 Bagnères-de-Luchon,93.0,63.0,65.0,13.7,13.8
+Lycée Georges de la Tour,Public,Général,Nancy,2.7,(3),8.0,48.0,6.0,Nancy 5 rue de la Croix Saint-Claude 54000 Nancy,98.0,48.0,109.0,15.6,15.3
+Lycée polyvalent privé Gerbert,Privé,Polyvalent,Aurillac,3.6,(12),6.0,58.0,6.0,Aurillac 47 AVENUE DES PRADES 15000 Aurillac,92.0,58.0,62.0,8.6,12.2
+Lycée Jean-Baptiste Vatelot,Privé,Général,Toul,4.7,(1),6.0,76.0,6.0,Toul 6 rue de la République BP 30061 54203 Toul,100.0,76.0,56.0,10.1,15.7
+Lycée Saint-Léon IX,Privé,Général,Nancy,3.9,(4),4.0,75.0,5.0,Nancy 32 avenue FOCH 54000 Nancy,100.0,75.0,82.0,16.3,9.8
+Lycée général et technologique privé Saint Joseph - La Salle - Campus La Salle,Privé,Général,Toulouse,3.5,(18),9.0,90.0,14.0,Toulouse 85 rue de Limayrac BP 25202 31079 Toulouse cedex 5,100.0,90.0,289.0,11.8,15.0
+Lycée polyvalent Jean Zay,Public,Polyvalent,Jarny,3.3,(17),2.0,70.0,8.0,Jarny 2 rue de la Tuilerie BP 39 54800 Jarny,95.0,70.0,362.0,15.8,16.9
+Lycée polyvalent privé Les Maristes,Privé,Polyvalent,Toulouse,2.7,(18),5.0,52.0,11.0,Toulouse 134-136 avenue de Lespinet 31400 Toulouse,98.0,52.0,55.0,15.5,12.7
+Lycée polyvalent privé Emilie de Rodat,Privé,Polyvalent,Toulouse,3.7,(38),8.0,87.0,10.0,Toulouse 25 avenue de Lombez BP 3183 31027 Toulouse,99.0,87.0,242.0,15.0,10.8
+Lycée climatique et sportif Pierre de Coubertin (voie générale et technologique),Public,Spécialisé,Font-Romeu-Odeillo-Via,3.8,(10),1.0,72.0,9.0,Font-Romeu-Odeillo-Via 2 avenue Pierre de Coubertin BP 88 66120 Font-Romeu-Odeillo-Via,98.0,72.0,164.0,14.7,14.7
+Lycée privé Beaupeyrat,Privé,Général,Limoges,4.1,(9),1.0,61.0,6.0,Limoges 9 Ter rue Pétiniaud-Beaupeyrat 87036 Limoges,94.0,61.0,60.0,14.7,15.5
+Lycée Louise Michel,Public,Polyvalent,Gisors,2.8,(13),15.0,51.0,10.0,Gisors 23 rue d'Eragny 27140 Gisors,89.0,51.0,425.0,11.9,12.2
+Lycée Henri Becquerel,Public,Polyvalent,Nangis,2.9,(20),11.0,54.0,7.0,Nangis 1 boulevard Henri Rousselle 77370 Nangis,95.0,54.0,182.0,13.7,12.2
+Lycée polyvalent de Pointe-Noire,Public,Polyvalent,Pointe-Noire,3.2,(14),14.0,51.0,10.0,Pointe-Noire Grande Plaine 97116 Pointe-Noire,93.0,51.0,116.0,14.7,15.0
+Lycée Javouhey,Privé,Général,Brest,3.3,(12),14.0,49.0,9.0,Brest 4 rue du Rempart CS 63816 29238 Brest,97.0,49.0,139.0,11.1,15.3
+Lycée Jean Moulin,Public,Général,Torcy,3.0,(13),18.0,50.0,8.0,Torcy 6-8 avenue Jean Moulin BP 116 77200 Torcy,84.0,50.0,244.0,9.5,13.2
+Lycée polyvalent Simone Signoret,Public,Polyvalent,Vaux-le-Pénil,3.9,(17),17.0,56.0,8.0,Vaux-le-Pénil Place du 14 juillet 77000 Vaux-le-Pénil,93.0,56.0,339.0,13.2,10.2
+Lycée Les Fontenelles,Public,Polyvalent,Louviers,3.1,(18),20.0,53.0,10.0,Louviers Chemin des Fontenelles BP 617 27406 Louviers,91.0,53.0,402.0,11.8,8.9
+Lycée polyvalent les Pannevelles,Public,Polyvalent,Provins,4.3,(7),16.0,48.0,5.0,Provins Route de Chalautre la Petite CS 60330 77481 Provins,86.0,48.0,239.0,13.4,8.4
+Lycée et section d'enseignement professionnel Saint-Joseph,Privé,Général,Concarneau,3.9,(15),13.0,70.0,8.0,Concarneau 61 rue Bayard 29187 Concarneau,100.0,70.0,134.0,15.7,2.5
+Lycée Uruguay France,Public,Polyvalent,Avon,3.0,(11),19.0,47.0,7.0,Avon 1 avenue des Marronniers CS 70732 77215 Avon,84.0,47.0,371.0,13.1,4.6
+Lycée polyvalent Paul Héroult,Public,Polyvalent,Saint-Jean-de-Maurienne,2.9,(10),13.0,56.0,9.0,Saint-Jean-de-Maurienne 307 avenue du Mont Cenis BP 105 73302 Saint-Jean-de-Maurienne,91.0,56.0,335.0,12.4,11.6
+Lycée Jean Rostand,Public,Général,Caen,2.9,(25),21.0,46.0,9.0,Caen 98 route d'Ifs CS 85457 14054 Caen cedex 4,93.0,46.0,483.0,12.8,13.3
+Lycée de l'Elorn,Public,Polyvalent,Landerneau,3.4,(13),19.0,67.0,9.0,Landerneau 10 place Saint Houardon BP 759 29207 Landerneau cedex,97.0,67.0,400.0,14.9,14.8
+Lycée Paul Cornu,Public,Polyvalent,Lisieux,3.3,(6),25.0,53.0,4.0,Lisieux 9 rue Paul Cornu BP 27225 14107 Lisieux cedex,92.0,53.0,190.0,11.4,13.0
+Lycée Charles de Gaulle,Public,Général,Caen,3.2,(16),32.0,60.0,8.0,Caen 39 rue d'Hastings BP 56102 14063 Caen,95.0,60.0,231.0,8.4,11.3
+Lycée polyvalent Vauban,Public,Polyvalent,Brest,4.2,(6),22.0,61.0,4.0,Brest Rue de Kerichen BP 62506 29225 Brest,88.0,61.0,258.0,14.5,8.8
+Lycée Jules Lesven,Public,Général,Brest,2.7,(6),21.0,39.0,8.0,Brest 34 rue Jules Lesven BP 72507 29225 Brest cedex 2,92.0,39.0,223.0,12.4,14.6
+Lycée Brizeux,Public,Général,Quimper,3.6,(14),28.0,80.0,11.0,Quimper 6 rue Bourg les Bourgs BP 60308 29191 Quimper cedex,100.0,80.0,209.0,14.3,13.8
+Lycée polyvalent Charles Coeffin,Public,Polyvalent,Baie-Mahault,3.4,(10),25.0,54.0,12.0,Baie-Mahault TRIONCELLE Trioncelle 97122 Baie-Mahault,91.0,54.0,381.0,11.7,8.1
+Lycée Saint-Sébastien - Les 2 Rives,Privé,Général,Landerneau,3.8,(14),30.0,73.0,12.0,Landerneau 4 rue H de Guébriant BP 30819 29208 Landerneau,100.0,73.0,158.0,7.8,14.2
+Lycée Sonia Delaunay,Public,Polyvalent,Cesson,3.5,(21),21.0,60.0,8.0,Cesson 1 rue Aimé Césaire 77240 Cesson,94.0,60.0,266.0,13.0,12.7
+Campus scolaire de Coulommiers,Public,Polyvalent,Coulommiers,2.7,(35),27.0,53.0,10.0,Coulommiers 6 rue des templiers 77527 Coulommiers,89.0,53.0,516.0,12.7,10.3
+Lycée Jehan de Chelles,Public,Polyvalent,Chelles,2.4,(36),31.0,49.0,8.0,Chelles 47 rue des Cités BP 122 77649 Chelles,89.0,49.0,329.0,10.4,12.5
+Lycée Etienne Bezout,Public,Polyvalent,Nemours,3.0,(18),37.0,52.0,10.0,Nemours 31 avenue Etienne Dailly 77140 Nemours,89.0,52.0,351.0,11.9,8.3
+Lycée Polyvalent Gustave Jaume,Public,Polyvalent,Pierrelatte,2.7,(11),24.0,51.0,9.0,Pierrelatte avenue Henri Becquerel BP 143 26702 Pierrelatte,86.0,51.0,326.0,11.1,9.5
+Lycée polyvalent Algoud-Laffemas,Public,Polyvalent,Valence,4.1,(2),21.0,51.0,12.0,Valence rue Barthélémy de Laffemas BP 26 26901 Valence,90.0,51.0,539.0,11.6,8.5
+Lycée polyvalent Frédéric Joliot-Curie,Public,Polyvalent,Dammarie-les-Lys,2.4,(12),32.0,52.0,11.0,Dammarie-les-Lys 168 rue Frédéric Joliot-Curie BP 36 77196 Dammarie-les-Lys,88.0,52.0,515.0,12.5,11.4
+Lycée François Couperin,Public,Général,Fontainebleau,3.4,(22),35.0,62.0,10.0,Fontainebleau Route Hurtault 77305 Fontainebleau,97.0,62.0,395.0,12.3,9.3
+Lycée polyvalent Blaise Pascal,Public,Polyvalent,Brie-Comte-Robert,2.4,(30),40.0,56.0,8.0,Brie-Comte-Robert 15 allée Commandant Guesnet BP 83 77170 Brie-Comte-Robert,89.0,56.0,364.0,11.6,6.2
+Lycée Samuel Beckett,Public,Général,La Ferté-sous-Jouarre,2.9,(18),33.0,48.0,8.0,La Ferté-sous-Jouarre 19 rue du Lion 77260 La Ferté-sous-Jouarre,90.0,48.0,250.0,12.5,6.7
+Lycée polyvalent de Serris Emilie du Châtelet,Public,Polyvalent,Serris,3.1,(24),50.0,60.0,7.0,Serris 35 cours du Danube 77700 Serris,92.0,60.0,388.0,10.7,10.7
+Lycée Pierre Mendès France,Public,Général,Savigny-le-Temple,3.0,(13),34.0,39.0,8.0,Savigny-le-Temple 11 avenue de l'Europe 77176 Savigny-le-Temple,91.0,39.0,308.0,12.4,11.6
+Lycée Guy Gasnier Sainte Bathilde,Privé,Général,Chelles,3.0,(12),57.0,80.0,7.0,Chelles 28 rue du Tir 77500 Chelles,100.0,80.0,81.0,9.4,4.4
+Lycée général Emile Loubet,Public,Général,Valence,3.4,(24),28.0,68.0,10.0,Valence 2 rue du Lycée BP 2114 26021 Valence,97.0,68.0,203.0,9.7,7.6
+Lycée polyvalent Charlotte Delbo,Public,Polyvalent,Dammartin-en-Goële,3.7,(2),54.0,46.0,7.0,Dammartin-en-Goële 2 avenue Robert Badinter 77230 Dammartin-en-Goële,83.0,46.0,158.0,9.7,7.6
+Lycée René Descartes,Public,Polyvalent,Champs-sur-Marne,2.5,(19),53.0,52.0,10.0,Champs-sur-Marne 4 boulevard Copernic 77420 Champs-sur-Marne,84.0,52.0,241.0,9.9,4.8
+Lycée général et technologique Clément Ader,Public,Polyvalent,Tournan-en-Brie,3.1,(20),26.0,55.0,10.0,Tournan-en-Brie 76 rue Georges Clemenceau 77220 Tournan-en-Brie,88.0,55.0,335.0,12.7,9.9
+Lycée privé Saint-Laurent La Paix Notre-Dame,Privé,Général,Lagny-sur-Marne,3.6,(40),29.0,80.0,10.0,Lagny-sur-Marne 43 rue Brébion 77400 Lagny-sur-Marne,99.0,80.0,334.0,8.0,12.7
+Lycée général privé Notre Dame de la Galaure,Privé,Général,Châteauneuf-de-Galaure,4.7,(12),26.0,94.0,9.0,Châteauneuf-de-Galaure 2 rue de la vallée 26330 Châteauneuf-de-Galaure,100.0,94.0,136.0,9.9,4.8
+Lycée Galilée,Public,Général,Combs-la-Ville,2.9,(26),51.0,58.0,8.0,Combs-la-Ville Avenue André Malraux BP 114 77380 Combs-la-Ville,92.0,58.0,236.0,10.4,9.9
+Lycée André Malraux,Public,Polyvalent,Montereau-Fault-Yonne,3.5,(15),52.0,49.0,11.0,Montereau-Fault-Yonne Avenue du Lycée 77130 Montereau-Fault-Yonne,85.0,49.0,431.0,10.1,8.9
+Lycée polyvalent La Tour des Dames,Public,Polyvalent,Rozay-en-Brie,3.1,(24),47.0,51.0,10.0,Rozay-en-Brie Rue de Vilpré BP 107 77540 Rozay-en-Brie,86.0,51.0,298.0,8.6,11.0
+Lycée Charles le Chauve,Public,Général,Roissy-en-Brie,2.9,(16),45.0,53.0,10.0,Roissy-en-Brie 4 rue Joseph Bodin de Boismortier 77680 Roissy-en-Brie,96.0,53.0,428.0,11.5,11.2
+Lycée Camille Claudel,Public,Général,Pontault-Combault,2.7,(11),25.0,51.0,13.0,Pontault-Combault Place d'Anyama 77347 Pontault-Combault,92.0,51.0,351.0,9.5,12.8
+Lycée polyvalent Charles de Gaulle,Public,Polyvalent,Longperrier,2.9,(9),42.0,48.0,9.0,Longperrier 6 place Jean Mermoz BP 80051 77230 Longperrier,88.0,48.0,360.0,9.6,11.5
+Lycée polyvalent Léonard de Vinci,Public,Polyvalent,Melun,3.9,(8),24.0,42.0,8.0,Melun 2 bis rue Edouard Branly 77000 Melun,78.0,42.0,221.0,12.8,10.7
+Lycée Van Dongen,Public,Général,Lagny-sur-Marne,3.0,(20),22.0,53.0,12.0,Lagny-sur-Marne 45 rue Jean Mermoz 77400 Lagny-sur-Marne,91.0,53.0,352.0,13.0,12.3
+Lycée Gaston Bachelard,Public,Général,Chelles,2.9,(31),46.0,55.0,10.0,Chelles 32 avenue de l'Europe BP 25 B 77500 Chelles,94.0,55.0,529.0,9.8,11.5
+Lycée général et technologique Gerville Réache,Public,Général,Basse-Terre,3.7,(6),23.0,49.0,13.0,Basse-Terre 37 rue Amédée Fengarol 97100 Basse-Terre,94.0,49.0,316.0,10.9,13.2
+Lycée La Pérouse - Kerichen,Public,Général,Brest,3.5,(13),36.0,74.0,10.0,Brest rue Prince de Joinville BP 90007 29801 Brest,99.0,74.0,203.0,13.2,13.4
+Lycée polyvalent Pierre Guéguin,Public,Polyvalent,Concarneau,2.7,(4),46.0,54.0,10.0,Concarneau Cours Charlemagne BP 240 29182 Concarneau,92.0,54.0,213.0,11.8,11.0
+Lycée Yves Thépôt,Public,Polyvalent,Quimper,3.1,(15),43.0,51.0,4.0,Quimper 28 avenue Yves Thépot BP 61439 29104 Quimper,88.0,51.0,193.0,12.5,10.6
+Lycée de l'Harteloire,Public,Général,Brest,3.7,(10),41.0,72.0,7.0,Brest 1 rue Bertrand Du Guesclin BP 91315 29213 Brest,95.0,72.0,107.0,12.6,7.8
+Lycée Sainte-Marie,Privé,Général,Caen,2.8,(29),27.0,77.0,12.0,Caen 8 avenue de la Croix Guérin 14000 Caen,99.0,77.0,283.0,12.9,9.6
+Lycée polyvalent Simone Veil,Public,Polyvalent,Noisiel,3.4,(15),14.0,46.0,10.0,Noisiel 1 avenue Pierre Mendès France BP 14 77186 Noisiel,84.0,46.0,349.0,13.5,9.5
+Lycée André Malraux,Public,Général,Gaillon,4.2,(7),19.0,57.0,7.0,Gaillon 59 avenue François Mitterrand 27600 Gaillon,94.0,57.0,182.0,12.1,7.3
+Lycée Jacques Prévert,Public,Général,Pont-Audemer,2.9,(22),18.0,65.0,10.0,Pont-Audemer 3 place Prévert 27500 Pont-Audemer,96.0,65.0,378.0,12.1,10.3
+Lycée polyvalent Nord Grande-Terre,Public,Polyvalent,Port-Louis,3.4,(22),18.0,44.0,6.0,Port-Louis Quartier de Beauport 97117 Port-Louis,85.0,44.0,263.0,14.1,7.8
+Lycée Guillaume le Conquérant,Public,Polyvalent,Falaise,3.6,(10),24.0,59.0,10.0,Falaise 3 rue Louis Liard BP 99 14700 Falaise,91.0,59.0,258.0,13.0,9.2
+Lycée professionnel Pierre de Coubertin,Public,Polyvalent,Meaux,3.3,(16),13.0,47.0,11.0,Meaux Chaussée de Paris 77100 Meaux,90.0,47.0,554.0,9.3,13.5
+Lycée général et technologique Faustin Fléret,Public,Général,Morne-à-l'Eau,3.0,(9),16.0,56.0,12.0,Morne-à-l'Eau Quartier Espérance BP 67 97111 Morne-à-l'Eau,97.0,56.0,369.0,14.4,10.7
+Lycée polyvalent Bertène Juminer,Public,Polyvalent,Saint-Laurent-du-Maroni,3.6,(5),16.0,20.0,8.0,Saint-Laurent-du-Maroni Route de Saint-Maurice BP 57 97320 Saint-Laurent-du-Maroni,63.0,20.0,409.0,5.1,5.6
+Lycée Émiland Gauthey,Public,Polyvalent,Chalon-sur-Saône,3.0,(10),20.0,48.0,10.0,Chalon-sur-Saône 23 place du Collège 71321 Chalon-sur-Saône,91.0,48.0,261.0,11.3,12.6
+Lycée polyvalent Marlioz,Public,Polyvalent,Aix-les-Bains,3.4,(15),18.0,62.0,10.0,Aix-les-Bains chemin du lycée BP 251 73102 Aix-les-Bains,93.0,62.0,408.0,11.5,8.8
+Lycée Auguste et Louis Lumière,Public,Polyvalent,La Ciotat,4.5,(2),40.0,59.0,10.0,La Ciotat Avenue Jules Ferry 13600 La Ciotat,95.0,59.0,312.0,13.0,14.8
+Lycée Adam de Craponne,Public,Polyvalent,Salon-de-Provence,3.8,(32),60.0,64.0,12.0,Salon-de-Provence 218 rue Chateauredon BP 55 13651 Salon-de-Provence,94.0,64.0,610.0,13.7,13.1
+Lycée polyvalent Jean Lurçat,Public,Polyvalent,Martigues,3.9,(6),53.0,62.0,9.0,Martigues Boulevard des Rayettes BP 70129 13693 Martigues,96.0,62.0,268.0,14.4,14.0
+Lycée de la Méditerranée,Public,Polyvalent,La Ciotat,3.6,(21),49.0,70.0,10.0,La Ciotat Avenue de la Méditerranée 13600 La Ciotat,95.0,70.0,374.0,14.7,13.1
+Lycée du Sacré-Coeur,Privé,Général,Aix-en-Provence,3.2,(17),61.0,75.0,12.0,Aix-en-Provence 29 rue MANUEL 13100 Aix-en-Provence,98.0,75.0,281.0,13.7,11.7
+Lycée Saint-Exupéry,Public,Général,Marseille,3.3,(4),66.0,31.0,11.0,Marseille 529 chemin DE LA MADRAGUE VILLE 13326 Marseille,81.0,31.0,507.0,13.0,13.6
+Lycée Denis Diderot,Public,Polyvalent,Marseille,3.3,(19),68.0,39.0,11.0,Marseille 23 boulevard Laveran 13388 Marseille,86.0,39.0,365.0,13.6,13.1
+Lycée militaire d'Aix-en-Provence,Public,Général,Aix-en-Provence,4.8,(1),71.0,88.0,9.0,Aix-en-Provence 13 boulevard des Poilus 13617 Aix-en-Provence,100.0,88.0,147.0,13.5,12.6
+Lycée Notre-Dame de France,Privé,Général,Marseille,4.0,(3),50.0,87.0,9.0,Marseille 132 rue Breteuil BP 92 13253 Marseille,100.0,87.0,111.0,14.7,13.1
+Lycée polyvalent Nelson Mandela,Public,Polyvalent,Marseille,3.2,(12),74.0,50.0,13.0,Marseille Rue LOUIS REYBAUD 13012 Marseille,91.0,50.0,351.0,12.3,13.3
+Lycée polyvalent Emile Zola,Public,Polyvalent,Aix-en-Provence,3.6,(11),62.0,65.0,12.0,Aix-en-Provence Avenue Arc de Meyran BP 60010 13181 Aix-en-Provence,95.0,65.0,577.0,13.7,11.7
+Lycée Pierre Mendès-France,Public,Polyvalent,Vitrolles,2.7,(20),48.0,52.0,11.0,Vitrolles Avenue Yitzhak Rabin BP 17 13741 Vitrolles,89.0,52.0,453.0,14.7,8.0
+Lycée régional Jean D'Ormesson,Public,Général,Châteaurenard,3.1,(10),99.0,62.0,9.0,Châteaurenard 860 avenue Jean Mermoz BP 30 13831 Châteaurenard,97.0,62.0,317.0,10.6,11.4
+Lycée Paul Melizan,Privé,Général,Marseille,4.6,(6),95.0,83.0,9.0,Marseille 55 route des Camoins 13011 Marseille,100.0,83.0,167.0,10.5,12.0
+Lycée polyvalent Saint-Eloi,Privé,Polyvalent,Aix-en-Provence,4.5,(27),98.0,57.0,6.0,Aix-en-Provence 9 avenue Jules Isaac 13626 Aix-en-Provence,91.0,57.0,117.0,10.6,11.4
+Lycée polyvalent Charles Péguy,Privé,Polyvalent,Marseille,5.0,(1),94.0,57.0,8.0,Marseille 102 rue Sylvabelle 13006 Marseille,95.0,57.0,120.0,10.5,12.0
+Lycée Jean Perrin,Public,Polyvalent,Marseille,3.7,(8),90.0,47.0,12.0,Marseille 74 rue Verdillon 13395 Marseille,88.0,47.0,394.0,12.3,11.0
+Lycée Marie-Madeleine Fourcade,Public,Polyvalent,Gardanne,4.0,(12),83.0,62.0,10.0,Gardanne Avenue Groupe Manouchian 13120 Gardanne,94.0,62.0,571.0,12.6,10.1
+Lycée Arthur Rimbaud,Public,Général,Istres,3.0,(15),46.0,68.0,14.0,Istres quartier des Salles BP 50650 13808 Istres cedex,99.0,68.0,366.0,14.8,9.7
+Lycée Polyvalent Montmajour,Public,Polyvalent,Arles,3.0,(9),45.0,56.0,7.0,Arles Chemin des Moines BP 22025 13637 Arles,93.0,56.0,312.0,14.7,14.8
+Lycée Vauvenargues,Public,Polyvalent,Aix-en-Provence,3.9,(6),44.0,66.0,11.0,Aix-en-Provence 60 boulevard Carnot 13100 Aix-en-Provence,94.0,66.0,503.0,14.8,9.7
+Lycée Montgrand,Public,Général,Marseille,3.8,(16),43.0,59.0,8.0,Marseille 13 rue Montgrand 13291 Marseille,95.0,59.0,241.0,13.0,14.8
+Lycée Thiers,Public,Général,Marseille,3.7,(13),42.0,86.0,10.0,Marseille 5 place du Lycée 13232 Marseille,98.0,86.0,258.0,14.7,14.8
+Lycée Saint-Charles Camas,Privé,Général,Marseille,2.9,(7),84.0,83.0,8.0,Marseille 21 rue DU CAMAS 13392 Marseille,100.0,83.0,58.0,12.6,10.1
+Lycée Jean Cocteau,Public,Général,Miramas,4.5,(4),38.0,58.0,10.0,Miramas Avenue Jean Cocteau BP 33 13141 Miramas,95.0,58.0,271.0,15.0,10.4
+Lycée Paul Langevin,Public,Polyvalent,Martigues,3.4,(11),37.0,51.0,13.0,Martigues 131 avenue Dr Fleming BP 19 13691 Martigues,91.0,51.0,403.0,10.7,15.0
+Lycée polyvalent Rempart-Vinci,Public,Polyvalent,Marseille,2.7,(8),36.0,49.0,9.0,Marseille 1 rue du Rempart 13007 Marseille,85.0,49.0,208.0,15.0,10.4
+Lycée Saint-Louis-Sainte-Marie,Privé,Général,Gignac-la-Nerthe,2.9,(31),34.0,88.0,11.0,Gignac-la-Nerthe Allée Saint Louis 13180 Gignac-la-Nerthe,100.0,88.0,236.0,15.0,7.7
+Lycée Maurice Genevoix,Public,Polyvalent,Marignane,3.4,(12),31.0,56.0,9.0,Marignane Avenue du Général de Gaulle 13700 Marignane,94.0,56.0,408.0,15.2,12.6
+Lycée Notre-Dame de Sion,Privé,Général,Marseille,3.4,(12),30.0,74.0,7.0,Marseille 231 rue Paradis 13006 Marseille,99.0,74.0,150.0,15.2,12.6
+Lycée L'Olivier - Robert Coffy,Privé,Général,Marseille,3.8,(14),27.0,78.0,8.0,Marseille 29 avenue des Caillols 13012 Marseille,99.0,78.0,132.0,15.4,11.6
+Lycée polyvalent Don Bosco,Privé,Polyvalent,Marseille,4.1,(11),26.0,54.0,5.0,Marseille 78 rue Stanislas Torrents 13006 Marseille,90.0,54.0,143.0,15.4,11.6
+Lycée René Cassin,Public,Polyvalent,Mâcon,3.7,(11),24.0,51.0,10.0,Mâcon 49 boulevard des Neuf Clés 71018 Mâcon,90.0,51.0,328.0,10.4,11.0
+Lycée polyvalent Pastré - Grande Bastide,Privé,Polyvalent,Marseille,4.0,(5),29.0,62.0,6.0,Marseille 32 traverse Pastré 13009 Marseille,93.0,62.0,133.0,15.2,11.2
+Lycée La Nativité,Privé,Général,Aix-en-Provence,3.9,(51),28.0,91.0,13.0,Aix-en-Provence 8 rue Jean Andréani 13097 Aix-en-Provence,100.0,91.0,253.0,12.3,15.3
+Lycée Martin Luther King,Public,Général,Bussy-Saint-Georges,3.2,(21),10.0,52.0,10.0,Bussy-Saint-Georges 21 avenue du Général de Gaulle 77600 Bussy-Saint-Georges,90.0,52.0,417.0,7.0,13.8
+Lycée La Fayette,Public,Polyvalent,Héricy,2.4,(9),9.0,49.0,4.0,Héricy 847 route de Fontaineroux BP 10 77850 Héricy,87.0,49.0,258.0,14.2,10.7
+Lycée Institution Jeanne d'Arc,Privé,Général,Bayeux,3.1,(6),10.0,72.0,7.0,Bayeux 10-12 rue d'Eterville BP 36318 14403 Bayeux,98.0,72.0,109.0,14.1,14.7
+Lycée polyvalent Turgot,Public,Polyvalent,Limoges,3.7,(23),23.0,56.0,6.0,Limoges 6 rue Paul Dérignac 87031 Limoges,86.0,56.0,256.0,9.2,2.4
+Lycée général Camille Vernet,Public,Général,Valence,3.1,(19),16.0,71.0,14.0,Valence 160 rue Faventines BP 2137 26021 Valence cedex,96.0,71.0,275.0,12.5,11.4
+Lycée général privé Chabrillan St Jean-Baptiste,Privé,Général,Montélimar,2.9,(17),15.0,78.0,7.0,Montélimar 109 route de Dieulefit BP 272 26207 Montélimar,100.0,78.0,67.0,10.4,12.5
+Lycée Julien Wittmer,Public,Polyvalent,Charolles,4.3,(20),18.0,56.0,8.0,Charolles 13 rue de Champagny 71120 Charolles,95.0,56.0,244.0,12.7,10.9
+Lycée Thibaut de Champagne,Public,Polyvalent,Provins,3.0,(19),8.0,53.0,8.0,Provins 3 rue du Collège BP 213 77487 Provins,88.0,53.0,273.0,14.2,4.4
+Lycée Marcel Gambier,Public,Général,Lisieux,2.7,(20),9.0,65.0,10.0,Lisieux 3 rue du Général Leclerc BP 97205 14107 Lisieux,96.0,65.0,233.0,15.0,10.6
+Lycée Arcisse de Caumont,Public,Polyvalent,Bayeux,3.1,(17),8.0,51.0,7.0,Bayeux 3 rue Baron Gérard BP 26228 14402 Bayeux,93.0,51.0,215.0,12.5,15.3
+Lycée polyvalent Chevalier de Saint-Georges,Public,Polyvalent,Les Abymes,2.9,(9),9.0,36.0,13.0,Les Abymes boulevard des Héros BP 355 97158 Les Abymes,84.0,36.0,212.0,10.1,15.7
+Lycée polyvalent Lama-Prévot,Public,Polyvalent,Remire-Montjoly,3.7,(9),11.0,41.0,10.0,Remire-Montjoly quartier de moulin à vent grand boulevard 97354 Remire-Montjoly,82.0,41.0,272.0,13.4,3.3
+Lycée polyvalent Monge,Public,Polyvalent,Chambéry,4.1,(4),12.0,62.0,10.0,Chambéry 119 avenue MARIUS BERROIR 73000 Chambéry,91.0,62.0,502.0,12.7,8.8
+Lycée polyvalent Lumina Sophie,Public,Polyvalent,Saint-Laurent-du-Maroni,3.8,(14),12.0,20.0,8.0,Saint-Laurent-du-Maroni Chemin des Sables Blancs BP 112 97320 Saint-Laurent-du-Maroni,70.0,20.0,224.0,13.2,5.3
+Lycée polyvalent François-Jean Armorin,Public,Polyvalent,Crest,2.6,(9),14.0,61.0,9.0,Crest 6 avenue Charles Armorin BP 525 26402 Crest,91.0,61.0,115.0,12.6,7.8
+Lycée polyvalent Louis Armand,Public,Polyvalent,Chambéry,3.6,(11),10.0,61.0,10.0,Chambéry 321 rue du Grand Champ BP 24 73020 Chambéry cedex,95.0,61.0,409.0,13.5,11.4
+Lycée polyvalent privé Jeanne d'Arc,Privé,Polyvalent,Albertville,3.1,(4),9.0,60.0,7.0,Albertville 3 place de l'Eglise BP 69 73203 Albertville cedex,94.0,60.0,119.0,13.8,12.5
+Lycée général privé Saint-Maurice,Privé,Général,Romans-sur-Isère,3.4,(10),13.0,77.0,7.0,Romans-sur-Isère rue Eugène Blain BP 1007 26106 Romans-sur-Isère,100.0,77.0,118.0,12.7,10.3
+Lycée polyvalent Claude Nicolas Ledoux,Public,Polyvalent,Les Pavillons-sous-Bois,3.3,(3),20.0,38.0,6.0,Les Pavillons-sous-Bois 1 boulevard de Paris 93320 Les Pavillons-sous-Bois,80.0,38.0,104.0,16.0,14.5
+Lycée polyvalent Nelson Mandela,Public,Polyvalent,Poitiers,3.5,(21),18.0,51.0,8.0,Poitiers 63 rue de la Bugellerie BP 621 86000 Poitiers,85.0,51.0,367.0,10.4,8.2
+Lycée polyvalent Maurice Rondeau,Privé,Polyvalent,Bussy-Saint-Georges,3.7,(22),6.0,79.0,8.0,Bussy-Saint-Georges 1 place Clos Saint-Georges 77600 Bussy-Saint-Georges,97.0,79.0,278.0,14.5,14.9
+Lycée Saint-Aspais,Privé,Polyvalent,Melun,3.4,(47),5.0,78.0,8.0,Melun 36 rue Saint-Barthélemy CS 20179 77007 Melun,99.0,78.0,421.0,15.2,12.3
+Lycée Polyvalent Versailles Saint-Joseph de Cluny,Privé,Polyvalent,Basse-Terre,4.6,(3),8.0,64.0,9.0,Basse-Terre 8 rue Victor Hugues 97100 Basse-Terre,95.0,64.0,78.0,15.7,14.6
+Lycée Louise Michel,Public,Général,Bobigny,2.5,(22),23.0,34.0,10.0,Bobigny 70 avenue Jean Jaurès 93000 Bobigny,85.0,34.0,367.0,14.1,15.7
+Lycée polyvalent Paul Sérusier,Public,Polyvalent,Carhaix-Plouguer,3.0,(11),11.0,68.0,8.0,Carhaix-Plouguer Avenue de Waldkappel BP 160 29837 Carhaix-Plouguer,95.0,68.0,202.0,14.6,16.0
+Lycée polyvalent Niépce Balleure,Public,Polyvalent,Chalon-sur-Saône,3.1,(16),17.0,55.0,7.0,Chalon-sur-Saône 141 avenue Boucicaut BP 50099 71321 Chalon-sur-Saône,92.0,55.0,311.0,12.9,11.7
+Lycée polyvalent Henri Laurens,Public,Polyvalent,Saint-Vallier,3.0,(17),11.0,55.0,9.0,Saint-Vallier 8 rue Marcel Paul BP 109 26241 Saint-Vallier,89.0,55.0,170.0,11.6,13.0
+Lycée général privé Saint Germain,Privé,Général,Drancy,3.2,(9),27.0,66.0,6.0,Drancy 103 rue Sadi Carnot 93700 Drancy,100.0,66.0,107.0,15.0,13.9
+Lycée polyvalent Evariste Galois,Public,Polyvalent,Noisy-le-Grand,3.5,(14),28.0,66.0,10.0,Noisy-le-Grand 32 avenue Montaigne 93165 Noisy-le-Grand,90.0,66.0,323.0,14.9,7.7
+Lycée privé Saint-Ouen,Privé,Général,Pont-Audemer,4.1,(4),10.0,59.0,6.0,Pont-Audemer 67 route de Honfleur Saint-Germain-Village 27500 Pont-Audemer,91.0,59.0,49.0,13.8,13.5
+Lycée polyvalent privé Assomption,Privé,Polyvalent,Bondy,3.0,(30),36.0,65.0,6.0,Bondy 12 avenue de Verdun 93140 Bondy,94.0,65.0,147.0,14.4,10.7
+Lycée polyvalent international de l'Est parisien,Public,Polyvalent,Noisy-le-Grand,4.2,(13),35.0,85.0,7.0,Noisy-le-Grand 1 promenade Marco Polo 93160 Noisy-le-Grand,98.0,85.0,182.0,14.4,11.3
+Lycée Flora Tristan,Public,Général,Noisy-le-Grand,3.8,(10),26.0,42.0,7.0,Noisy-le-Grand 27 rue des Hauts Roseaux 93160 Noisy-le-Grand,92.0,42.0,315.0,15.1,15.1
+Lycée Saint-Thomas d'Aquin,Privé,Polyvalent,Flers,3.7,(13),14.0,52.0,9.0,Flers 1 place Claudius Duperron 61100 Flers,92.0,52.0,187.0,9.8,7.6
+Lycée polyvalent Nicolas-Joseph Cugnot,Public,Polyvalent,Neuilly-sur-Marne,4.1,(13),33.0,44.0,6.0,Neuilly-sur-Marne 55 bld Louis Armand 93330 Neuilly-sur-Marne,88.0,44.0,190.0,14.5,14.0
+Lycée Paul Cézanne,Public,Général,Aix-en-Provence,3.2,(21),15.0,62.0,14.0,Aix-en-Provence Avenue Jean et Marcel Fontenaille 13100 Aix-en-Provence,95.0,62.0,519.0,14.7,16.2
+Lycée La Croix Rouge La Salle,Privé,Général,Brest,4.0,(18),9.0,77.0,11.0,Brest 2 rue Mirabeau CS 62925 29229 Brest cedex 2,99.0,77.0,647.0,16.1,15.3
+Lycée polyvalent privé La Salle Saint-Denis,Privé,Polyvalent,Saint-Denis,3.8,(13),39.0,64.0,7.0,Saint-Denis 6-8 place de la Résistance 93200 Saint-Denis,97.0,64.0,244.0,14.2,13.5
+Lycée polyvalent Léonard de Vinci,Public,Polyvalent,Tremblay-en-France,2.7,(9),56.0,45.0,9.0,Tremblay-en-France 115 route des Petits Ponts BP 122 93290 Tremblay-en-France,87.0,45.0,288.0,13.0,8.7
+Lycée polyvalent Jean Rostand,Public,Polyvalent,Villepinte,4.7,(4),51.0,44.0,10.0,Villepinte 8 rue Pierre Audat 93420 Villepinte,89.0,44.0,460.0,13.4,13.5
+Lycée Paul Eluard,Public,Général,Saint-Denis,3.8,(9),79.0,34.0,9.0,Saint-Denis 15-17 avenue Jean Moulin 93200 Saint-Denis,88.0,34.0,509.0,10.7,9.3
+Lycée polyvalent Eugène Henaff,Public,Polyvalent,Bagnolet,3.8,(18),54.0,39.0,8.0,Bagnolet 55 avenue Raspail 93170 Bagnolet,79.0,39.0,304.0,10.9,13.2
+Lycée polyvalent Paul Robert,Public,Polyvalent,Les Lilas,3.0,(15),82.0,50.0,8.0,Les Lilas 2 rue du Château 93260 Les Lilas,85.0,50.0,246.0,10.0,9.7
+Lycée Clémenceau,Public,Général,Villemomble,3.3,(39),85.0,42.0,8.0,Villemomble 130 rue de Neuilly 93250 Villemomble,90.0,42.0,396.0,9.8,7.4
+Lycée général privé Saint Joseph La Salle,Privé,Général,Pantin,3.8,(4),76.0,82.0,5.0,Pantin 12 avenue du 8 mai 1945 93500 Pantin,99.0,82.0,62.0,7.0,11.2
+Lycée polyvalent Auguste Blanqui,Public,Polyvalent,Saint-Ouen,2.7,(13),73.0,37.0,9.0,Saint-Ouen 54 rue Charles Schmidt BP 196 93400 Saint-Ouen,80.0,37.0,309.0,11.4,9.7
+Lycée André Boulloche,Public,Général,Livry-Gargan,3.5,(17),78.0,63.0,7.0,Livry-Gargan 18 boulevard Gutenberg 93190 Livry-Gargan,96.0,63.0,402.0,9.9,10.8
+Lycée polyvalent Alfred Nobel,Public,Polyvalent,Clichy-sous-Bois,4.4,(9),44.0,36.0,7.0,Clichy-sous-Bois 20 allée de Gagny 93390 Clichy-sous-Bois,79.0,36.0,383.0,13.7,13.9
+Lycée général et technologique Baimbridge,Public,Général,Les Abymes,3.3,(20),6.0,47.0,15.0,Les Abymes boulevard des héros BP17 97139 Les Abymes,93.0,47.0,380.0,16.0,14.4
+Lycée polyvalent Melkior et Garré,Public,Polyvalent,Cayenne,3.0,(10),8.0,37.0,6.0,Cayenne Route de Montabo BP 5017 97305 Cayenne,83.0,37.0,442.0,13.6,9.9
+Lycée polyvalent les Catalins,Public,Polyvalent,Montélimar,2.7,(3),10.0,57.0,7.0,Montélimar 24 avenue des Catalins BP 359 26216 Montélimar,87.0,57.0,369.0,13.0,12.3
+Lycée polyvalent du Dauphiné,Public,Polyvalent,Romans-sur-Isère,2.5,(10),9.0,50.0,11.0,Romans-sur-Isère 38 boulevard Rémy Roure BP 1113 26103 Romans-sur-Isère,86.0,50.0,355.0,13.1,8.5
+Lycée polyvalent René Perrin,Public,Polyvalent,Ugine,4.5,(11),7.0,65.0,9.0,Ugine 41 rue René Perrin 73400 Ugine,91.0,65.0,198.0,15.1,13.3
+Lycée polyvalent Navarre - Leclerc,Public,Polyvalent,Alençon,3.1,(8),11.0,52.0,13.0,Alençon Avenue du Général Leclerc BP 357 61014 Alençon,90.0,52.0,366.0,9.2,10.9
+Lycée Polyvalent Napoléon,Public,Polyvalent,L'Aigle,3.4,(10),12.0,53.0,9.0,L'Aigle 15 rue des Sports BP 207 61306 L'Aigle cedex,84.0,53.0,253.0,10.8,6.4
+Lycée Jean Giraudoux,Public,Général,Bellac,3.7,(16),14.0,53.0,8.0,Bellac 5 Avenue Charles de Gaulle 87300 Bellac,96.0,53.0,103.0,11.5,8.4
+Lycée privé Notre-Dame Saint-François,Privé,Polyvalent,Évreux,2.5,(2),7.0,55.0,7.0,Évreux 8 rue Portevin 27025 Évreux,86.0,55.0,141.0,14.4,9.2
+Lycée Jean Moulin,Public,Polyvalent,Les Andelys,3.7,(9),6.0,48.0,7.0,Les Andelys Rue Maréchal Foch BP 515 27705 Les Andelys,82.0,48.0,193.0,15.0,8.5
+Lycée Albert Sorel,Public,Polyvalent,Honfleur,2.9,(14),4.0,59.0,9.0,Honfleur Avenue du Labrador 14600 Honfleur,96.0,59.0,138.0,16.0,11.0
+Lycée polyvalent Léopold Elfort,Public,Polyvalent,Mana,4.0,(4),5.0,31.0,7.0,Mana Terre rouge RD 8 - Savane Sarcelles 97360 Mana,79.0,31.0,197.0,15.2,9.2
+Lycée Bonaparte pôle général et pôle technologique et professionnel,Public,Polyvalent,Autun,2.8,(9),14.0,67.0,11.0,Autun Place du Champ de Mars - pôle général BP 67 71403 Autun,92.0,67.0,166.0,13.4,11.1
+Lycée polyvalent Suger,Public,Polyvalent,Saint-Denis,3.9,(2),18.0,38.0,8.0,Saint-Denis 6 avenue le Roy des Barres 93200 Saint-Denis,83.0,38.0,334.0,16.1,13.1
+Lycée Saint-Gabriel,Privé,Général,Pont-l'Abbé,3.3,(11),6.0,74.0,9.0,Pont-l'Abbé Rue Jean Lautredou BP 85137 29125 Pont-l'Abbé,98.0,74.0,139.0,14.5,16.4
+Lycée Jean Guéhenno,Public,Polyvalent,Flers,4.5,(5),10.0,49.0,9.0,Flers 16 rue Pierre Huet BP 269 61105 Flers cedex,91.0,49.0,232.0,11.1,10.5
+Lycée privé l'Union Chrétienne,Privé,Général,Poitiers,3.9,(8),14.0,83.0,7.0,Poitiers 2 place Sainte-Croix BP 429 86011 Poitiers,100.0,83.0,104.0,12.2,9.4
+Lycée Edouard Branly,Public,Général,Châtellerault,3.7,(10),13.0,46.0,7.0,Châtellerault 2 rue Edouard Branly BP 613 86106 Châtellerault,93.0,46.0,204.0,12.3,5.5
+Lycée Charles Tellier,Public,Polyvalent,Condé-en-Normandie,3.3,(24),5.0,59.0,7.0,Condé-en-Normandie Route de Vire Condé-sur-Noireau 14110 Condé-en-Normandie,87.0,59.0,208.0,15.8,12.4
+Lycée général et technologique les 3 Sources,Public,Général,Bourg-lès-Valence,3.6,(15),6.0,49.0,10.0,Bourg-lès-Valence 110 chemin du Valentin BP 106 26501 Bourg-lès-Valence,93.0,49.0,291.0,14.2,10.7
+Lycée polyvalent Ambroise Croizat,Public,Polyvalent,Moûtiers,3.5,(7),5.0,71.0,8.0,Moûtiers 244 avenue de la Libération BP 201 73604 Moûtiers,99.0,71.0,269.0,15.6,15.3
+Lycée polyvalent Hyacinthe Bastaraud,Public,Polyvalent,Grand-Bourg,3.4,(3),4.0,55.0,9.0,Grand-Bourg Rue de la Savane BP 18 97112 Grand-Bourg,85.0,55.0,125.0,16.3,9.8
+Lycée Henri Vincenot,Public,Polyvalent,Louhans,3.1,(22),10.0,60.0,9.0,Louhans 26 montée Saint-Claude 71500 Louhans,93.0,60.0,185.0,13.7,10.7
+Lycée Victor Hugo,Public,Général,Poitiers,3.5,(11),12.0,61.0,12.0,Poitiers 10 rue Victor Hugo 86034 Poitiers,95.0,61.0,339.0,12.4,11.2
+Lycée polyvalent de la Mare Carrée,Public,Polyvalent,Moissy-Cramayel,4.0,(19),1.0,55.0,9.0,Moissy-Cramayel Rue de la Mare Carrée BP 70 77550 Moissy-Cramayel,93.0,55.0,455.0,12.8,17.0
+Lycée Bernard Palissy,Public,Général,Saint-Léonard-de-Noblat,3.4,(2),12.0,67.0,8.0,Saint-Léonard-de-Noblat 11 rue Léon Jouhaux 87400 Saint-Léonard-de-Noblat,99.0,67.0,117.0,10.8,11.9
+Lycée Augustin Fresnel,Public,Général,Bernay,3.6,(23),5.0,60.0,10.0,Bernay 14 rue Kleber Mercier 27301 Bernay,96.0,60.0,332.0,15.1,13.9
+Lycée polyvalent Raoul Georges Nicolo,Public,Polyvalent,Basse-Terre,3.9,(16),3.0,52.0,6.0,Basse-Terre 258  avenue Francois Mitterand Quartier Rivière des Pères 97100 Basse-Terre,94.0,52.0,222.0,13.6,16.6
+Lycée Jean Moulin,Public,Général,Châteaulin,3.1,(12),2.0,68.0,9.0,Châteaulin 10 rue du Lycée BP 110 29150 Châteaulin,98.0,68.0,185.0,17.5,14.6
+Lycée polyvalent Blaise Cendrars,Public,Polyvalent,Sevran,4.0,(17),11.0,48.0,7.0,Sevran 12 avenue Léon Jouhaux 93270 Sevran,88.0,48.0,385.0,15.1,17.0
+Lycée Léon Blum,Public,Polyvalent,Le Creusot,3.2,(13),8.0,54.0,10.0,Le Creusot 62 rue Lavoisier BP 120 71203 Le Creusot,91.0,54.0,305.0,11.0,14.2
+Lycée privé Notre-Dame du Bon Secours,Privé,Général,Perpignan,4.2,(20),12.0,74.0,11.0,Perpignan 39 avenue Julien Panchot 66028 Perpignan,99.0,74.0,298.0,11.5,8.8
+Lycée polyvalent Simone Veil,Public,Polyvalent,Marseille,4.0,(8),10.0,54.0,12.0,Marseille Avenue des Pâquerettes BP 60149 13013 Marseille,96.0,54.0,247.0,16.8,16.3
+Lycée Léonard Limosin,Public,Général,Limoges,3.3,(41),9.0,63.0,12.0,Limoges 13 rue des Clairettes 87036 Limoges,96.0,63.0,265.0,12.6,8.0
+Lycée polyvalent privé Saint-Louis,Privé,Polyvalent,Crest,3.0,(2),2.0,65.0,8.0,Crest clos Soubeyran BP 518 26402 Crest cedex,97.0,65.0,163.0,14.9,15.3
+Lycée Marc Bloch,Public,Général,Val-de-Reuil,2.9,(9),1.0,61.0,11.0,Val-de-Reuil 1 voie Bachelière BP 614 27106 Val-de-Reuil cedex,93.0,61.0,210.0,16.6,8.5
+Lycée Maîtrise de Massabielle,Privé,Général,Pointe-à-Pitre,3.4,(7),1.0,66.0,7.0,Pointe-à-Pitre 29 faubourg Victor Hugo BP 245 97159 Pointe-à-Pitre,99.0,66.0,117.0,16.2,17.5
+Externat Saint-Joseph de Cluny,Privé,Général,Cayenne,3.0,(17),1.0,61.0,9.0,Cayenne 15 rue Lallouette BP 259 97301 Cayenne,96.0,61.0,122.0,17.2,17.7
+Lycée général Albert Triboulet,Public,Général,Romans-sur-Isère,3.3,(22),1.0,63.0,12.0,Romans-sur-Isère avenue Gambetta BP 1112 26102 Romans-sur-Isère,96.0,63.0,318.0,11.7,16.2
+Lycée privé Saint-Charles,Privé,Polyvalent,Chalon-sur-Saône,4.2,(2),9.0,58.0,7.0,Chalon-sur-Saône 3 rue Général Giraud 71100 Chalon-sur-Saône,94.0,58.0,223.0,14.0,12.6
+Lycée Mathias,Public,Polyvalent,Chalon-sur-Saône,4.0,(6),6.0,56.0,8.0,Chalon-sur-Saône 3 place Mathias BP 10122 71321 Chalon-sur-Saône,94.0,56.0,338.0,14.7,9.6
+Lycée polyvalent Maurice Utrillo,Public,Polyvalent,Stains,3.1,(8),10.0,42.0,9.0,Stains 152 rue Jean Durand 93240 Stains,86.0,42.0,397.0,17.1,11.8
+Lycée privé Beauséjour (voie générale et technologique),Privé,Polyvalent,Narbonne,3.6,(16),10.0,69.0,8.0,Narbonne 16 rue Michelet BP 826 11108 Narbonne,92.0,69.0,193.0,11.4,12.2
+Lycée polyvalent Pierre-Emile Martin,Public,Polyvalent,Bourges,3.6,(18),6.0,57.0,7.0,Bourges 1 avenue de Gionne 18000 Bourges,87.0,57.0,200.0,13.7,11.8
+Lycée Pablo Picasso (voie générale et technologique),Public,Polyvalent,Perpignan,3.3,(16),13.0,51.0,13.0,Perpignan 120 avenue du Général Jean Gilles 66028 Perpignan,85.0,51.0,606.0,9.0,10.2
+Lycée Ernest Ferroul (voie générale et technologique),Public,Polyvalent,Lézignan-Corbières,5.0,(1),9.0,57.0,8.0,Lézignan-Corbières 5 avenue Georges Frêche 11200 Lézignan-Corbières,87.0,57.0,365.0,12.2,9.4
+Lycée Déodat de Séverac (voie générale et technologique),Public,Polyvalent,Céret,2.9,(19),11.0,55.0,11.0,Céret 18 avenue des Tilleuls BP 315 66403 Céret,86.0,55.0,289.0,11.7,9.3
+Lycée Charles Renouvier (voie générale et technologique),Public,Polyvalent,Prades,2.6,(16),10.0,58.0,11.0,Prades Route de Catllar BP 93 66500 Prades,86.0,58.0,298.0,12.0,10.3
+Lycée polyvalent Angela Davis,Public,Polyvalent,Saint-Denis,3.8,(5),6.0,39.0,9.0,Saint-Denis 70 rue George Sand 93210 Saint-Denis,89.0,39.0,405.0,15.6,17.2
+Lycée polyvalent privé Isaac de l'Étoile,Privé,Général,Poitiers,3.6,(10),6.0,68.0,9.0,Poitiers 62 rue du Porteau CS 70019 86001 Poitiers,99.0,68.0,206.0,13.8,13.4
+Lycée Jacques Ruffié (voie générale et technologique),Public,Polyvalent,Limoux,4.1,(5),7.0,57.0,8.0,Limoux Allée François Mitterand BP 108 11303 Limoux,89.0,57.0,195.0,12.6,5.7
+Lycée Louise Michel (voie générale et technologique),Public,Polyvalent,Narbonne,3.1,(10),8.0,49.0,10.0,Narbonne 2 rue Jean Moulin BP 828 11108 Narbonne,85.0,49.0,669.0,12.5,7.3
+Lycée Jean Monnet,Public,Polyvalent,Vitrolles,3.3,(18),7.0,56.0,7.0,Vitrolles Boulevard Rhin et Danube 13127 Vitrolles,96.0,56.0,330.0,13.9,17.1
+Lycée polyvalent Suzanne Valadon,Public,Polyvalent,Limoges,3.6,(5),7.0,55.0,8.0,Limoges 39 rue François Perrin 87032 Limoges,89.0,55.0,385.0,12.7,13.1
+Lycée Saint-François de Sales,Privé,Polyvalent,Alençon,3.4,(11),3.0,72.0,7.0,Alençon 100 rue Labillardière BP 217 61007 Alençon cedex,93.0,72.0,95.0,10.4,14.0
+Lycée polyvalent Edouard Vaillant,Public,Polyvalent,Vierzon,2.8,(4),4.0,57.0,10.0,Vierzon 41bis rue Charles Hurvoy 18108 Vierzon,90.0,57.0,292.0,12.3,14.7
+Lycée polyvalent Paul Le Rolland,Public,Polyvalent,Drancy,2.3,(15),5.0,58.0,4.0,Drancy 136 avenue de Castelnau 93700 Drancy,85.0,58.0,165.0,13.7,17.5
+Lycée polyvalent Eugène Delacroix,Public,Polyvalent,Drancy,3.2,(25),4.0,50.0,12.0,Drancy 4 rue du Docteur Schweitzer 93700 Drancy,92.0,50.0,563.0,16.2,17.5
+Lycée pilote innovant international,Public,Général,Jaunay-Marigny,4.6,(29),5.0,73.0,10.0,Jaunay-Marigny Téléport 5 BP 47 86130 Jaunay-Marigny,99.0,73.0,185.0,12.8,14.0
+Lycée Jules Fil (voie générale et technologique),Public,Polyvalent,Carcassonne,3.5,(24),6.0,54.0,9.0,Carcassonne Boulevard I et F Joliot Curie CS 50076 11890 Carcassonne,90.0,54.0,396.0,12.7,10.3
+Lycée privé Frédéric Ozanam,Privé,Polyvalent,Mâcon,2.9,(17),1.0,74.0,7.0,Mâcon 45 rue de l'Héritan 71000 Mâcon,100.0,74.0,147.0,17.8,8.3
+Lycée Aristide Maillol (voie générale et technologique),Public,Polyvalent,Perpignan,3.2,(12),7.0,50.0,10.0,Perpignan 73 avenue Pau Casals BP 30544 66055 Perpignan,87.0,50.0,595.0,12.5,9.7
+Lycée Jean Monnet,Public,Polyvalent,Mortagne-au-Perche,3.5,(8),1.0,68.0,8.0,Mortagne-au-Perche 2 rue Jean Monnet BP 104 61400 Mortagne-au-Perche,94.0,68.0,129.0,11.7,16.6
+Lycée polyvalent Mézeray Gabriel,Public,Polyvalent,Argentan,2.8,(12),2.0,58.0,10.0,Argentan 6 place Robert Dugué 61200 Argentan,90.0,58.0,269.0,14.7,10.6
+Lycée polyvalent Lucie Aubrac,Public,Polyvalent,Pantin,3.9,(8),2.0,48.0,6.0,Pantin 51 rue Victor Hugo 93500 Pantin,93.0,48.0,237.0,17.9,15.1
+Lycée Germaine Tillion (voie générale et technologique),Public,Polyvalent,Castelnaudary,3.5,(5),5.0,59.0,9.0,Castelnaudary avenue du Docteur Laennec BP 1301 11493 Castelnaudary,93.0,59.0,348.0,13.0,11.6
+Lycée Jean Lurçat (voie générale et technologique),Public,Polyvalent,Perpignan,3.4,(17),4.0,55.0,11.0,Perpignan 25 avenue Albert Camus BP 7019 66070 Perpignan,90.0,55.0,529.0,13.3,11.3
+Lycée polyvalent Henri Leroy,Privé,Polyvalent,Port-Saint-Louis-du-Rhône,4.0,(1),5.0,63.0,5.0,Port-Saint-Louis-du-Rhône 29 avenue Louis Aragon 13230 Port-Saint-Louis-du-Rhône,93.0,63.0,93.0,17.4,13.1
+Lycée Henri Wallon,Public,Général,Aubervilliers,3.3,(10),1.0,37.0,9.0,Aubervilliers 146 rue Jacques Savator 93300 Aubervilliers,86.0,37.0,272.0,17.4,18.5
+Lycée privé Saint-Louis (voie générale et technologique),Privé,Polyvalent,Carcassonne,2.8,(14),4.0,56.0,7.0,Carcassonne 77 rue Aimé Ramond 11000 Carcassonne,93.0,56.0,114.0,13.7,10.1
+Lycée Rosa Luxemburg (voie générale et technologique),Public,Polyvalent,Canet-en-Roussillon,3.7,(8),3.0,63.0,9.0,Canet-en-Roussillon 2 avenue Jean Moulin BP 208 66141 Canet-en-Roussillon,93.0,63.0,401.0,13.6,11.1
+Lycée Auguste Renoir,Public,Général,Limoges,3.7,(15),3.0,62.0,9.0,Limoges 119 rue de Sainte Claire 87036 Limoges,95.0,62.0,359.0,12.9,14.8
+Lycée François Arago,Public,Général,Perpignan,3.5,(21),2.0,68.0,11.0,Perpignan 22 avenue Paul Doumer BP 60119 66001 Perpignan,97.0,68.0,502.0,14.3,11.3
+Lycée polyvalent Antonin Artaud,Public,Polyvalent,Marseille,3.2,(18),3.0,55.0,12.0,Marseille 25 chemin Notre-Dame de la Consolation 13013 Marseille,93.0,55.0,317.0,15.4,18.4
+Lycée polyvalent Henri Brisson,Public,Polyvalent,Vierzon,3.8,(9),1.0,62.0,5.0,Vierzon 25 avenue Henri Brisson BP 338 18108 Vierzon,93.0,62.0,142.0,16.4,13.8
+Lycée de Balagne,Public,Polyvalent,L'Île-Rousse,2.3,(2),1.0,57.0,8.0,L'Île-Rousse Avenue Paul Bisgambiglia 20220 L'Île-Rousse,94.0,57.0,157.0,15.9,14.1
+Lycée Jean Moulin,Public,Général,Montmorillon,3.7,(8),1.0,55.0,9.0,Montmorillon 9 avenue Jean Moulin BP 35 86501 Montmorillon,91.0,55.0,172.0,15.4,15.6
+Lycée polyvalent du Cheylard,Public,Polyvalent,Le Cheylard,3.8,(13),2.0,65.0,9.0,Le Cheylard Quartier Plaisance BP 38 07160 Le Cheylard,96.0,65.0,112.0,12.9,17.8
+Lycée Docteur Lacroix,Public,Général,Narbonne,3.3,(26),2.0,59.0,12.0,Narbonne Rue GAY LUSSAC 11100 Narbonne,94.0,59.0,335.0,15.6,10.7
+Lycée Gay-Lussac,Public,Général,Limoges,3.5,(14),4.0,64.0,9.0,Limoges 12 boulevard Georges Perin 87031 Limoges,97.0,64.0,368.0,10.3,14.6
+Lycée La Source,Privé,Général,Meudon,3.2,(26),1.0,78.0,6.0,Meudon 11 rue Ernest Renan 92190 Meudon,100.0,78.0,61.0,13.7,17.1
+Lycée Raoul Dautry,Public,Général,Limoges,3.2,(22),2.0,49.0,8.0,Limoges 14 rue du Puy Imbert 87036 Limoges,91.0,49.0,278.0,8.4,15.2
+Lycée général et technologique Victor Hugo,Public,Général,Gaillac,2.6,(21),6.0,60.0,12.0,Gaillac 41 rue Victor Hugo BP 147 81604 Gaillac,94.0,60.0,320.0,14.1,15.2
+Lycée Paul Langevin,Public,Polyvalent,La Seyne-sur-Mer,3.6,(11),17.0,61.0,10.0,La Seyne-sur-Mer Boulevard de l'Europe BP 458 83514 La Seyne-sur-Mer,93.0,61.0,484.0,13.6,12.4
+Lycée Raynouard,Public,Polyvalent,Brignoles,3.3,(31),16.0,60.0,9.0,Brignoles 285 avenue des Martyrs de la Résistance CS 70305 83175 Brignoles,92.0,60.0,573.0,12.9,13.6
+Lycée Clemenceau,Public,Général,Reims,3.3,(18),1.0,60.0,14.0,Reims 46 avenue Georges Clemenceau 51096 Reims,96.0,60.0,314.0,15.8,16.9
+Lycée polyvalent Louis Armand,Public,Polyvalent,Villefranche-sur-Saône,2.8,(15),15.0,67.0,10.0,"Villefranche-sur-Saône 507 avenue du Beaujolais Gleizé, CS 60402 69651 Villefranche-sur-Saône",97.0,67.0,586.0,12.3,15.1
+Lycée polyvalent Léonce Vieljeux,Public,Polyvalent,La Rochelle,3.6,(15),1.0,55.0,10.0,La Rochelle Rue des Gonthières 17026 La Rochelle,90.0,55.0,524.0,14.6,18.2
+Lycée polyvalent La Borde Basse,Public,Polyvalent,Castres,3.7,(23),20.0,55.0,13.0,Castres rue Comte Emmanuel de las Cases 81100 Castres,92.0,55.0,580.0,11.4,6.3
+Lycée général et technologique privé Notre-Dame,Privé,Général,Castres,3.5,(16),5.0,63.0,9.0,Castres avenue d'Hauterive BP 50219 81101 Castres,96.0,63.0,111.0,14.5,15.9
+Lycée polyvalent Jean Jaurès,Public,Polyvalent,Carmaux,3.6,(5),9.0,57.0,9.0,Carmaux route de Blaye Parc de la verrerie 81400 Carmaux,88.0,57.0,249.0,14.2,9.4
+Lycée Jean Perrin,Public,Général,Lyon,2.9,(5),21.0,55.0,8.0,Lyon 48 rue Pierre Baizet BP 41 69338 Lyon,91.0,55.0,242.0,14.7,13.7
+Lycée polyvalent Louis Rascol,Public,Polyvalent,Albi,2.6,(14),14.0,54.0,10.0,Albi 10 rue de la République 81012 Albi,91.0,54.0,524.0,12.5,8.5
+Lycée François Mansart,Public,Polyvalent,Thizy-les-Bourgs,2.9,(29),37.0,50.0,6.0,Thizy-les-Bourgs Rue Jacquard BP 70 69240 Thizy-les-Bourgs,89.0,50.0,68.0,13.7,8.8
+Lycée Rosa Parks,Public,Général,Neuville-sur-Saône,3.3,(25),40.0,66.0,8.0,Neuville-sur-Saône 13 rue Pollet BP 10124 69582 Neuville-sur-Saône,98.0,66.0,266.0,10.6,13.5
+Lycée René Descartes,Public,Général,Saint-Genis-Laval,4.0,(32),36.0,65.0,10.0,Saint-Genis-Laval 145 avenue de Gadagne 69230 Saint-Genis-Laval,96.0,65.0,518.0,13.8,12.9
+Lycée général et technologique privé Amboise,Privé,Général,Albi,3.5,(10),16.0,79.0,7.0,Albi 13 boulevard Carnot 81000 Albi,99.0,79.0,122.0,11.5,12.1
+Lycée La Martinière Monplaisir,Public,Général,Lyon,4.2,(14),33.0,52.0,8.0,Lyon 41 rue Antoine Lumière 69372 Lyon,92.0,52.0,369.0,13.9,8.5
+Lycée des Chartreux,Privé,Général,Lyon,4.2,(42),59.0,97.0,9.0,Lyon 58 rue Pierre Dupont 69001 Lyon,100.0,97.0,277.0,12.8,10.0
+Lycée Assomption Bellevue,Privé,Général,La Mulatière,2.8,(9),57.0,74.0,14.0,La Mulatière 39 quai Jean-Jacques Rousseau 69350 La Mulatière,99.0,74.0,207.0,12.4,12.9
+Lycée Notre-Dame des Minimes,Privé,Général,Lyon,4.0,(11),55.0,81.0,13.0,Lyon 65 rue des Aqueducs 69005 Lyon,100.0,81.0,170.0,11.6,13.0
+Lycée La Martinière Duchère,Public,Général,Lyon,3.8,(18),35.0,45.0,9.0,Lyon 300 avenue Andreï Sakharov 69009 Lyon,90.0,45.0,420.0,13.8,13.2
+Lycée Pierre Termier,Privé,Général,Lyon,3.3,(16),50.0,86.0,10.0,Lyon 23 rue des Alouettes 69008 Lyon,100.0,86.0,126.0,13.1,6.5
+Lycée polyvalent Camus-Sermenaz,Public,Polyvalent,Rillieux-la-Pape,2.7,(16),78.0,44.0,9.0,Rillieux-la-Pape 2179 avenue de l'Europe 69140 Rillieux-la-Pape,88.0,44.0,381.0,9.9,11.7
+Lycée de Saint-Just,Public,Général,Lyon,3.2,(27),80.0,66.0,10.0,Lyon 21 rue des Farges 69005 Lyon,94.0,66.0,425.0,11.6,8.5
+Lycée Colbert,Public,Général,Lyon,3.0,(12),72.0,40.0,7.0,Lyon 20 rue LOUIS JOUVET 69372 Lyon,84.0,40.0,160.0,10.6,12.0
+Lycée de l'école Juive de Lyon,Privé,Général,Villeurbanne,4.5,(1),64.0,71.0,4.0,Villeurbanne 40 rue Alexandre Boutin 69100 Villeurbanne,95.0,71.0,59.0,12.5,10.7
+Lycée polyvalent René Cassin,Public,Polyvalent,Tarare,4.3,(11),67.0,60.0,9.0,Tarare 75 route de Saint-Clément BP 137 69173 Tarare,91.0,60.0,226.0,12.4,11.0
+Lycée polyvalent Aragon-Picasso,Public,Polyvalent,Givors,3.3,(16),81.0,49.0,10.0,Givors 12 chemin de la Côte à Cailloux 69700 Givors,90.0,49.0,513.0,11.5,11.2
+Lycée polyvalent Charlie Chaplin,Public,Polyvalent,Décines-Charpieu,2.4,(38),76.0,47.0,9.0,Décines-Charpieu 373 avenue Jean Jaurès CS 50701 69153 Décines-Charpieu,93.0,47.0,517.0,11.8,7.4
+Lycée Saint-Louis - Saint-Bruno,Privé,Général,Lyon,3.7,(11),63.0,57.0,9.0,Lyon 16 rue des Chartreux 69283 Lyon,98.0,57.0,151.0,12.6,7.8
+Lycée polyvalent Edouard Branly,Public,Polyvalent,Lyon,4.3,(27),88.0,50.0,8.0,Lyon 25 rue de Tourvielle 69245 Lyon,87.0,50.0,379.0,8.2,10.4
+Lycée polyvalent Claude Bernard,Public,Polyvalent,Villefranche-sur-Saône,3.9,(9),93.0,51.0,9.0,Villefranche-sur-Saône 234 rue Philippe Héron BP 475 69665 Villefranche-sur-Saône,88.0,51.0,390.0,9.6,10.1
+Lycée polyvalent Jacques Brel,Public,Polyvalent,Vénissieux,3.4,(9),91.0,33.0,7.0,Vénissieux 2 rue Albert Jacquard 69200 Vénissieux,79.0,33.0,333.0,9.5,10.2
+Lycée aux Lazaristes,Privé,Général,Lyon,3.6,(30),85.0,86.0,12.0,Lyon 24 montée Saint-Barthélemy 69321 Lyon,99.0,86.0,318.0,11.1,9.5
+Lycée La Xavière,Privé,Général,Lyon,3.0,(32),42.0,74.0,8.0,Lyon 252 route de Vienne 69008 Lyon,97.0,74.0,121.0,13.4,11.9
+Lycée Sainte-Marie,Privé,Général,La Seyne-sur-Mer,2.8,(15),34.0,80.0,8.0,La Seyne-sur-Mer 1 Place Germain Loro BP 27 83501 La Seyne-sur-Mer,100.0,80.0,105.0,5.2,9.4
+Lycée Maurice Janetti,Public,Polyvalent,Saint-Maximin-la-Sainte-Baume,3.0,(26),26.0,61.0,10.0,Saint-Maximin-la-Sainte-Baume Rue Maurice janetti BP 50550 83470 Saint-Maximin-la-Sainte-Baume,91.0,61.0,452.0,11.7,7.4
+Lycée du Golfe de Saint-Tropez,Public,Polyvalent,Gassin,3.3,(35),23.0,49.0,11.0,Gassin 1509 RD 559 83580 Gassin,88.0,49.0,422.0,12.7,7.2
+Lycée Al Kindi,Privé,Général,Décines-Charpieu,3.3,(18),45.0,47.0,8.0,Décines-Charpieu 15 rue Sully 69150 Décines-Charpieu,100.0,47.0,56.0,13.3,13.1
+Lycée Antoine de Saint-Exupéry,Public,Polyvalent,Saint-Raphaël,3.5,(9),21.0,58.0,11.0,Saint-Raphaël 270 avenue de Valescure BP 328 83703 Saint-Raphaël,91.0,58.0,499.0,12.9,10.2
+Lycée Robert Doisneau,Public,Général,Vaulx-en-Velin,3.8,(11),17.0,33.0,9.0,Vaulx-en-Velin 5 rue du Lycée BP 42 69511 Vaulx-en-Velin,76.0,33.0,271.0,14.9,12.8
+Lycée de la mer et du littoral,Public,Technologique,Bourcefranc-le-Chapus,2.2,(11),20.0,56.0,8.0,Bourcefranc-le-Chapus Rue William Bertrand 17560 Bourcefranc-le-Chapus,94.0,56.0,172.0,12.1,7.3
+Lycée général et technologique privé Jeanne d'Arc,Privé,Général,Mazamet,4.1,(2),4.0,75.0,10.0,Mazamet 23 rue de la Vanne BP 535 81200 Mazamet,95.0,75.0,44.0,15.1,16.3
+Lycée général Las Cases,Public,Général,Lavaur,3.0,(35),3.0,63.0,12.0,Lavaur place de la Résistance 81500 Lavaur,97.0,63.0,262.0,13.3,16.5
+Lycée général Lapérouse,Public,Général,Albi,3.8,(24),2.0,74.0,13.0,Albi 2 Lices Georges Pompidou 81000 Albi,98.0,74.0,180.0,15.4,16.8
+Lycée général et technologique privé Saint-Etienne,Privé,Général,Cahors,2.6,(15),9.0,69.0,8.0,Cahors 49 RUE DES SOUBIROUS 46000 Cahors,95.0,69.0,71.0,11.8,8.5
+Lycée polyvalent Léo Ferré,Public,Polyvalent,Gourdon,3.4,(8),10.0,55.0,8.0,Gourdon 21 avenue Léo Ferré 46300 Gourdon,89.0,55.0,98.0,9.9,11.4
+Lycée Albert Camus,Public,Polyvalent,Fréjus,3.6,(10),13.0,55.0,10.0,Fréjus 560 rue Henri Giraud 83600 Fréjus,93.0,55.0,330.0,14.1,9.7
+Lycée polyvalent Marcel Dassault,Public,Polyvalent,Rochefort,4.0,(7),21.0,54.0,6.0,Rochefort 40 avenue Marcel Dassault BP 80169 17308 Rochefort,88.0,54.0,178.0,11.8,9.8
+Lycée Costebelle,Public,Polyvalent,Hyères,3.4,(14),15.0,66.0,13.0,Hyères 150 boulevard Félix Descroix 83408 Hyères,95.0,66.0,426.0,13.7,12.6
+Lycée Jean-Paul Sartre,Public,Général,Bron,3.9,(31),12.0,56.0,9.0,Bron 93 avenue François Mitterrand 69675 Bron,95.0,56.0,518.0,12.8,15.4
+Lycée polyvalent Émile Combes,Public,Polyvalent,Pons,3.6,(10),14.0,54.0,10.0,Pons 9 rue des Cordeliers BP 60 17800 Pons,90.0,54.0,215.0,13.1,9.9
+Lycée privé La Salle Saint-Louis,Privé,Général,Pont-l'Abbé-d'Arnoult,3.7,(21),13.0,76.0,8.0,Pont-l'Abbé-d'Arnoult 73 avenue André Malraux BP 16 17250 Pont-l'Abbé-d'Arnoult,99.0,76.0,132.0,13.4,11.1
+Lycée général Bellevue,Public,Général,Albi,4.0,(10),1.0,70.0,12.0,Albi 98 rue du Roc 81011 Albi,96.0,70.0,254.0,16.9,11.7
+Lycée général et technologique Champollion,Public,Général,Figeac,3.3,(11),5.0,58.0,10.0,Figeac 13 avenue Fernand Pezet BP 213 46106 Figeac,96.0,58.0,185.0,12.9,9.3
+Lycée Stanislas,Privé,Général,Saint-Raphaël,3.1,(10),11.0,98.0,7.0,Saint-Raphaël 261 bd Pierre Delli Zotti CS 10189 83700 Saint-Raphaël,100.0,98.0,86.0,14.8,11.6
+Lycée Thomas Edison,Public,Polyvalent,Lorgues,3.0,(30),10.0,65.0,12.0,Lorgues 1 rue Emile Héraud 83510 Lorgues,95.0,65.0,364.0,14.8,12.3
+Lycée Externat Saint-Joseph (La Cordeille),Privé,Général,Ollioules,2.4,(75),9.0,88.0,6.0,Ollioules 2229 route de Faveyrolles BP 122 83192 Ollioules,99.0,88.0,131.0,14.9,12.2
+Lycée Ampère,Public,Général,Lyon,3.4,(26),13.0,62.0,9.0,Lyon 29 rue de la Bourse 69002 Lyon,94.0,62.0,302.0,14.9,15.3
+Lycée polyvalent Jean Hyppolite,Public,Polyvalent,Jonzac,2.9,(8),11.0,56.0,8.0,Jonzac Place Saint-Exupéry BP 30069 17502 Jonzac,95.0,56.0,225.0,12.4,13.6
+Lycée polyvalent Louis Vicat,Public,Polyvalent,Souillac,4.3,(6),6.0,47.0,8.0,Souillac 2 place Marsalès BP 70004 46200 Souillac,92.0,47.0,71.0,12.5,9.1
+Lycée polyvalent Charles et Adrien Dupuy,Public,Polyvalent,Le Puy-en-Velay,4.0,(5),13.0,48.0,11.0,Le Puy-en-Velay 2-4 avenue du Docteur Durand CS 10120 43009 Le Puy-en-Velay,87.0,48.0,173.0,8.1,3.0
+Lycée Jean Michel,Public,Général,Lons-le-Saunier,3.2,(13),17.0,66.0,12.0,Lons-le-Saunier 400 rue du Docteur Michel BP 308 39015 Lons-le-Saunier,95.0,66.0,381.0,11.2,9.2
+Lycée polyvalent Gaston Monnerville,Public,Polyvalent,Cahors,2.4,(6),3.0,58.0,8.0,Cahors rue Georges Sand BP 283 46005 Cahors,91.0,58.0,181.0,13.8,10.3
+Lycée polyvalent privé Jeanne d'Arc,Privé,Polyvalent,Figeac,3.2,(9),4.0,67.0,7.0,Figeac 11 allées Pierre Beregovoy BP 208 46100 Figeac,97.0,67.0,104.0,13.3,13.6
+Lycée Maintenon,Privé,Polyvalent,Hyères,3.8,(17),6.0,80.0,9.0,Hyères 10 boulevard Pasteur CS 70514 83409 Hyères,100.0,80.0,192.0,16.1,14.1
+Lycée Rouvière,Public,Polyvalent,Toulon,3.5,(14),5.0,77.0,6.0,Toulon Quartier Sainte Musse BP 1205 83070 Toulon,97.0,77.0,288.0,16.3,9.2
+Lycée polyvalent privé Fénelon - Notre-Dame,Privé,Polyvalent,La Rochelle,3.5,(7),10.0,66.0,9.0,La Rochelle 36 rue Massiou BP 161 17005 La Rochelle cedex 1,96.0,66.0,286.0,13.8,12.4
+Lycée Sainte Jeanne d'Arc,Privé,Polyvalent,Brignoles,3.9,(8),2.0,82.0,7.0,Brignoles Avenue Dreo 83170 Brignoles,99.0,82.0,124.0,13.7,17.1
+Lycée privé Pasteur Mont-Roland,Privé,Polyvalent,Dole,3.0,(6),15.0,52.0,7.0,Dole 9 avenue Rockefeller BP 24 39107 Dole,88.0,52.0,161.0,12.5,9.7
+Lycée Maurice Genevoix,Public,Général,Montrouge,2.7,(30),39.0,51.0,9.0,Montrouge 29 avenue du Fort 92120 Montrouge,90.0,51.0,306.0,13.7,12.6
+Lycée du Val d'Argens,Public,Polyvalent,Le Muy,3.8,(23),4.0,63.0,10.0,Le Muy Avenue de Vaugrenier BP 86 83490 Le Muy,97.0,63.0,382.0,14.9,16.4
+Lycée Rabelais,Public,Général,Meudon,3.1,(23),32.0,71.0,8.0,Meudon 6 rue Georges Langrognet BP 15 92190 Meudon,95.0,71.0,206.0,14.1,9.7
+Lycée Gustave Eiffel,Public,Polyvalent,Rueil-Malmaison,3.6,(6),31.0,59.0,5.0,Rueil-Malmaison 78 avenue du Président Pompidou 92500 Rueil-Malmaison,94.0,59.0,214.0,14.2,14.2
+Lycée Jeanne d'Arc,Privé,Général,Montrouge,3.0,(4),54.0,95.0,6.0,Montrouge 44 rue Gabriel-Péri 92120 Montrouge,100.0,95.0,71.0,12.7,7.2
+Lycée Léonard de Vinci,Public,Polyvalent,Levallois-Perret,3.6,(16),53.0,55.0,9.0,Levallois-Perret 4 avenue Georges Pompidou 92300 Levallois-Perret,92.0,55.0,476.0,12.9,10.3
+Lycée polyvalent La Salle - Saint-Nicolas (Lycée des métiers),Privé,Polyvalent,Issy-les-Moulineaux,3.4,(52),56.0,48.0,6.0,Issy-les-Moulineaux 19 rue Victor Hugo 92130 Issy-les-Moulineaux,91.0,48.0,149.0,12.5,9.2
+Lycée Lakanal,Public,Général,Sceaux,3.6,(20),52.0,75.0,9.0,Sceaux 3 avenue du Président Roosevelt BP 99 92331 Sceaux,98.0,75.0,356.0,12.9,10.2
+Lycée Michel-Ange,Public,Général,Villeneuve-la-Garenne,3.2,(15),74.0,44.0,8.0,Villeneuve-la-Garenne 2 avenue Georges Pompidou 92390 Villeneuve-la-Garenne,95.0,44.0,192.0,10.5,9.1
+Lycée polyvalent Jean Jaurès,Public,Polyvalent,Châtenay-Malabry,3.0,(16),70.0,39.0,7.0,Châtenay-Malabry 280 avenue Jean Jaurès 92290 Châtenay-Malabry,87.0,39.0,228.0,11.1,10.5
+Lycée Sainte-Marie de Neuilly,Privé,Général,Neuilly-sur-Seine,4.5,(6),41.0,99.0,8.0,Neuilly-sur-Seine 24 boulevard Victor Hugo 92200 Neuilly-sur-Seine,100.0,99.0,85.0,13.6,12.4
+Lycée Alexandre-Dumas,Public,Général,Saint-Cloud,2.9,(31),63.0,65.0,9.0,Saint-Cloud 112 boulevard de la République 92210 Saint-Cloud,97.0,65.0,456.0,11.7,7.4
+Lycée Isaac Newton,Public,Polyvalent,Clichy,3.4,(22),23.0,47.0,9.0,Clichy 1 place Jules Verne 92110 Clichy,88.0,47.0,313.0,13.9,14.6
+Lycée Roosevelt,Public,Général,Reims,3.7,(14),24.0,47.0,10.0,Reims 10 rue Roosevelt 51100 Reims,87.0,47.0,490.0,9.0,2.9
+Lycée Notre-Dame-de-Boulogne,Privé,Général,Boulogne-Billancourt,3.5,(29),21.0,97.0,8.0,Boulogne-Billancourt 1 avenue Charles de Gaulle 92100 Boulogne-Billancourt,100.0,97.0,399.0,13.0,14.6
+Lycée Etienne Oehmichen,Public,Polyvalent,Châlons-en-Champagne,3.6,(8),21.0,48.0,7.0,Châlons-en-Champagne 8 avenue du Mont Héry 51000 Châlons-en-Champagne,82.0,48.0,280.0,9.9,10.6
+Lycée polyvalent Louis Audouin Dubreuil,Public,Polyvalent,Saint-Jean-d'Angély,3.4,(16),7.0,61.0,8.0,Saint-Jean-d'Angély 1 rue Philippe Jannet BP 35 17415 Saint-Jean-d'Angély,97.0,61.0,254.0,14.3,13.9
+Lycée Montesquieu,Public,Polyvalent,Le Plessis-Robinson,3.4,(9),43.0,49.0,6.0,Le Plessis-Robinson 23 rue du Capitaine Facq 92350 Le Plessis-Robinson,95.0,49.0,215.0,12.9,13.6
+Lycée Hyacinthe Friant,Public,Polyvalent,Poligny,3.8,(9),13.0,59.0,7.0,Poligny 3 rue Hyacinthe Friant BP 50029 39801 Poligny cedex 1,96.0,59.0,212.0,12.9,11.3
+Lycée Paul-Emile Victor,Public,Polyvalent,Champagnole,3.9,(6),12.0,59.0,10.0,Champagnole 625 rue de Gottmadingen BP 116 39303 Champagnole,94.0,59.0,211.0,11.8,13.5
+Lycée Madeleine Daniélou,Privé,Général,Rueil-Malmaison,4.5,(33),18.0,98.0,9.0,Rueil-Malmaison 61-63 rue du Général de Miribel 92508 Rueil-Malmaison,99.0,98.0,133.0,14.8,12.3
+Lycée Cordouan,Public,Général,Royan,3.0,(12),6.0,55.0,11.0,Royan 28 rue Henri Dunant 17200 Royan,95.0,55.0,343.0,10.3,14.8
+Lycée polyvalent François Arago,Public,Polyvalent,Reims,3.6,(3),22.0,43.0,8.0,Reims 1 rue François Arago 51100 Reims,86.0,43.0,132.0,8.7,10.3
+Lycée polyvalent des métiers Stéphane Hessel,Public,Polyvalent,Épernay,3.6,(8),17.0,52.0,11.0,Épernay 8 rue Godart Roger BP 506 51200 Épernay,91.0,52.0,577.0,12.3,10.1
+Lycée Pierre Bayen,Public,Général,Châlons-en-Champagne,3.9,(19),18.0,67.0,11.0,Châlons-en-Champagne 22 rue du Lycée 51000 Châlons-en-Champagne,95.0,67.0,222.0,12.0,10.3
+Lycée polyvalent Jean Talon,Public,Polyvalent,Châlons-en-Champagne,4.0,(11),15.0,35.0,8.0,Châlons-en-Champagne 105 avenue Daniel Simonnot 51000 Châlons-en-Champagne,79.0,35.0,216.0,12.8,9.1
+Lycée général et technologique Léonard de Vinci,Public,Général,Monistrol-sur-Loire,3.7,(18),5.0,61.0,9.0,Monistrol-sur-Loire Le Mazel BP 61 43120 Monistrol-sur-Loire,97.0,61.0,306.0,12.9,13.0
+Lycée privé Notre-Dame de Recouvrance,Privé,Général,Saintes,3.3,(2),2.0,67.0,7.0,Saintes 88 cours Genêt 17100 Saintes,100.0,67.0,62.0,15.8,16.8
+Lycée polyvalent Saint-Michel,Privé,Polyvalent,Reims,3.2,(10),12.0,57.0,7.0,Reims 39 rue Martin Peller 51100 Reims,97.0,57.0,179.0,13.6,11.9
+Lycée Parc Chabrières,Public,Général,Oullins,3.4,(8),1.0,41.0,10.0,Oullins 9 chemin des Chassagnes 69600 Oullins,86.0,41.0,325.0,14.2,17.8
+Lycée Galilée,Public,Polyvalent,Gennevilliers,3.4,(9),14.0,56.0,8.0,Gennevilliers 79 avenue Chandon 92230 Gennevilliers,91.0,56.0,349.0,15.2,15.1
+Lycée Victor Bérard,Public,Polyvalent,Morez,3.7,(13),5.0,67.0,7.0,Morez 35 quai Aimé Lamy BP 87 39403 Morez,96.0,67.0,170.0,15.3,13.8
+Lycée polyvalent Emmanuel Chabrier,Public,Polyvalent,Yssingeaux,4.5,(1),7.0,57.0,9.0,Yssingeaux Le Piny Haut BP 26 43201 Yssingeaux,91.0,57.0,128.0,12.3,10.2
+Lycée Jean Jaurès,Public,Général,Reims,3.8,(23),11.0,78.0,10.0,Reims 17 rue Ruinart de Brimont BP 10338 51062 Reims cedex,98.0,78.0,306.0,13.6,3.9
+Lycée Jean XXIII,Privé,Général,Reims,3.1,(21),10.0,76.0,12.0,Reims 18 rue Andrieux BP 62753 51064 Reims,100.0,76.0,215.0,13.8,13.6
+Lycée polyvalent Frédéric Ozanam,Privé,Polyvalent,Châlons-en-Champagne,4.0,(17),9.0,67.0,10.0,"Châlons-en-Champagne 1 rue de la Fraternité Site Mont-Héry, BP 2059 51000 Châlons-en-Champagne",96.0,67.0,290.0,14.1,14.2
+Lycée Pré Saint-Sauveur,Public,Polyvalent,Saint-Claude,2.5,(10),8.0,54.0,7.0,Saint-Claude Cité scolaire Pré Saint-Sauveur BP 19 39201 Saint-Claude,90.0,54.0,169.0,14.5,12.4
+Lycée François 1er,Public,Polyvalent,Vitry-le-François,3.4,(13),16.0,53.0,10.0,Vitry-le-François faubourg de Vitry le Brûlé BP 90406 51308 Vitry-le-François cedex,90.0,53.0,299.0,12.7,12.0
+Lycée Jacques Duhamel,Public,Polyvalent,Dole,3.2,(21),7.0,61.0,11.0,Dole Rue Charles Laurent Thouverey BP 8 39107 Dole,93.0,61.0,330.0,14.9,10.6
+Lycée Louis Pasteur,Public,Général,Neuilly-sur-Seine,2.9,(32),8.0,86.0,7.0,Neuilly-sur-Seine 21 boulevard d'Inkermann 92200 Neuilly-sur-Seine,98.0,86.0,218.0,16.1,14.1
+Lycée polyvalent Astier,Public,Polyvalent,Aubenas,2.8,(10),16.0,52.0,12.0,Aubenas quartier Roqua BP 60145 07205 Aubenas,88.0,52.0,146.0,11.2,10.7
+Lycée Polyvalent La Fontaine du Vé,Public,Polyvalent,Sézanne,2.6,(15),5.0,53.0,10.0,Sézanne avenue de la Fontaine du Vé BP 99 51120 Sézanne,88.0,53.0,187.0,8.6,15.2
+Lycée polyvalent Saint-Jean-Baptiste de La Salle,Privé,Polyvalent,Reims,2.4,(5),2.0,65.0,8.0,Reims 20 rue de Contrai CS 90036 51723 Reims cedex,96.0,65.0,147.0,12.6,16.1
+Lycée La Salle Passy Buzenval,Privé,Général,Rueil-Malmaison,3.4,(34),5.0,94.0,9.0,Rueil-Malmaison 50 avenue Otis Mygatt 92500 Rueil-Malmaison,100.0,94.0,374.0,14.9,16.4
+Lycée polyvalent Marcel Gimond,Public,Polyvalent,Aubenas,4.1,(23),13.0,58.0,14.0,Aubenas boulevard de l'Europe BP 144 07205 Aubenas,93.0,58.0,273.0,12.1,9.3
+Lycée polyvalent privé Sacré-Coeur,Privé,Polyvalent,Tournon-sur-Rhône,3.4,(24),12.0,64.0,8.0,Tournon-sur-Rhône 5 rue du Mail BP 33 07301 Tournon-sur-Rhône,97.0,64.0,163.0,12.8,10.0
+Lycée polyvalent Gabriel Faure,Public,Polyvalent,Tournon-sur-Rhône,4.4,(14),11.0,57.0,8.0,Tournon-sur-Rhône place Stéphane Mallarmé BP 116 07301 Tournon-sur-Rhône cedex,93.0,57.0,296.0,12.4,12.9
+Lycée polyvalent La Trinité,Privé,Polyvalent,Neuilly-sur-Seine,4.0,(7),7.0,68.0,5.0,Neuilly-sur-Seine 121 avenue Achille Peretti 92200 Neuilly-sur-Seine,99.0,68.0,94.0,13.1,16.2
+Lycée polyvalent Vincent d'Indy,Public,Polyvalent,Privas,3.7,(16),8.0,60.0,11.0,Privas 9 boulevard du lycée BP 628 07006 Privas,95.0,60.0,284.0,13.3,13.1
+Lycée René Auffray,Public,Polyvalent,Clichy,3.7,(11),6.0,47.0,5.0,Clichy 23 rue Fernand Pelloutier 92110 Clichy,84.0,47.0,259.0,16.4,11.1
+Lycée polyvalent Xavier Mallet,Public,Polyvalent,Le Teil,2.9,(15),4.0,58.0,9.0,Le Teil rue Frédéric Mistral BP 28 07400 Le Teil,92.0,58.0,202.0,12.8,15.4
+Lycée polyvalent privé Saint-Denis,Privé,Général,Annonay,3.5,(19),15.0,80.0,12.0,Annonay 1 chemin de la Muette BP 154 07104 Annonay,100.0,80.0,364.0,11.6,6.2
+Lycée général et technologique privé du Sacré-Coeur,Privé,Général,Privas,3.3,(1),10.0,72.0,8.0,Privas 6 boulevard DE VERNON 07000 Privas,97.0,72.0,46.0,13.0,12.7
+Lycée général et technologique privé Marie Rivier,Privé,Général,Bourg-Saint-Andéol,3.3,(8),6.0,70.0,8.0,Bourg-Saint-Andéol 21 avenue Notre-Dame BP 31 07700 Bourg-Saint-Andéol,99.0,70.0,147.0,14.5,14.9
+Lycée polyvalent Boissy d'Anglas,Public,Polyvalent,Annonay,4.4,(17),7.0,50.0,12.0,Annonay 50 avenue J Jaurès BP 127 07104 Annonay,90.0,50.0,427.0,13.4,10.6
+Lycée Jean-Paul de Rocca Serra,Public,Polyvalent,Porto-Vecchio,3.5,(15),1.0,60.0,9.0,Porto-Vecchio rue Vincentellu d'Istria 20137 Porto-Vecchio,92.0,60.0,252.0,17.8,8.3
+Lycée Laetitia Bonaparte,Public,Général,Ajaccio,3.4,(12),5.0,78.0,10.0,Ajaccio 3 avenue Napoléon III CS 20845 20184 Ajaccio,99.0,78.0,367.0,11.0,9.7
+Lycée polyvalent Sainte-Marie,Privé,Polyvalent,Chantonnay,2.9,(10),9.0,75.0,7.0,Chantonnay 12 place Jeanne d'Arc BP 79 85111 Chantonnay,96.0,75.0,272.0,14.1,15.2
+Lycée polyvalent Rosa Parks,Public,Polyvalent,La Roche-sur-Yon,3.7,(6),8.0,66.0,10.0,La Roche-sur-Yon 29 boulevard Guitton 85000 La Roche-sur-Yon,94.0,66.0,282.0,11.2,15.4
+Lycée Léon Blum,Public,Polyvalent,Créteil,4.2,(20),6.0,53.0,11.0,Créteil 5 rue Jean Gabin 94034 Créteil,94.0,53.0,359.0,16.2,15.8
+Lycée Guillaume Budé,Public,Polyvalent,Limeil-Brévannes,2.5,(17),5.0,52.0,10.0,Limeil-Brévannes 2 voie Georges Pompidou 94450 Limeil-Brévannes,93.0,52.0,510.0,13.6,16.3
+Lycée polyvalent Pierre Caraminot,Public,Polyvalent,Égletons,3.3,(4),7.0,54.0,6.0,Égletons 28 avenue DE VENTADOUR 19300 Égletons,89.0,54.0,150.0,12.3,13.3
+Lycée d'Arsonval,Public,Général,Brive-la-Gaillarde,3.7,(13),10.0,69.0,11.0,Brive-la-Gaillarde Place du 15 Aout 1944 BP 410 19100 Brive-la-Gaillarde,98.0,69.0,352.0,8.6,11.8
+Lycée Notre-Dame des Missions St Pierre,Privé,Général,Charenton-le-Pont,2.8,(43),1.0,96.0,8.0,Charenton-le-Pont 4 rue du Président Kennedy 94220 Charenton-le-Pont,100.0,96.0,146.0,17.2,11.5
+Lycée polyvalent de l'Authie,Public,Polyvalent,Doullens,2.9,(12),15.0,58.0,8.0,Doullens 20 rue de Routequeue 80600 Doullens,89.0,58.0,237.0,11.6,12.6
+Lycée Georges Brassens,Public,Polyvalent,Villeneuve-le-Roi,2.9,(20),19.0,46.0,11.0,Villeneuve-le-Roi 12 bis avenue le Foll 94290 Villeneuve-le-Roi,91.0,46.0,339.0,14.8,14.4
+Lycée polyvalent du Vimeu,Public,Polyvalent,Friville-Escarbotin,2.8,(1),14.0,59.0,10.0,Friville-Escarbotin 3 rue Denis Papin BP 50066 80534 Friville-Escarbotin,91.0,59.0,284.0,12.3,12.7
+Lycée Edouard Branly,Public,Polyvalent,Créteil,3.3,(6),20.0,49.0,4.0,Créteil 33 rue du Petit Bois 94000 Créteil,87.0,49.0,214.0,14.3,14.8
+Lycée Marx Dormoy,Public,Polyvalent,Champigny-sur-Marne,3.4,(6),21.0,52.0,7.0,Champigny-sur-Marne 500 rue du Professeur Milliez 94507 Champigny-sur-Marne,88.0,52.0,296.0,14.7,13.0
+Lycée Champlain,Public,Polyvalent,Chennevières-sur-Marne,3.3,(14),29.0,53.0,9.0,Chennevières-sur-Marne 61 rue des Bordes 94430 Chennevières-sur-Marne,91.0,53.0,590.0,12.3,14.0
+Lycée de Cachan,Public,Polyvalent,Cachan,3.4,(10),39.0,54.0,9.0,Cachan 61 avenue du Président Wilson 94235 Cachan,88.0,54.0,552.0,12.9,12.0
+Lycée Pablo Picasso,Public,Général,Fontenay-sous-Bois,3.4,(15),32.0,59.0,9.0,Fontenay-sous-Bois 2 avenue Pablo Picasso 94120 Fontenay-sous-Bois,95.0,59.0,255.0,13.8,12.5
+Lycée Louise Michel,Public,Polyvalent,Champigny-sur-Marne,3.4,(18),17.0,57.0,9.0,Champigny-sur-Marne 7 rue Pierre Marie Derrien 94500 Champigny-sur-Marne,94.0,57.0,285.0,14.0,14.8
+Lycée Maximilien Perret,Public,Polyvalent,Alfortville,2.9,(16),30.0,43.0,10.0,Alfortville Place San Benedetto del Tronto BP 56 94142 Alfortville,71.0,43.0,274.0,13.8,4.2
+Lycée Jean Macé,Public,Polyvalent,Vitry-sur-Seine,3.9,(12),28.0,43.0,8.0,Vitry-sur-Seine 34 rue Jules Ferry 94407 Vitry-sur-Seine,81.0,43.0,502.0,14.1,9.7
+Lycée Antoine de Saint-Exupéry,Public,Polyvalent,Créteil,3.2,(22),27.0,52.0,8.0,Créteil 4 rue Henri Matisse 94000 Créteil,88.0,52.0,327.0,13.5,14.2
+Lycée Fréderic Mistral,Public,Polyvalent,Fresnes,3.5,(50),22.0,57.0,9.0,Fresnes 7-9 rue Fréderic Mistral 94260 Fresnes,92.0,57.0,475.0,12.5,14.7
+Lycée polyvalent Robert Schuman,Public,Polyvalent,Charenton-le-Pont,3.5,(26),15.0,63.0,7.0,Charenton-le-Pont 2 rue de l'Embarcadère 94220 Charenton-le-Pont,93.0,63.0,244.0,15.0,14.7
+Lycée Langevin Wallon,Public,Polyvalent,Champigny-sur-Marne,3.4,(27),13.0,38.0,8.0,Champigny-sur-Marne 126 avenue Roger Salengro 94500 Champigny-sur-Marne,88.0,38.0,311.0,15.3,12.9
+Lycée Johannes Gutenberg,Public,Polyvalent,Créteil,3.1,(10),11.0,49.0,7.0,Créteil 16 rue de Saussure 94044 Créteil,89.0,49.0,401.0,14.3,15.5
+Lycée Darius Milhaud,Public,Polyvalent,Le Kremlin-Bicêtre,4.2,(7),35.0,46.0,9.0,Le Kremlin-Bicêtre 80 rue Professeur Bergonie 94270 Le Kremlin-Bicêtre,87.0,46.0,479.0,11.9,13.3
+Lycée Guillaume Apollinaire,Public,Général,Thiais,2.9,(20),58.0,53.0,10.0,Thiais 42 rue du Pavé de Grignon 94320 Thiais,92.0,53.0,439.0,10.3,6.2
+Lycée Ozar Hatorah Filles,Privé,Général,Créteil,3.0,(3),60.0,69.0,5.0,Créteil 65 rue Saint-Simon 94000 Créteil,100.0,69.0,35.0,8.7,9.6
+Lycée François Mansart,Public,Polyvalent,Saint-Maur-des-Fossés,3.5,(17),56.0,48.0,7.0,Saint-Maur-des-Fossés 25 avenue de la Banque 94100 Saint-Maur-des-Fossés,89.0,48.0,184.0,10.6,8.6
+Ensemble scolaire Edmond Michelet - site Bossuet (lycée),Privé,Général,Brive-la-Gaillarde,4.3,(16),6.0,66.0,9.0,Brive-la-Gaillarde 11 rue Bossuet BP 559 19107 Brive-la-Gaillarde,98.0,66.0,203.0,14.9,14.3
+Lycée Louis Armand,Public,Polyvalent,Nogent-sur-Marne,3.2,(12),53.0,51.0,8.0,Nogent-sur-Marne 173 boulevard de Strasbourg 94130 Nogent-sur-Marne,82.0,51.0,223.0,9.5,11.4
+Lycée Condorcet,Public,Polyvalent,Saint-Maur-des-Fossés,4.0,(11),44.0,68.0,7.0,Saint-Maur-des-Fossés 1 avenue Condorcet 94214 Saint-Maur-des-Fossés,92.0,68.0,283.0,12.6,12.0
+Lycée Marcelin Berthelot,Public,Général,Saint-Maur-des-Fossés,4.0,(30),46.0,86.0,8.0,Saint-Maur-des-Fossés 6 boulevard Maurice Berteaux 94107 Saint-Maur-des-Fossés,100.0,86.0,367.0,12.3,10.2
+Lycée polyvalent Jean Monnet,Public,Polyvalent,Les Herbiers,3.3,(13),22.0,53.0,8.0,Les Herbiers 57 rue de la Demoiselle BP 20 85500 Les Herbiers,91.0,53.0,231.0,10.2,12.9
+Lycée l'Espérance,Privé,Général,Sainte-Cécile,3.9,(9),25.0,59.0,5.0,Sainte-Cécile BOURDEVAIRE Bourdevaire 85110 Sainte-Cécile,100.0,59.0,19.0,7.3,11.7
+Lycée Georges Cabanis,Public,Général,Brive-la-Gaillarde,3.7,(12),3.0,56.0,7.0,Brive-la-Gaillarde 6 boulevard Henri de Jouvenel BP 409 19311 Brive-la-Gaillarde,94.0,56.0,253.0,17.1,10.7
+Lycée polyvalent Adolphe Chérioux,Public,Polyvalent,Vitry-sur-Seine,3.1,(20),8.0,45.0,7.0,Vitry-sur-Seine 195 rue Julian Grimau BP 210 94400 Vitry-sur-Seine,84.0,45.0,311.0,10.2,16.0
+Lycée du petit Val,Privé,Général,Sucy-en-Brie,2.8,(38),7.0,87.0,8.0,Sucy-en-Brie 12 avenue Albert Pleuvry 94370 Sucy-en-Brie,99.0,87.0,143.0,16.0,15.6
+Lycée polyvalent Atlantique,Public,Polyvalent,Luçon,3.4,(9),19.0,49.0,10.0,Luçon 5 rue Jean Jaurès BP 239 85402 Luçon,93.0,49.0,191.0,10.9,13.5
+Lycée La Providence,Privé,Général,Amiens,3.0,(35),20.0,70.0,10.0,Amiens 146 boulevard de Saint-Quentin 80090 Amiens,94.0,70.0,152.0,11.9,10.0
+Lycée Christophe Colomb,Public,Polyvalent,Sucy-en-Brie,3.4,(18),4.0,65.0,10.0,Sucy-en-Brie 154 rue de Boissy 94370 Sucy-en-Brie,96.0,65.0,367.0,13.0,16.4
+Lycée Albert de Mun,Privé,Général,Nogent-sur-Marne,3.4,(60),65.0,96.0,9.0,Nogent-sur-Marne 5 avenue Georges Clemenceau 94130 Nogent-sur-Marne,99.0,96.0,183.0,8.1,3.0
+Lycée privé Beaulieu,Privé,Général,Cognac,4.0,(10),16.0,77.0,8.0,Cognac 23 place Beaulieu BP 170 16105 Cognac,99.0,77.0,93.0,11.4,6.3
+Lycée de l'image et du son,Public,Général,Angoulême,4.5,(3),15.0,66.0,12.0,Angoulême 303 avenue de Navarre CS 22214 16022 Angoulême,95.0,66.0,236.0,11.3,11.5
+Lycée polyvalent Lamarck,Public,Polyvalent,Albert,3.4,(6),19.0,50.0,8.0,Albert 198 avenue Robert Solente BP 60201 80300 Albert,84.0,50.0,246.0,12.0,7.5
+Lycée polyvalent Sacré-Coeur La Salle,Privé,Polyvalent,Saint-Brieuc,2.8,(8),20.0,60.0,4.0,Saint-Brieuc 2 boulevard J B de la Salle BP 305 22003 Saint-Brieuc,96.0,60.0,295.0,12.9,13.4
+Lycée la Fontaine des Eaux,Public,Polyvalent,Dinan,3.5,(11),25.0,61.0,10.0,Dinan 48 promenade Fontaine des Eaux BP 12064 22102 Dinan,97.0,61.0,406.0,12.8,13.0
+Lycée polyvalent Notre-Dame du Roc,Privé,Polyvalent,La Roche-sur-Yon,3.4,(12),18.0,71.0,11.0,La Roche-sur-Yon Rue Charlemagne CS 80023 85035 La Roche-sur-Yon,97.0,71.0,472.0,13.6,13.9
+Lycée polyvalent Jean Moulin,Public,Polyvalent,Angers,3.8,(15),29.0,59.0,5.0,Angers 1 place Jean Moulin BP 13049 49017 Angers cedex 2,91.0,59.0,245.0,11.7,10.3
+Lycée des métiers et des technologies innovantes Charles Jully,Public,Polyvalent,Saint-Avold,3.7,(8),24.0,52.0,7.0,Saint-Avold 59 rue du Maréchal Foch 57500 Saint-Avold,90.0,52.0,366.0,12.1,14.7
+Lycée polyvalent Saint Aubin-La Salle,Privé,Polyvalent,Verrières-en-Anjou,3.0,(1),34.0,55.0,10.0,"Verrières-en-Anjou rue Hélène Boucher Saint-Sylvain-d'Anjou, BP 30139 49481 Verrières-en-Anjou",92.0,55.0,296.0,10.5,10.8
+Lycée polyvalent Valery Giscard d?Estaing,Public,Polyvalent,Chamalières,3.2,(19),21.0,60.0,9.0,Chamalières Voie ROMAINE 63400 Chamalières,87.0,60.0,262.0,10.3,6.2
+Lycée polyvalent Louis de Cormontaigne,Public,Polyvalent,Metz,4.0,(17),31.0,57.0,9.0,Metz 12 place Cormontaigne BP 70624 57010 Metz cedex 1,93.0,57.0,336.0,14.3,13.8
+Lycée des métiers des services aux entreprises Henri Nominé,Public,Polyvalent,Sarreguemines,3.0,(11),37.0,50.0,5.0,Sarreguemines 60 rue du Maréchal Foch BP 91159 57215 Sarreguemines,89.0,50.0,247.0,12.5,13.6
+Lycée Charlemagne,Public,Général,Thionville,3.3,(20),58.0,64.0,9.0,Thionville 17 avenue Clemenceau 57100 Thionville,95.0,64.0,241.0,5.1,5.6
+Lycée polyvalent Chevrollier,Public,Polyvalent,Angers,3.8,(10),27.0,55.0,12.0,Angers 2 rue Adrien Recouvreur BP 73505 49035 Angers cedex 1,91.0,55.0,528.0,11.9,9.4
+Lycée Jean XXIII,Privé,Général,Montigny-lès-Metz,4.0,(19),52.0,68.0,13.0,Montigny-lès-Metz 10 rue Monseigneur Heintz 57950 Montigny-lès-Metz,99.0,68.0,184.0,11.1,8.7
+Lycée polyvalent Rosa Parks,Public,Polyvalent,Thionville,3.6,(7),48.0,42.0,7.0,Thionville 7 Impasse Colbert 57100 Thionville,88.0,42.0,506.0,10.8,11.8
+Lycée Robert Schuman,Public,Général,Metz,3.4,(18),36.0,47.0,8.0,Metz 4 rue Monseigneur Pelt BP 55130 57074 Metz cedex 3,92.0,47.0,321.0,13.6,9.9
+Lycée Saint-Pierre Chanel,Privé,Général,Thionville,3.8,(26),47.0,92.0,8.0,Thionville 33 rue du Chardon 57100 Thionville,100.0,92.0,290.0,12.0,11.2
+Lycée Jean Moulin,Public,Général,Forbach,3.7,(3),34.0,54.0,9.0,Forbach 7 rue Maurice Barrès 57600 Forbach,94.0,54.0,181.0,14.1,7.8
+Section d'enseignement professionnel du lycée des métiers des sciences et des techniques La Briquerie (Site La Malgrange),Public,Polyvalent,Thionville,3.2,(6),50.0,43.0,4.0,Thionville Chaussée d'Amérique BP 20032 57129 Thionville,80.0,43.0,292.0,11.2,10.5
+Lycée Hélène Boucher,Public,Général,Thionville,3.1,(33),43.0,72.0,9.0,Thionville 55 boulevard FOCH 57100 Thionville,97.0,72.0,311.0,13.2,5.3
+Lycée Notre-Dame de la Providence,Privé,Général,Thionville,3.2,(9),41.0,76.0,9.0,Thionville 22 place Notre-Dame CS 30324 57126 Thionville,100.0,76.0,289.0,13.4,6.7
+Lycée polyvalent Chaptal,Public,Polyvalent,Saint-Brieuc,4.7,(2),33.0,48.0,6.0,Saint-Brieuc 6 allée CHAPTAL 22015 Saint-Brieuc,86.0,48.0,156.0,10.2,9.7
+Lycée et section d'enseignement professionnel Fulgence Bienvenüe,Public,Polyvalent,Loudéac,3.7,(4),31.0,49.0,9.0,Loudéac Rue Eon de l'Etoile BP 601 22606 Loudéac cedex,90.0,49.0,262.0,10.7,10.3
+Lycée professionnel Antoine Gapp - Site de Forbach,Privé,Général,Forbach,4.0,(5),21.0,69.0,7.0,Forbach 2 avenue du Général Passaga 57600 Forbach,99.0,69.0,74.0,14.7,15.0
+Lycée polyvalent Jean Racine,Public,Polyvalent,Montdidier,3.5,(7),28.0,47.0,11.0,Montdidier 541 rue Pasteur 80500 Montdidier,89.0,47.0,325.0,11.1,8.4
+Lycée polyvalent La Hotoie,Public,Polyvalent,Amiens,3.3,(9),23.0,40.0,11.0,Amiens rue du Bâtonnier Mahiu BP 6 80016 Amiens,88.0,40.0,296.0,11.5,4.7
+Lycée Pauline Roland,Public,Polyvalent,Chevilly-Larue,3.7,(24),3.0,58.0,7.0,Chevilly-Larue 17 avenue du Général de Gaulle 94550 Chevilly-Larue,93.0,58.0,182.0,16.1,16.6
+Lycée François Arago,Public,Polyvalent,Villeneuve-Saint-Georges,3.6,(12),2.0,48.0,7.0,Villeneuve-Saint-Georges 36 avenue de l'Europe 94190 Villeneuve-Saint-Georges,91.0,48.0,288.0,16.8,16.0
+Lycée Saint François d'Assise,Privé,Général,La Roche-sur-Yon,4.5,(5),13.0,77.0,15.0,La Roche-sur-Yon 11 rond-point Charles Sorin CS 40299 85000 La Roche-sur-Yon,99.0,77.0,394.0,11.4,14.6
+Lycée Jean de Lattre-de-Tassigny,Public,Général,La Roche-sur-Yon,3.7,(14),11.0,71.0,9.0,La Roche-sur-Yon 165 rue Hubert Cailler BP 821 85021 La Roche-sur-Yon,98.0,71.0,290.0,11.6,15.0
+Lycée Marguerite de Valois,Public,Général,Angoulême,3.8,(14),14.0,61.0,12.0,Angoulême 12 rue Louise Lériget CS 52324 16023 Angoulême,96.0,61.0,332.0,11.6,6.9
+Lycée polyvalent Guy Môquet - Etienne Lenoir,Public,Polyvalent,Châteaubriant,3.4,(11),25.0,53.0,8.0,Châteaubriant 9 rue de l'Europe BP 209 44146 Châteaubriant,90.0,53.0,325.0,13.8,11.7
+Lycée Saint-Louis,Privé,Général,Saint-Nazaire,3.8,(10),23.0,76.0,8.0,Saint-Nazaire 10 boulevard Albert 1er BP 284 44616 Saint-Nazaire,98.0,76.0,138.0,13.9,14.2
+Lycée Notre-Dame de Toutes Aides,Privé,Général,Nantes,3.4,(32),22.0,76.0,9.0,Nantes 33 boulevard Louis Millet BP 71903 44319 Nantes,99.0,76.0,180.0,14.1,14.4
+Lycée Duplessis Mornay,Public,Général,Saumur,2.9,(15),19.0,57.0,11.0,Saumur 1 rue Duruy BP 330 49408 Saumur cedex,95.0,57.0,254.0,13.2,10.6
+Lycée Galilée,Public,Général,Guérande,3.2,(15),31.0,63.0,9.0,Guérande 16 avenue Gustave Flaubert 44353 Guérande,97.0,63.0,155.0,13.1,9.0
+Lycée polyvalent Aimé Césaire,Public,Polyvalent,Clisson,4.2,(2),37.0,64.0,14.0,Clisson 1 Esplanade d'Alatri BP 19108 44190 Clisson,94.0,64.0,281.0,12.7,4.0
+Lycée polyvalent Félix Mayer,Public,Polyvalent,Creutzwald,3.5,(23),20.0,54.0,10.0,Creutzwald 2 square Georges Bastide 57150 Creutzwald,90.0,54.0,270.0,15.1,9.3
+Lycée Clemenceau,Public,Général,Nantes,4.3,(14),21.0,82.0,8.0,Nantes 1 rue Georges Clemenceau BP 74205 44042 Nantes cedex 1,98.0,82.0,273.0,14.4,5.9
+Lycée Gabriel Guist'hau,Public,Général,Nantes,3.5,(19),29.0,79.0,11.0,Nantes 3 rue du Boccage BP 34201 44042 Nantes,98.0,79.0,267.0,13.2,12.7
+Lycée polyvalent Europe Robert Schuman,Public,Polyvalent,Cholet,3.9,(8),18.0,52.0,9.0,Cholet 39 avenue de l'Europe BP 90801 49311 Cholet,90.0,52.0,254.0,13.7,9.9
+Lycée Saint-Louis,Privé,Général,Saumur,3.0,(5),17.0,72.0,12.0,Saumur 47 rue d'Alsace 49400 Saumur,99.0,72.0,188.0,13.8,9.7
+Lycée Albert Camus,Public,Général,Nantes,3.6,(11),18.0,28.0,10.0,Nantes 11 rue Etienne Coutan 44107 Nantes,77.0,28.0,201.0,8.6,14.5
+Lycée polyvalent Saint-Joseph La Joliverie,Privé,Polyvalent,Saint-Sébastien-sur-Loire,4.3,(3),17.0,76.0,5.0,Saint-Sébastien-sur-Loire 141 route de Clisson BP 43229 44232 Saint-Sébastien-sur-Loire,98.0,76.0,303.0,14.5,14.4
+Lycée Erckmann Chatrian,Public,Général,Phalsbourg,3.6,(10),18.0,67.0,7.0,Phalsbourg 13 rue de l'Arsenal 57370 Phalsbourg,94.0,67.0,86.0,15.2,9.2
+Lycée polyvalent Joubert Emilien Maillard,Public,Polyvalent,Ancenis-Saint-Géréon,2.6,(22),36.0,53.0,10.0,Ancenis-Saint-Géréon 160 rue du Pressoir Rouge BP 60159 44150 Ancenis-Saint-Géréon,94.0,53.0,316.0,10.0,12.7
+Lycée Nelson Mandela,Public,Polyvalent,Nantes,3.5,(8),27.0,66.0,8.0,Nantes 10 rue Pierre Vidal Naquet BP 56509 44265 Nantes,93.0,66.0,371.0,11.3,13.2
+Lycée polyvalent Notre-Dame,Privé,Polyvalent,Rezé,3.0,(41),16.0,81.0,9.0,Rezé 50 rue Jean-Jaurès BP  14 44401 Rezé,99.0,81.0,326.0,14.6,14.4
+Lycée général privé Saint-Pierre,Privé,Général,Courpière,4.0,(4),17.0,55.0,7.0,Courpière Rue Saint-Pierre BP 10 63120 Courpière,94.0,55.0,24.0,11.3,9.2
+Lycée privé de Bretagne,Privé,Général,Nantes,3.1,(13),13.0,38.0,8.0,Nantes 15 rue du Landreau 44300 Nantes,90.0,38.0,25.0,15.1,12.3
+Lycée polyvalent Nicolas Appert,Public,Polyvalent,Orvault,3.8,(19),40.0,67.0,10.0,Orvault 24 avenue de la Cholière 44700 Orvault,96.0,67.0,310.0,11.5,12.5
+Lycée polyvalent Julie Daubié,Public,Polyvalent,Rombas,3.0,(10),16.0,53.0,8.0,Rombas Rue JOFFRE 57120 Rombas,93.0,53.0,453.0,14.3,15.3
+"Lycée des métiers de la productique, des automatismes et des énergies renouvelables Jean-Auguste Margueritte",Public,Polyvalent,Verdun,3.4,(16),11.0,61.0,9.0,Verdun 13 place du Commandant Galland 55100 Verdun,94.0,61.0,366.0,13.2,13.4
+Lycée La Colinière,Public,Général,Nantes,3.6,(12),52.0,48.0,10.0,Nantes 129 rue du Landreau BP 81904 44319 Nantes cedex 3,92.0,48.0,398.0,11.0,11.6
+Lycée polyvalent Gaspard Monge - La Chauvinière,Public,Polyvalent,Nantes,4.0,(16),60.0,53.0,9.0,Nantes 2 rue de la Fantaisie BP 62223 44322 Nantes cedex 3,85.0,53.0,288.0,10.1,10.8
+Lycée Grand Air,Public,Général,La Baule-Escoublac,3.6,(22),53.0,60.0,8.0,La Baule-Escoublac 12 Avenue de Tréméac BP 123 44503 La Baule-Escoublac,97.0,60.0,191.0,11.5,9.1
+Lycée polyvalent Sacré-Coeur La Salle,Privé,Polyvalent,Nantes,3.2,(15),58.0,47.0,5.0,Nantes 3 rue Francis Portais CS 50415 44104 Nantes,85.0,47.0,140.0,5.7,11.2
+Lycée polyvalent Les Bourdonnières,Public,Polyvalent,Nantes,3.6,(22),54.0,59.0,10.0,Nantes rue de la Perrière 44200 Nantes,93.0,59.0,625.0,11.2,11.5
+Lycée polyvalent la Baugerie,Privé,Polyvalent,Saint-Sébastien-sur-Loire,3.2,(5),61.0,55.0,5.0,Saint-Sébastien-sur-Loire 38 boulevard des Pas Enchantes CS 28209 44232 Saint-Sébastien-sur-Loire,94.0,55.0,129.0,10.8,10.1
+Lycée Livet,Public,Général,Nantes,4.0,(19),56.0,60.0,5.0,Nantes 16 rue Dufour BP 94225 44042 Nantes cedex 1,96.0,60.0,327.0,11.3,9.4
+Lycée La Herdrie,Public,Général,Basse-Goulaine,3.4,(25),63.0,71.0,9.0,Basse-Goulaine rue de la Basse Lande CS 12612 44115 Basse-Goulaine,97.0,71.0,283.0,10.2,10.4
+Lycée général et technologique Montgérald,Public,Général,Le Marin,2.5,(6),24.0,62.0,7.0,Le Marin Quartier Diaka Montgérald 97290 Le Marin,100.0,62.0,189.0,9.6,9.8
+Lycée général et technologique Victor Schoelcher,Public,Général,Fort-de-France,4.4,(16),22.0,37.0,9.0,Fort-de-France 44 boulevard robert attuly BP 636 97200 Fort-de-France,89.0,37.0,249.0,10.3,10.8
+Lycée Saint-Joseph,Privé,Général,Machecoul-Saint-Même,3.3,(15),49.0,71.0,9.0,Machecoul-Saint-Même 14 rue des Capucins 44270 Machecoul-Saint-Même,99.0,71.0,173.0,11.9,6.8
+Lycée général et technologique privé Saint-Stanislas,Privé,Général,Nantes,3.2,(12),43.0,78.0,9.0,Nantes 2 rue Saint-Stanislas 44000 Nantes,100.0,78.0,208.0,7.7,12.4
+Lycée Sainte-Marie du Port,Privé,Polyvalent,Les Sables-d'Olonne,3.3,(27),6.0,73.0,11.0,Les Sables-d'Olonne 95 avenue Charles de Gaulle 85340 Les Sables-d'Olonne,98.0,73.0,379.0,14.2,15.9
+Lycée polyvalent Notre-Dame,Privé,Polyvalent,Challans,3.6,(13),7.0,70.0,12.0,Challans 2 rue de Bois Fossé BP 419 85304 Challans,99.0,70.0,438.0,14.5,15.9
+Lycée polyvalent Jeanne d'Arc,Privé,Polyvalent,Montaigu-Vendée,3.7,(8),5.0,81.0,8.0,Montaigu-Vendée 3 bis boulevard Parpaillon 85600 Montaigu-Vendée,99.0,81.0,154.0,16.0,14.3
+Lycée polyvalent Jean Monnet,Public,Polyvalent,Cognac,2.7,(14),6.0,55.0,10.0,Cognac 66 Boulevard de Chatenay BP 56 16100 Cognac,95.0,55.0,308.0,12.6,14.1
+Lycée polyvalent Émile Roux,Public,Polyvalent,Confolens,3.5,(15),5.0,45.0,9.0,Confolens 30 avenue du Général de Gaulle 16500 Confolens,87.0,45.0,164.0,8.7,14.3
+Lycée polyvalent Charles Hermite,Public,Polyvalent,Dieuze,3.6,(30),13.0,70.0,7.0,Dieuze 6 chemin du Calvaire 57260 Dieuze,90.0,70.0,163.0,15.7,2.5
+Lycée Sacré-Coeur La Salle - site enseignement supérieur,Privé,Général,Angers,3.7,(15),14.0,69.0,10.0,Angers 20-22 rue Fleming 49066 Angers,97.0,69.0,368.0,14.6,13.7
+Lycée Le Champ Blanc,Privé,Général,Sèvremoine,3.5,(10),13.0,75.0,9.0,Sèvremoine 15 rue du val de Sèvre Champ Blanc - Le Longeron 49710 Sèvremoine,100.0,75.0,114.0,14.7,9.4
+Lycée polyvalent Joseph Pernock,Public,Polyvalent,Le Lorrain,2.8,(8),18.0,34.0,4.0,Le Lorrain LE LORRAIN Cité scolaire Joseph Pernock 97214 Le Lorrain,80.0,34.0,149.0,12.2,10.9
+Lycée Sainte-Anne,Privé,Général,Verdun,2.6,(2),8.0,59.0,7.0,Verdun 14 rue Mautroté 55100 Verdun,95.0,59.0,50.0,13.9,10.6
+Lycée polyvalent Notre-Dame,Privé,Polyvalent,Fontenay-le-Comte,3.6,(7),3.0,72.0,10.0,Fontenay-le-Comte 29 rue Rabelais BP 10269 85205 Fontenay-le-Comte,99.0,72.0,182.0,15.1,16.3
+Lycée Jean-Baptiste Delambre,Public,Général,Amiens,2.1,(10),8.0,45.0,10.0,Amiens 3 rue Montaigne Cité scolaire 80080 Amiens,85.0,45.0,145.0,13.6,6.2
+Lycée Boucher de Perthes,Public,Général,Abbeville,3.2,(10),6.0,53.0,12.0,Abbeville 1 rue Paul Delique 80120 Abbeville,94.0,53.0,378.0,14.6,12.4
+Lycée polyvalent Charles Mangin,Public,Polyvalent,Sarrebourg,3.4,(9),10.0,62.0,8.0,Sarrebourg 34 rue Gambetta 57400 Sarrebourg,95.0,62.0,332.0,14.2,16.0
+Lycée des métiers du tertiaire Jean-Victor Poncelet,Public,Polyvalent,Saint-Avold,3.5,(13),9.0,58.0,10.0,Saint-Avold 11 rue des Anglais 57500 Saint-Avold,93.0,58.0,421.0,13.3,16.1
+Lycée général et technologique Jean Zay,Public,Général,Thiers,3.5,(4),13.0,59.0,4.0,Thiers 21 rue JEAN ZAY 63300 Thiers,97.0,59.0,85.0,9.8,12.5
+Lycée polyvalent François Rabelais,Public,Polyvalent,Fontenay-le-Comte,2.4,(12),2.0,58.0,9.0,Fontenay-le-Comte 45 rue RABELAIS BP 289 85205 Fontenay-le-Comte,96.0,58.0,255.0,13.3,16.5
+Lycée Jean Rostand,Public,Général,Chantilly,3.2,(20),21.0,58.0,11.0,Chantilly 2 place Georges Paquier BP 60329 60634 Chantilly,96.0,58.0,361.0,13.9,13.2
+Lycée polyvalent Charles de Gaulle,Public,Polyvalent,Compiègne,2.9,(9),31.0,53.0,10.0,Compiègne rue Jacques Daguerre CS 50047 60321 Compiègne,88.0,53.0,271.0,10.8,7.6
+Lycée Saint-Joseph du Moncel,Privé,Général,Pont-Sainte-Maxence,3.6,(9),26.0,81.0,8.0,Pont-Sainte-Maxence 8 place de l'Eglise BP 50249 60722 Pont-Sainte-Maxence,99.0,81.0,131.0,12.4,13.1
+Lycée Montalembert,Privé,Général,Doullens,3.8,(18),7.0,76.0,8.0,Doullens 3 route d'Amiens BP 63 80600 Doullens,100.0,76.0,46.0,13.7,9.9
+Lycée André Malraux,Public,Général,Montataire,3.9,(13),23.0,48.0,10.0,Montataire 1 place Nelson Mandela BP 159 60761 Montataire cedex,91.0,48.0,225.0,13.4,11.8
+Lycée polyvalent Paul Langevin,Public,Polyvalent,Beauvais,3.2,(21),30.0,48.0,10.0,Beauvais 3 avenue Montaigne BP 60954 60009 Beauvais,86.0,48.0,424.0,11.2,9.2
+Lycée général et technologique Saint-Joseph de Cluny,Privé,Général,Fort-de-France,4.0,(7),16.0,78.0,7.0,Fort-de-France 22 route de Cluny 97200 Fort-de-France,100.0,78.0,167.0,12.9,12.3
+Lycée Élie Vinet,Public,Général,Barbezieux-Saint-Hilaire,4.0,(14),1.0,53.0,11.0,Barbezieux-Saint-Hilaire 7 avenue Pierre Mendès France 16300 Barbezieux-Saint-Hilaire,94.0,53.0,163.0,15.2,14.7
+Lycée polyvalent Sainte-Ursule,Privé,Polyvalent,Luçon,4.4,(8),1.0,69.0,7.0,Luçon 5 place du Petit Champ de Foire BP 329 85403 Luçon,99.0,69.0,119.0,16.8,14.4
+Lycée des métiers des sciences et des technologies de l'information et des réseaux Condorcet,Public,Polyvalent,Schoeneck,3.9,(12),5.0,51.0,5.0,Schoeneck Rue de l'Etang BP 80506 57354 Schoeneck,95.0,51.0,188.0,15.7,17.1
+Lycée et section d'enseignement professionnel Henri Avril,Public,Polyvalent,Lamballe-Armor,3.4,(10),7.0,61.0,9.0,Lamballe-Armor 7 et 9 rue de Dinard BP 40219 22402 Lamballe-Armor,95.0,61.0,378.0,15.2,11.0
+Lycée polyvalent Pierre-Joël Bonté,Public,Polyvalent,Riom,3.7,(16),11.0,52.0,4.0,Riom 2 avenue Averroes BP 10034 63200 Riom,85.0,52.0,273.0,13.1,9.5
+Lycée polyvalent Alfred Kastler,Public,Polyvalent,Stenay,1.8,(11),6.0,51.0,8.0,Stenay 1 rue de Münnerstadt 55700 Stenay,90.0,51.0,96.0,12.4,14.6
+Lycée Saint-Antoine,Privé,Général,Phalsbourg,3.0,(20),4.0,83.0,7.0,Phalsbourg CHEMIN DES DAMES 57370 Phalsbourg,100.0,83.0,72.0,17.2,5.0
+Lycée polyvalent Louis Casimir Teyssier,Public,Polyvalent,Bitche,3.0,(12),2.0,76.0,7.0,Bitche 23 rue Schellenthal 57230 Bitche,96.0,76.0,183.0,17.5,14.6
+Lycée et section d'enseignement professionnel Kerraoul,Public,Polyvalent,Paimpol,3.6,(7),3.0,71.0,7.0,Paimpol avenue Gabriel le Bras BP 93 22502 Paimpol,98.0,71.0,146.0,13.4,16.7
+Lycée polyvalent Fernand Renaudeau - site du lycée de la Mode,Public,Polyvalent,Cholet,3.9,(15),7.0,70.0,10.0,Cholet 20 rue Carteron BP 2124 49321 Cholet,97.0,70.0,358.0,13.0,15.7
+Lycée Rabelais,Public,Général,Saint-Brieuc,3.8,(17),8.0,63.0,8.0,Saint-Brieuc 8 rue Rabelais BP 2255 22022 Saint-Brieuc cedex 1,97.0,63.0,257.0,10.5,15.2
+Lycée Marie Curie,Public,Général,Nogent-sur-Oise,3.6,(18),14.0,61.0,8.0,Nogent-sur-Oise 47 boulevard Pierre de Coubertin 60180 Nogent-sur-Oise,93.0,61.0,450.0,14.6,12.3
+Lycée polyvalent Joseph Zobel,Public,Polyvalent,Rivière-Salée,3.6,(15),15.0,49.0,11.0,Rivière-Salée Quartier Thoraille BP 38 97215 Rivière-Salée,90.0,49.0,267.0,11.9,13.1
+Lycée polyvalent la Jetée,Public,Polyvalent,Le François,4.0,(7),13.0,52.0,10.0,Le François Route de la Jetée Cité scolaire 97240 Le François,90.0,52.0,225.0,13.3,11.7
+Lycée polyvalent Henri Vogt,Public,Polyvalent,Commercy,3.6,(5),2.0,54.0,8.0,Commercy 12 rue André Malraux BP 10109 55200 Commercy,89.0,54.0,225.0,11.1,15.3
+Lycée Saint-Joseph,Privé,Général,Châteaubriant,3.2,(13),4.0,56.0,8.0,Châteaubriant 13 A rue de la Libération CS 80039 44141 Châteaubriant,99.0,56.0,123.0,15.9,17.0
+Lycée Auguste et Jean Renoir,Public,Général,Angers,3.8,(12),3.0,59.0,10.0,Angers 15 impasse Ampère BP 53512 49035 Angers,95.0,59.0,301.0,16.3,7.1
+Lycée Pierre d'Ailly,Public,Général,Compiègne,3.5,(18),12.0,70.0,13.0,Compiègne 136 boulevard des Etats-Unis BP 90015 60321 Compiègne,96.0,70.0,413.0,14.0,15.0
+Lycée polyvalent La Fayette,Public,Polyvalent,Clermont-Ferrand,3.0,(11),5.0,62.0,5.0,"Clermont-Ferrand 21 boulevard Robert Schuman La Pardieu , BP 90053 63064 Clermont-Ferrand",91.0,62.0,338.0,11.5,14.1
+Lycée Félix Faure,Public,Général,Beauvais,4.0,(10),11.0,61.0,9.0,Beauvais 31 boulevard de l'Assaut 60000 Beauvais,97.0,61.0,389.0,15.0,9.4
+Lycée général et technologique Acajou 1,Public,Général,Le Lamentin,2.7,(8),11.0,37.0,9.0,Le Lamentin Acajou BP 437 97285 Le Lamentin,97.0,37.0,73.0,13.4,11.1
+Lycée polyvalent Julien Gracq,Public,Polyvalent,Beaupréau-en-Mauges,2.7,(10),1.0,65.0,9.0,Beaupréau-en-Mauges route de l'hippodrome BP 60013 49601 Beaupréau-en-Mauges,95.0,65.0,164.0,14.1,17.8
+Lycée polyvalent Blaise Pascal,Public,Polyvalent,Ambert,3.6,(5),1.0,76.0,8.0,Ambert 23 rue Blaise Pascal BP 65 63600 Ambert,98.0,76.0,141.0,16.0,15.6
+Lycée Edmé Bouchardon,Public,Général,Chaumont,3.6,(5),9.0,51.0,9.0,Chaumont 16 rue Youri Gagarine BP 2085 52903 Chaumont,92.0,51.0,227.0,12.5,9.7
+Lycée polyvalent Diderot,Public,Polyvalent,Langres,3.7,(20),8.0,61.0,11.0,Langres 21 avenue du Gal de Gaulle BP 195 52206 Langres,94.0,61.0,217.0,13.2,9.8
+Lycée Sévigné,Privé,Général,Compiègne,3.7,(5),6.0,47.0,10.0,Compiègne 20 rue de la Sous-Préfecture 60200 Compiègne,89.0,47.0,45.0,11.9,15.8
+Lycée Philippe Lebon,Public,Général,Joinville,3.9,(7),7.0,47.0,7.0,Joinville 11 rue de Sprendlingen BP 16 52300 Joinville,85.0,47.0,118.0,13.3,11.3
+Lycée polyvalent Charles de Gaulle,Public,Polyvalent,Chaumont,3.5,(5),5.0,75.0,8.0,Chaumont Avenue Christian Pineau BP 2067 52903 Chaumont,96.0,75.0,160.0,13.5,14.1
+Lycée polyvalent Olympe de Gouges,Public,Polyvalent,Montech,2.8,(8),6.0,54.0,9.0,Montech 720 impasse Lacoste 82700 Montech,93.0,54.0,259.0,11.5,10.3
+Lycée polyvalent Antoine Bourdelle,Public,Polyvalent,Montauban,2.9,(14),5.0,51.0,10.0,Montauban 3 boulevard Edouard Herriot BP 373 82003 Montauban,89.0,51.0,718.0,11.1,13.1
+Lycée Jacques Prévert,Public,Général,Savenay,3.2,(19),1.0,65.0,10.0,Savenay 17 rue Joseph Malegue 44260 Savenay,97.0,65.0,320.0,15.8,18.2
+Lycée polyvalent Acajou II,Public,Polyvalent,Le Lamentin,3.6,(8),7.0,53.0,10.0,Le Lamentin Quartier ACAJOU 97232 Le Lamentin,92.0,53.0,235.0,14.6,5.9
+Lycée polyvalent Claude Nougaro,Public,Polyvalent,Monteils,3.3,(15),9.0,49.0,10.0,Monteils 376 avenue des Lumières BP 97 82300 Monteils,89.0,49.0,253.0,10.4,10.1
+Lycée polyvalent du Nord Caraïbe,Public,Polyvalent,Bellefontaine,4.0,(13),5.0,53.0,7.0,Bellefontaine BELLEFONTAINE Quartier Cheval Blanc 97222 Bellefontaine,93.0,53.0,135.0,12.5,14.8
+Lycée polyvalent du Nord Atlantique,Public,Polyvalent,Sainte-Marie,3.2,(19),4.0,55.0,7.0,Sainte-Marie Boulevard de la Voie Lactée 97230 Sainte-Marie,91.0,55.0,96.0,15.5,10.7
+Lycée polyvalent adventiste Rama,Privé,Polyvalent,Sainte-Luce,3.6,(11),3.0,67.0,7.0,Sainte-Luce Monésie Cité scolaire adventiste Rama 97228 Sainte-Luce,99.0,67.0,120.0,15.7,14.4
+Lycée polyvalent de l'AMEP,Privé,Polyvalent,Fort-de-France,3.2,(11),2.0,39.0,7.0,Fort-de-France 183 route de Redoute BP 415 97204 Fort-de-France,93.0,39.0,60.0,9.0,17.3
+Lycée général et technologique privé Pierre Marie Théas,Privé,Général,Montauban,3.6,(14),1.0,86.0,12.0,Montauban rue Marie-Rose Gineste CS 20545 82000 Montauban,100.0,86.0,228.0,11.2,15.4
+Lycée Younoussa Bamana,Public,Général,Mamoudzou,4.3,(4),1.0,24.0,9.0,Mamoudzou BP 46 97600 Mamoudzou,78.0,24.0,814.0,13.4,8.3
+Lycée général François Mitterrand,Public,Général,Moissac,3.5,(8),4.0,71.0,8.0,Moissac bd du Lycée BP 306 82201 Moissac,94.0,71.0,147.0,13.6,13.9
+Lycée général et technologique Paulette Nardal (Ex Centre Sud),Public,Général,Ducos,3.5,(8),6.0,57.0,9.0,Ducos Quartier Vaudrancourt BP 94 97224 Ducos,97.0,57.0,229.0,14.7,10.5
+Lycée polyvalent Jean de Prades,Public,Polyvalent,Castelsarrasin,3.1,(11),3.0,55.0,8.0,Castelsarrasin route de Toulouse BP 80 82102 Castelsarrasin,91.0,55.0,203.0,9.7,14.2
+Lycée Antoine de Saint-Exupéry,Public,Polyvalent,Parentis-en-Born,3.6,(13),10.0,54.0,12.0,Parentis-en-Born 13 avenue du Lycée BP 44 40160 Parentis-en-Born,91.0,54.0,393.0,12.5,6.7
+Lycée polyvalent privé Saint-André,Privé,Polyvalent,Niort,3.5,(24),4.0,74.0,10.0,Niort 14 rue de Souché BP 229 79007 Niort,98.0,74.0,412.0,14.6,12.4
+Lycée polyvalent Victor Anicet,Public,Polyvalent,Saint-Pierre,4.7,(12),1.0,67.0,5.0,Saint-Pierre Quartier Saint James BP 39 97250 Saint-Pierre,99.0,67.0,87.0,15.9,18.8
+Lycée Jules Ferry,Public,Général,Cannes,3.8,(26),1.0,72.0,5.0,Cannes 82 boulevard de la République CS 30042 06414 Cannes,96.0,72.0,284.0,9.2,17.1
+Lycée général et technologique La Serre de Sarsan,Public,Général,Lourdes,2.3,(5),5.0,60.0,7.0,Lourdes rue Saint-Exupéry BP 703 65107 Lourdes,95.0,60.0,57.0,10.8,13.3
+Lycée Joseph Desfontaines,Public,Général,Melle,3.8,(6),11.0,64.0,10.0,Melle 2 rue Guillotiere BP 31 79500 Melle,96.0,64.0,184.0,12.3,11.4
+Lycée polyvalent Victor Duruy,Public,Polyvalent,Bagnères-de-Bigorre,3.4,(6),9.0,58.0,9.0,Bagnères-de-Bigorre 3 bis allées Jean Jaurès BP 108 65201 Bagnères-de-Bigorre,94.0,58.0,171.0,12.5,11.4
+Lycée Jean Macé,Public,Général,Niort,3.9,(12),5.0,60.0,12.0,Niort 20 rue Gustave Eiffel BP 96 79004 Niort,96.0,60.0,360.0,14.5,13.8
+Lycée Julliot de la Morandière,Public,Polyvalent,Granville,3.7,(8),19.0,54.0,10.0,Granville 12 rue de la Crête BP 639 50406 Granville,92.0,54.0,273.0,11.3,10.8
+Lycée climatique René Billères,Public,Spécialisé,Argelès-Gazost,3.2,(18),11.0,64.0,8.0,Argelès-Gazost 6 avenue Marcel Lemettre BP 103 65402 Argelès-Gazost,95.0,64.0,89.0,11.8,9.5
+Lycée polyvalent privé Notre-Dame de Garaison,Privé,Polyvalent,Monléon-Magnoac,3.4,(24),7.0,50.0,9.0,Monléon-Magnoac 2 route du Cier Garaison 65670 Monléon-Magnoac,96.0,50.0,62.0,9.5,12.9
+Lycée général et technologique Marie Curie,Public,Général,Tarbes,3.6,(10),10.0,55.0,15.0,Tarbes 2 rue Georges Ledormeur BP 9301 65930 Tarbes,92.0,55.0,412.0,12.2,11.9
+Lycée Les Eucalyptus,Public,Général,Nice,3.3,(9),17.0,59.0,5.0,Nice 7 avenue des Eucalyptus BP 83306 06206 Nice,91.0,59.0,218.0,13.6,10.8
+Lycée Don Bosco,Privé,Général,Nice,3.1,(20),40.0,83.0,5.0,Nice 40 Place Don Bosco 06046 Nice,100.0,83.0,129.0,10.2,9.2
+Lycée Bristol,Public,Général,Cannes,2.6,(35),38.0,45.0,10.0,Cannes 10 avenue Saint Nicolas CS 20114 06414 Cannes,88.0,45.0,309.0,9.7,10.5
+Lycée Henri Matisse,Public,Général,Vence,3.3,(29),33.0,70.0,11.0,Vence 101 avenue Foch 06140 Vence,96.0,70.0,324.0,11.1,11.8
+Lycée Thierry Maulnier,Public,Général,Nice,3.5,(18),43.0,53.0,11.0,Nice 2 avenue Claude Debussy 06200 Nice,90.0,53.0,475.0,6.0,10.0
+Lycée Pierre et Marie Curie,Public,Général,Menton,3.0,(11),41.0,47.0,10.0,Menton 353 avenue du Doyen Jean Lépine 06500 Menton,88.0,47.0,299.0,8.0,10.2
+Lycée Thomas Hélye,Privé,Général,Cherbourg-en-Cotentin,4.2,(13),23.0,76.0,8.0,Cherbourg-en-Cotentin 87 rue Emmanuel Liais 50100 Cherbourg-en-Cotentin,98.0,76.0,196.0,10.3,8.7
+Lycée Curie-Corot,Public,Polyvalent,Saint-Lô,2.4,(19),12.0,56.0,6.0,Saint-Lô 377 rue de l'Exode BP 290 50010 Saint-Lô,92.0,56.0,313.0,12.9,13.0
+Lycée privé Notre-Dame des Anges,Privé,Général,Belfort,3.5,(4),6.0,45.0,7.0,Belfort 46 bis faubourg de Montbéliard 90000 Belfort,84.0,45.0,48.0,10.8,7.6
+Lycée du Parc Impérial,Public,Général,Nice,3.1,(30),12.0,51.0,12.0,Nice 2 avenue Paul Arène 06000 Nice,90.0,51.0,521.0,13.0,14.6
+Lycée Victor Grignard,Public,Général,Cherbourg-en-Cotentin,3.5,(12),9.0,68.0,8.0,Cherbourg-en-Cotentin 12 rue Guillaume Fouace BP 307 50100 Cherbourg-en-Cotentin,93.0,68.0,218.0,12.3,13.3
+Lycée Plaine de Neauphle,Public,Général,Trappes,4.5,(5),20.0,38.0,9.0,Trappes 3 place Naguib Mahfouz 78190 Trappes,81.0,38.0,189.0,11.3,14.1
+Lycée Robert de Mortain,Public,Polyvalent,Mortain-Bocage,3.3,(1),4.0,65.0,7.0,Mortain-Bocage 30 rue 30e Division américaine 50140 Mortain-Bocage,96.0,65.0,131.0,11.9,14.6
+Lycée Alexis de Tocqueville,Public,Polyvalent,Cherbourg-en-Cotentin,4.0,(7),8.0,54.0,9.0,Cherbourg-en-Cotentin 34 avenue Henri Poincaré BP 308 50100 Cherbourg-en-Cotentin,94.0,54.0,304.0,11.3,14.1
+Lycée Jean-François Millet,Public,Général,Cherbourg-en-Cotentin,4.0,(13),2.0,64.0,12.0,Cherbourg-en-Cotentin 1 rue de Bougainville BP 79 50130 Cherbourg-en-Cotentin,95.0,64.0,341.0,15.1,13.8
+Lycée polyvalent Le Garros,Public,Polyvalent,Auch,3.6,(13),11.0,57.0,10.0,Auch 1 bis rue Darwin BP 60529 32021 Auch cedex 9,88.0,57.0,246.0,12.8,6.3
+Lycée Les 7 Mares,Public,Général,Maurepas,3.2,(5),18.0,73.0,8.0,Maurepas 13 rue de la Beauce BP 50207 78310 Maurepas,99.0,73.0,228.0,14.4,9.2
+Lycée polyvalent Léonard de Vinci,Public,Polyvalent,Saint-Germain-en-Laye,2.9,(22),27.0,52.0,5.0,Saint-Germain-en-Laye 2 boulevard Hector Berlioz 78100 Saint-Germain-en-Laye,89.0,52.0,171.0,13.0,13.8
+Lycée de Villaroy,Public,Général,Guyancourt,2.4,(43),35.0,62.0,9.0,Guyancourt 2 rue Viollet le Duc 78280 Guyancourt,97.0,62.0,279.0,11.4,13.0
+Lycée Louis Bascan,Public,Polyvalent,Rambouillet,3.3,(38),32.0,63.0,13.0,Rambouillet 5 avenue du Général Leclerc BP 93 78513 Rambouillet,93.0,63.0,747.0,13.1,13.0
+Lycée Condorcet,Public,Polyvalent,Limay,3.2,(19),31.0,46.0,8.0,Limay Allée Condorcet 78520 Limay,87.0,46.0,417.0,13.2,11.9
+Lycée général et technologique Bossuet,Public,Général,Condom,3.6,(6),9.0,68.0,10.0,Condom 42 rue Jules Ferry 32100 Condom,96.0,68.0,141.0,13.7,9.9
+Lycée polyvalent Maréchal Lannes,Public,Polyvalent,Lectoure,3.1,(8),7.0,69.0,8.0,Lectoure 1 place Pierre Brossolette 32700 Lectoure,98.0,69.0,111.0,14.2,14.3
+Lycée Dumont d'Urville,Public,Polyvalent,Maurepas,2.8,(9),41.0,52.0,8.0,Maurepas 2 avenue de Franche-Comté 78310 Maurepas,89.0,52.0,182.0,10.2,12.7
+Lycée de la Montagne,Public,Polyvalent,Valdeblore,3.0,(14),7.0,67.0,7.0,Valdeblore Quartier du Clôt 06420 Valdeblore,95.0,67.0,109.0,15.2,15.1
+Lycée Saint-François d'Assise,Privé,Général,Montigny-le-Bretonneux,3.5,(23),52.0,98.0,9.0,Montigny-le-Bretonneux 6 place Claudel 78180 Montigny-le-Bretonneux,100.0,98.0,177.0,11.9,12.2
+Lycée Jean Vilar,Public,Général,Plaisir,2.8,(24),54.0,68.0,8.0,Plaisir 1033 avenue du Général de Gaulle 78370 Plaisir,98.0,68.0,215.0,12.1,9.9
+Lycée Alexis de Tocqueville,Public,Général,Grasse,3.4,(15),6.0,55.0,13.0,Grasse 22 chemin de l'Orme BP 72111 06131 Grasse,92.0,55.0,296.0,7.6,15.3
+Lycée polyvalent d'Artagnan,Public,Polyvalent,Nogaro,3.8,(8),8.0,58.0,9.0,Nogaro 27 avenue des Pyrénées 32110 Nogaro,90.0,58.0,150.0,13.9,9.2
+Lycée polyvalent Pierre Corneille,Public,Polyvalent,La Celle-Saint-Cloud,3.6,(24),57.0,58.0,9.0,La Celle-Saint-Cloud 4 avenue Pierre Corneille BP 2 78170 La Celle-Saint-Cloud,90.0,58.0,442.0,11.9,10.9
+Lycée Jules Ferry,Public,Polyvalent,Versailles,4.0,(12),60.0,52.0,10.0,Versailles 29 rue du Maréchal Joffre 78000 Versailles,92.0,52.0,438.0,11.6,9.5
+Notre-Dame du Grandchamp,Privé,Général,Versailles,4.6,(14),63.0,92.0,7.0,Versailles 97 rue Royale 78000 Versailles,99.0,92.0,357.0,11.3,10.8
+Lycée Blanche de Castille,Privé,Général,Le Chesnay-Rocquencourt,3.5,(41),59.0,89.0,8.0,Le Chesnay-Rocquencourt 1 avenue de la Bretèche 78150 Le Chesnay-Rocquencourt,99.0,89.0,249.0,8.8,11.7
+Lycée polyvalent Lot-et-Bastides,Public,Polyvalent,Villeneuve-sur-Lot,3.7,(15),13.0,54.0,10.0,Villeneuve-sur-Lot Avenue d'Agen BP 306 47307 Villeneuve-sur-Lot,90.0,54.0,511.0,11.5,11.2
+Lycée Jean Rostand,Public,Polyvalent,Mantes-la-Jolie,3.1,(9),15.0,31.0,9.0,Mantes-la-Jolie 66 rue Fernand Bodet 78200 Mantes-la-Jolie,78.0,31.0,361.0,14.6,8.4
+Lycée Léonard de Vinci,Public,Polyvalent,Antibes,3.9,(10),5.0,71.0,5.0,Antibes 214 rue Jean Joannon BP 739 06633 Antibes cedex,95.0,71.0,236.0,14.7,15.4
+Lycée Charles de Gaulle,Public,Général,Poissy,3.9,(18),58.0,76.0,8.0,Poissy 10 rue Gustave Eiffel Technoparc 78300 Poissy,96.0,76.0,350.0,11.8,8.9
+Lycée général Joseph Saverne,Public,Général,L'Isle-Jourdain,3.6,(14),5.0,68.0,9.0,L'Isle-Jourdain 5 avenue Claude Augé 32600 L'Isle-Jourdain,98.0,68.0,242.0,13.0,15.7
+Lycée général et technologique Pardailhan,Public,Général,Auch,3.2,(6),3.0,63.0,10.0,Auch Chemin de Baron BP 20376 32008 Auch cedex,97.0,63.0,155.0,14.1,17.8
+Lycée général privé Saint-Joseph,Privé,Général,Lectoure,4.0,(28),4.0,62.0,7.0,Lectoure 1 rue de l'Abbé Tournier 32700 Lectoure,97.0,62.0,47.0,14.3,16.2
+Lycée Viollet le Duc,Public,Polyvalent,Villiers-Saint-Frédéric,3.2,(19),45.0,58.0,9.0,Villiers-Saint-Frédéric 1 route de Septeuil 78640 Villiers-Saint-Frédéric,90.0,58.0,365.0,12.5,10.9
+Lycée polyvalent Pasteur,Public,Polyvalent,Le Blanc,3.8,(11),8.0,57.0,8.0,Le Blanc 12 boulevard François Mitterrand BP 206 36300 Le Blanc,86.0,57.0,115.0,10.2,8.2
+Lycée polyvalent Alain Fournier,Public,Polyvalent,Mirande,3.5,(8),2.0,83.0,9.0,Mirande AVENUE LAPLAGNE 32300 Mirande,98.0,83.0,75.0,17.7,18.1
+Lycée Stendhal,Public,Général,Aiguillon,4.0,(16),10.0,57.0,10.0,Aiguillon Allée Charles de Gaulle 47190 Aiguillon,96.0,57.0,176.0,12.5,9.7
+Lycée polyvalent Balzac d'Alembert,Public,Polyvalent,Issoudun,3.6,(14),3.0,55.0,11.0,Issoudun 8 rue de la Limoise BP 177 36105 Issoudun,89.0,55.0,208.0,14.1,12.3
+Lycée polyvalent George Sand,Public,Polyvalent,La Châtre,3.4,(6),2.0,65.0,10.0,La Châtre 25 avenue George Sand BP 144 36400 La Châtre,97.0,65.0,140.0,14.9,13.8
+Lycée privé Saint-Charles,Privé,Général,Thouars,3.3,(6),17.0,80.0,6.0,Thouars 1 rue Jules Michelet BP 173 79101 Thouars,100.0,80.0,60.0,11.5,9.9
+Lycée polyvalent privé Saint-Joseph,Privé,Polyvalent,Bressuire,3.9,(11),16.0,62.0,8.0,Bressuire 4 rue du Docteur Brillaud CS 60049 79301 Bressuire,93.0,62.0,187.0,11.8,11.4
+Lycée privé Sainte-Catherine,Privé,Général,Villeneuve-sur-Lot,4.0,(10),8.0,57.0,9.0,Villeneuve-sur-Lot 2 chemin de Velours 47300 Villeneuve-sur-Lot,93.0,57.0,104.0,12.9,11.3
+Lycée Maurice Genevoix,Public,Général,Bressuire,4.2,(18),14.0,66.0,11.0,Bressuire 36 rue de Malabry BP 40 79301 Bressuire,96.0,66.0,368.0,11.6,12.1
+Lycée Val de Garonne,Public,Polyvalent,Marmande,3.5,(5),9.0,52.0,12.0,Marmande Rue Ejea de los Caballeros BP 307 47207 Marmande,91.0,52.0,422.0,9.5,12.8
+Lycée Saint-Exupéry,Privé,Général,Montigny-le-Bretonneux,2.5,(10),12.0,89.0,8.0,Montigny-le-Bretonneux 11 rue Michaël Faraday 78180 Montigny-le-Bretonneux,99.0,89.0,123.0,15.0,8.5
+Lycée polyvalent Blaise Pascal,Public,Polyvalent,Châteauroux,3.4,(11),1.0,49.0,4.0,Châteauroux 27 boulevard Blaise Pascal BP 569 36019 Châteauroux,88.0,49.0,223.0,11.0,16.2
+Lycée privé Saint-Caprais,Privé,Général,Agen,2.9,(7),4.0,76.0,10.0,Agen 8 rue Raspail 47000 Agen,100.0,76.0,92.0,14.9,10.6
+Lycée Bernard Palissy,Public,Général,Agen,3.8,(22),5.0,64.0,12.0,Agen 164 boulevard de la Liberté BP 30291 47007 Agen,95.0,64.0,418.0,11.8,13.5
+Lycée George Sand,Public,Général,Nérac,2.7,(4),2.0,65.0,9.0,Nérac Boulevard Pierre de Coubertin 47600 Nérac,95.0,65.0,137.0,15.3,13.8
+Lycée Léopold Sédar Senghor,Public,Polyvalent,Magnanville,2.9,(16),10.0,62.0,8.0,Magnanville Place Pierre Bérégovoy 78200 Magnanville,96.0,62.0,329.0,15.0,15.5
+Lycée Emilie de Breteuil,Public,Polyvalent,Montigny-le-Bretonneux,3.2,(24),6.0,65.0,9.0,Montigny-le-Bretonneux 3 rue du Canal BP 276 78180 Montigny-le-Bretonneux,94.0,65.0,302.0,13.1,16.1
+Lycée Jean-Baptiste Poquelin,Public,Polyvalent,Saint-Germain-en-Laye,4.3,(3),5.0,49.0,5.0,Saint-Germain-en-Laye 72 rue Léon Désoyer BP 1142 78100 Saint-Germain-en-Laye,95.0,49.0,295.0,15.0,16.3
+Lycée Saint-Jean et Hulst,Privé,Général,Versailles,3.5,(45),4.0,95.0,9.0,Versailles 26 rue du Maréchal de Lattre de Tassigny 78000 Versailles,100.0,95.0,319.0,16.5,12.6
+Lycée Louise Weiss,Public,Polyvalent,Achères,3.9,(18),3.0,58.0,7.0,Achères 201 avenue du Général de Gaulle 78260 Achères,91.0,58.0,228.0,12.7,16.6
+Lycée Vincent Van Gogh,Public,Polyvalent,Aubergenville,3.2,(23),2.0,47.0,10.0,Aubergenville Rue Jules Ferry BP 234 78410 Aubergenville,90.0,47.0,403.0,16.6,11.0
+Lycée polyvalent du Haut Val de Sèvre,Public,Polyvalent,Saint-Maixent-l'École,3.6,(6),7.0,64.0,9.0,Saint-Maixent-l'École 22 rue du Panier Fleuri BP 8 79403 Saint-Maixent-l'École,91.0,64.0,138.0,12.9,9.8
+Lycée de la Venise Verte,Public,Général,Niort,3.1,(13),12.0,54.0,10.0,Niort 71 rue Laurent Bonnevay BP 3600 79012 Niort,94.0,54.0,392.0,12.1,12.3
+Lycée Victor Duruy,Public,Général,Mont-de-Marsan,3.0,(9),18.0,68.0,13.0,Mont-de-Marsan 260 avenue Nonères BP 109 40002 Mont-de-Marsan,95.0,68.0,271.0,8.9,7.9
+Lycée Charles Despiau,Public,Général,Mont-de-Marsan,3.3,(10),15.0,63.0,10.0,Mont-de-Marsan 637 avenue du Houga BP 30273 40005 Mont-de-Marsan,97.0,63.0,396.0,9.8,10.8
+Lycée Gaston Crampe,Public,Polyvalent,Aire-sur-l'Adour,2.6,(14),17.0,59.0,12.0,Aire-sur-l'Adour Avenue des droits de l'Homme et du Citoyen 40800 Aire-sur-l'Adour,91.0,59.0,223.0,10.4,9.9
+Lycée de Borda,Public,Polyvalent,Dax,3.5,(31),12.0,60.0,13.0,Dax 7 avenue Paul Doumer BP 60345 40107 Dax,94.0,60.0,581.0,12.3,9.3
+Lycée polyvalent Jean Taris,Public,Polyvalent,Peyrehorade,4.0,(4),8.0,62.0,8.0,Peyrehorade 365 avenue Jean Dupaya 40300 Peyrehorade,89.0,62.0,145.0,8.0,12.7
+Lycée Paul Guérin,Public,Général,Niort,3.8,(8),6.0,63.0,10.0,Niort 19 rue des Fiefs BP 19113 79061 Niort,96.0,63.0,325.0,13.6,8.1
+Lycée Edouard Belin,Public,Polyvalent,Vesoul,3.3,(14),11.0,52.0,12.0,Vesoul 18 rue Edouard Belin BP 50289 70006 Vesoul,85.0,52.0,302.0,8.9,7.9
+Lycée Augustin Cournot,Public,Polyvalent,Gray,3.0,(22),8.0,48.0,9.0,Gray Rue du lycée 70104 Gray,90.0,48.0,233.0,11.0,11.4
+Lycée Lumière,Public,Polyvalent,Luxeuil-les-Bains,3.3,(25),9.0,57.0,9.0,Luxeuil-les-Bains 33 rue de Grammont BP 90155 70306 Luxeuil-les-Bains,86.0,57.0,282.0,9.8,10.8
+Lycée Saint-Jacques de Compostelle,Privé,Général,Dax,3.7,(22),2.0,68.0,10.0,Dax 32 rue Paul Lahargou 40100 Dax,98.0,68.0,134.0,14.9,7.9
+Lycée Haroun Tazieff,Public,Polyvalent,Saint-Paul-lès-Dax,3.7,(12),6.0,64.0,8.0,Saint-Paul-lès-Dax Boulevard Saint-Vincent-de-Paul 40990 Saint-Paul-lès-Dax,95.0,64.0,290.0,13.0,12.3
+Lycée Janson de Sailly,Public,Général,Paris,3.5,(16),1.0,81.0,9.0,Paris 106 rue de la Pompe 75016 Paris,99.0,81.0,379.0,15.9,18.8
+Lycée Edouard Herriot,Public,Général,Sainte-Savine,4.0,(6),1.0,56.0,11.0,"Sainte-Savine rue La Maladière Sainte-Savine, BP 90248 10300 Sainte-Savine",95.0,56.0,241.0,15.7,16.7
+Lycée Alexandra David-Néel,Public,Général,Digne-les-Bains,3.6,(13),1.0,54.0,10.0,Digne-les-Bains 17 avenue Maréchal Leclerc BP 221 04004 Digne-les-Bains,92.0,54.0,229.0,15.0,18.6
+Lycée Paul Arène,Public,Polyvalent,Sisteron,3.5,(8),3.0,72.0,10.0,Sisteron 13 avenue du stade BP 98 04203 Sisteron,96.0,72.0,148.0,14.7,16.2
+Lycée André Honnorat,Public,Polyvalent,Barcelonnette,2.9,(4),2.0,59.0,8.0,Barcelonnette 1 rue André Honnorat 04400 Barcelonnette,100.0,59.0,62.0,15.0,18.6
+Lycée Louis Aragon,Public,Polyvalent,Héricourt,3.7,(12),3.0,57.0,8.0,Héricourt Rue Pierre Mendès France 70400 Héricourt,93.0,57.0,161.0,12.5,14.4
+Lycée Georges Colomb,Public,Polyvalent,Lure,3.3,(10),2.0,60.0,8.0,Lure 1 rue Georges Colomb BP 170 70204 Lure,94.0,60.0,258.0,14.9,7.9
+Lycée Diderot,Public,Polyvalent,Paris,4.1,(5),18.0,52.0,7.0,Paris 61 rue David d'Angers 75019 Paris,93.0,52.0,241.0,16.2,15.3
+Lycée polyvalent Xavier Bichat,Public,Polyvalent,Nantua,4.3,(4),20.0,55.0,13.0,Nantua Avenue du Lac BP 51 01130 Nantua,95.0,55.0,157.0,11.0,11.5
+Lycée Polyvalent Les Lombards,Public,Polyvalent,Troyes,3.4,(25),13.0,48.0,11.0,Troyes 12 avenue des Lombards BP 766 10025 Troyes,82.0,48.0,340.0,11.1,7.6
+Lycée Saint-Bernard,Privé,Général,Troyes,4.2,(14),11.0,70.0,13.0,Troyes 8 rue du Palais de Justice 10000 Troyes,99.0,70.0,121.0,11.7,9.3
+Lycée Camille Sée,Public,Général,Paris,3.0,(20),40.0,61.0,8.0,Paris 11 rue Léon Lhermitte 75015 Paris,93.0,61.0,164.0,14.6,5.9
+Lycée Gabriel Fauré,Public,Général,Paris,4.0,(28),37.0,62.0,8.0,Paris 81 avenue de Choisy 75013 Paris,96.0,62.0,166.0,12.5,14.8
+Lycée polyvalent Paul Painlevé,Public,Polyvalent,Oyonnax,2.7,(18),21.0,36.0,14.0,Oyonnax 13 place des déportés de 1944 BP 813 01108 Oyonnax,88.0,36.0,230.0,10.3,10.5
+Lycée technique privé Saint-Nicolas,Privé,Polyvalent,Paris,3.6,(23),16.0,83.0,7.0,Paris 108 rue de Vaugirard 75006 Paris,98.0,83.0,311.0,16.0,16.4
+Lycée Hélène Boucher,Public,Général,Paris,3.8,(51),44.0,89.0,11.0,Paris 75 cours de Vincennes 75020 Paris,99.0,89.0,412.0,14.2,13.7
+Lycée polyvalent Dorian,Public,Polyvalent,Paris,2.3,(26),51.0,41.0,7.0,Paris 74 avenue Philippe Auguste 75011 Paris,89.0,41.0,194.0,12.3,13.7
+Lycée Saint-Cricq,Public,Polyvalent,Pau,4.2,(15),41.0,56.0,9.0,Pau 4 bis avenue des États-Unis CS 21516 64015 Pau,92.0,56.0,430.0,9.9,10.8
+Lycée polyvalent Simone Weil,Public,Polyvalent,Paris,3.0,(17),41.0,48.0,9.0,Paris 7 rue de Poitou 75003 Paris,91.0,48.0,183.0,13.2,14.5
+Lycée Paul Valéry,Public,Général,Paris,3.6,(19),56.0,33.0,11.0,Paris 38 boulevard Soult 75012 Paris,79.0,33.0,272.0,8.2,13.5
+Lycée privé Rocroy Saint-Vincent-de-Paul,Privé,Général,Paris,3.0,(69),53.0,92.0,8.0,Paris 106 rue du faubourg Poissonnière 75010 Paris,100.0,92.0,200.0,13.7,8.8
+Lycée privé Catherine Labouré,Privé,Polyvalent,Paris,3.1,(15),49.0,67.0,4.0,Paris 29 rue Gassendi 75014 Paris,95.0,67.0,127.0,13.7,13.8
+Lycée privé Blomet,Privé,Général,Paris,3.3,(25),60.0,96.0,7.0,Paris 5 rue Blomet 75015 Paris,100.0,96.0,160.0,13.3,11.7
+Lycée privé Sainte-Ursule Louise de Bettignies,Privé,Général,Paris,3.0,(32),54.0,89.0,7.0,Paris 25 rue Daubigny 75017 Paris,99.0,89.0,134.0,13.7,10.1
+Lycée François Rabelais,Public,Général,Paris,3.9,(7),78.0,31.0,7.0,Paris 9 rue Francis de Croisset 75018 Paris,91.0,31.0,119.0,12.6,5.7
+Lycée privé Gerson,Privé,Général,Paris,4.3,(20),65.0,97.0,6.0,Paris 31 rue de la Pompe 75016 Paris,100.0,97.0,121.0,11.9,13.1
+Lycée Henri Bergson-Jacquard,Public,Général,Paris,3.9,(22),80.0,40.0,12.0,Paris 2 bis rue Bouret 75019 Paris,86.0,40.0,305.0,12.5,7.3
+Lycée polyvalent international site de Ferney-Voltaire,Public,Polyvalent,Ferney-Voltaire,3.4,(24),23.0,62.0,13.0,Ferney-Voltaire Avenue des Sports 01210 Ferney-Voltaire,91.0,62.0,748.0,9.9,9.4
+Lycée international de Paris Honoré de Balzac,Public,Général,Paris,3.6,(23),74.0,68.0,11.0,Paris 118 boulevard Bessières 75017 Paris,95.0,68.0,297.0,12.7,10.3
+Lycée privé Beth Hanna,Privé,Général,Paris,3.9,(10),90.0,86.0,7.0,Paris 49-51 rue Petit 75019 Paris,100.0,86.0,79.0,11.4,12.2
+Lycée privé Sainte-Elisabeth,Privé,Général,Paris,2.8,(17),87.0,78.0,7.0,Paris 112 rue de Lourmel 75015 Paris,100.0,78.0,87.0,12.2,10.9
+Lycée Colbert,Public,Général,Paris,3.7,(21),81.0,43.0,9.0,Paris 27 rue Château Landon 75010 Paris,89.0,43.0,209.0,12.4,11.0
+Lycée privé Saint-Dominique,Privé,Général,Pau,2.8,(14),33.0,81.0,8.0,Pau 30 avenue FOUCHET 64000 Pau,99.0,81.0,164.0,11.5,6.1
+Lycée privé Fénelon Sainte-Marie La Plaine Monceau,Privé,Général,Paris,3.4,(24),99.0,98.0,11.0,Paris 47 rue de Naples 75008 Paris,100.0,98.0,262.0,9.9,11.7
+Lycée Cantau,Public,Polyvalent,Anglet,2.7,(9),28.0,62.0,9.0,Anglet 1 allée DE CANTAU 64600 Anglet,95.0,62.0,355.0,12.4,11.6
+Lycée Jules Supervielle,Public,Général,Oloron-Sainte-Marie,2.5,(7),32.0,73.0,11.0,Oloron-Sainte-Marie 6 boulevard François Mitterrand BP 159 64404 Oloron-Sainte-Marie,99.0,73.0,134.0,11.9,7.6
+Lycée Arago,Public,Général,Paris,3.7,(24),118.0,66.0,9.0,Paris 4 place de la Nation 75012 Paris,94.0,66.0,247.0,9.6,10.1
+Lycée privé Charles de Foucauld,Privé,Général,Paris,3.1,(33),89.0,93.0,10.0,Paris 5 rue de la Madone 75018 Paris,99.0,93.0,210.0,12.2,9.4
+Lycée Maurice Ravel,Public,Général,Paris,3.8,(22),109.0,63.0,9.0,Paris 89 cours de Vincennes 75020 Paris,95.0,63.0,381.0,11.0,9.6
+Lycée privé Ozar Hatorah,Privé,Général,Paris,2.9,(3),117.0,36.0,4.0,Paris 34 rue du Moulin Joly 75011 Paris,89.0,36.0,41.0,9.5,10.2
+Lycée privé Saint-Joseph,Privé,Général,Nay,3.3,(24),24.0,80.0,10.0,Nay Avenue des Abbés Dupont 64800 Nay,100.0,80.0,71.0,11.9,12.8
+Lycée Jean-Baptiste Say,Public,Général,Paris,3.8,(22),27.0,93.0,10.0,Paris 11 bis rue d'Auteuil 75016 Paris,99.0,93.0,274.0,15.5,10.7
+Lycée Elisa Lemonnier,Public,Polyvalent,Paris,3.7,(5),22.0,49.0,8.0,Paris 20 avenue Armand Rousseau 75012 Paris,91.0,49.0,260.0,15.8,11.8
+Lycée polyvalent privé Notre-Dame (Saint-Vincent-de-Paul),Privé,Polyvalent,Paris,3.1,(13),24.0,75.0,9.0,Paris 49 rue Bobillot 75013 Paris,97.0,75.0,187.0,15.6,12.6
+Lycée Jean de La Fontaine,Public,Général,Paris,3.4,(23),23.0,84.0,8.0,Paris 1 place de la Porte Molitor 75016 Paris,99.0,84.0,241.0,15.7,14.4
+Lycée privé N'R Hatorah,Privé,Général,Paris,3.8,(38),21.0,81.0,3.0,Paris 3 et 5 rue Henri Turot 75019 Paris,100.0,81.0,43.0,15.9,9.3
+Lycée Les Iscles,Public,Polyvalent,Manosque,3.4,(24),4.0,66.0,13.0,Manosque 116 boulevard Régis Ryckebusch 04100 Manosque,96.0,66.0,199.0,12.3,15.3
+Lycée Joliot-Curie,Public,Général,Romilly-sur-Seine,3.6,(8),8.0,53.0,12.0,Romilly-sur-Seine 1 rue Guy-Môquet BP 6 10100 Romilly-sur-Seine,89.0,53.0,331.0,11.8,12.4
+Lycée Louis Armand,Public,Polyvalent,Paris,3.5,(10),14.0,35.0,6.0,Paris 321 rue Lecourbe 75015 Paris,90.0,35.0,241.0,10.6,16.4
+Lycée du Bugey,Public,Général,Belley,3.1,(16),17.0,59.0,10.0,Belley 113 rue du 5e RTM BP 157 01306 Belley,90.0,59.0,222.0,11.3,12.6
+Lycée Saint-Joseph,Privé,Général,Saint-Didier-sur-Chalaronne,3.2,(2),16.0,53.0,8.0,Saint-Didier-sur-Chalaronne 132 rue JOSEPH BERLIOZ 01140 Saint-Didier-sur-Chalaronne,95.0,53.0,56.0,12.7,10.9
+Lycée Polyvalent Gaston Bachelard,Public,Polyvalent,Bar-sur-Aube,2.3,(6),7.0,53.0,8.0,Bar-sur-Aube 33 rue Gaston Bachelard BP 112 10202 Bar-sur-Aube,89.0,53.0,165.0,11.1,12.5
+Lycée Chrestien de Troyes,Public,Général,Troyes,3.7,(10),6.0,54.0,10.0,Troyes 3 rue de Québec BP 1067 10009 Troyes cedex,94.0,54.0,292.0,13.3,11.7
+Lycée privé de l'Alma,Privé,Général,Paris,3.5,(28),11.0,99.0,7.0,Paris 12 avenue Bosquet 75007 Paris,100.0,99.0,89.0,14.0,16.7
+Lycée privé Lucien de Hirsch,Privé,Général,Paris,3.8,(2),10.0,94.0,5.0,Paris 12-14 rue Henri Murger 75019 Paris,100.0,94.0,73.0,16.7,11.9
+Lycée polyvalent Joseph-Marie Carriat,Public,Polyvalent,Bourg-en-Bresse,3.6,(21),19.0,57.0,13.0,Bourg-en-Bresse 1 rue de Crouÿ BP 60309 01011 Bourg-en-Bresse,93.0,57.0,572.0,11.6,11.3
+Lycée Polyvalent Marie de Champagne,Public,Polyvalent,Troyes,3.4,(18),10.0,50.0,10.0,Troyes 2 avenue Marie de Champagne BP 393 10026 Troyes,87.0,50.0,535.0,10.8,11.8
+Lycée polyvalent Arbez-Carme,Public,Polyvalent,Bellignat,2.8,(11),18.0,59.0,14.0,Bellignat 1 rue PIERRE ET MARIE CURIE 01100 Bellignat,92.0,59.0,354.0,12.6,12.2
+Lycée Saint-François de Sales,Privé,Général,Troyes,3.3,(27),2.0,82.0,14.0,Troyes 11 rue Général Saussier 10000 Troyes,100.0,82.0,114.0,14.7,14.7
+"Lycée Pierre-Gilles de Gennes - Ecole nationale de chimie, physique et biologie",Public,Général,Paris,4.2,(13),5.0,53.0,5.0,Paris 11 rue Pirandello 75013 Paris,92.0,53.0,202.0,9.0,17.3
+Lycée privé Le Rebours,Privé,Polyvalent,Paris,3.3,(4),7.0,78.0,5.0,Paris 44 boulevard Auguste Blanqui 75013 Paris,98.0,78.0,187.0,17.1,12.2
+Lycée privé Carcado Saisseval,Privé,Polyvalent,Paris,3.9,(5),6.0,72.0,3.0,Paris 121 boulevard Raspail - CS 10622 75006 Paris,99.0,72.0,178.0,17.2,13.7
+Lycée de la Plaine de l'Ain,Public,Général,Ambérieu-en-Bugey,2.7,(26),11.0,63.0,11.0,Ambérieu-en-Bugey rue Léon Blum 01500 Ambérieu-en-Bugey,94.0,63.0,510.0,13.4,11.1
+Lycée La Salle,Privé,Technologique,Troyes,3.0,(4),5.0,57.0,12.0,Troyes 21 rue du Cloitre Saint-Etienne 10000 Troyes,97.0,57.0,130.0,13.6,11.1
+Lycée Edgar Quinet,Public,Polyvalent,Paris,3.7,(10),8.0,38.0,7.0,Paris 63 rue des Martyrs 75009 Paris,88.0,38.0,217.0,9.2,17.0
+Lycée de Navarre,Public,Polyvalent,Saint-Jean-Pied-de-Port,3.8,(11),6.0,76.0,9.0,Saint-Jean-Pied-de-Port Avenue Jaï Alaï BP 1 64220 Saint-Jean-Pied-de-Port,100.0,76.0,106.0,15.1,15.1
+Lycée Saint-Joseph,Privé,Général,Miribel,3.1,(11),9.0,73.0,9.0,Miribel 101 rue Henri Grobon BP 519 01700 Miribel,99.0,73.0,83.0,14.0,12.6
+Lycée Saint-Pierre,Privé,Général,Bourg-en-Bresse,3.7,(13),15.0,72.0,11.0,Bourg-en-Bresse 7 rue Villeneuve BP 12 01001 Bourg-en-Bresse,99.0,72.0,179.0,12.9,11.7
+Lycée privé Stella Maris,Privé,Technologique,Anglet,3.2,(8),9.0,32.0,5.0,Anglet Avenue Abbé Cestac BP 455 64604 Anglet,95.0,32.0,50.0,14.5,12.4
+Lycée Lalande,Public,Général,Bourg-en-Bresse,4.1,(13),5.0,69.0,14.0,Bourg-en-Bresse 16 rue du Lycée BP 301 01011 Bourg-en-Bresse,98.0,69.0,340.0,14.7,9.6
+Lycée polyvalent Saint-Exupéry,Public,Polyvalent,Valserhône,3.8,(8),3.0,55.0,9.0,Valserhône 15 avenue Saint-Exupéry BP 616 01206 Valserhône,91.0,55.0,266.0,10.2,16.0
+Lycée polyvalent privé Saint-Joseph,Privé,Polyvalent,Vendôme,3.4,(20),11.0,51.0,9.0,Vendôme 18 rue Lemyre de Villers BP 124 41106 Vendôme,83.0,51.0,35.0,10.6,4.8
+Lycée Jeanne d'Arc,Privé,Polyvalent,Cessy,3.2,(11),7.0,83.0,9.0,Cessy 95 rue du Lycée 01170 Cessy,97.0,83.0,156.0,14.4,14.4
+Lycée polyvalent Augustin Thierry,Public,Polyvalent,Blois,3.9,(9),12.0,49.0,11.0,Blois 13 avenue Châteaudun 41018 Blois,85.0,49.0,298.0,10.0,7.6
