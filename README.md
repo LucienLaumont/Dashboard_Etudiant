@@ -1,4 +1,4 @@
-# 🏫 "L'ETUDIANT" Project : Scrapper - DataBase - Dashboard - Dockerisation
+# 🏫 **L'ETUDIAN** Project : Scrapper - DataBase - Dashboard - Dockerisation
 
 ## 📚 Overview
 This repository contains a project completed during the second year of engineering studies in the Data Science and AI class at ESIEE Paris. The project was a collaborative effort between [Your Name] and Emmanuelle Lepage (emmanuelle.lepage@edu.esiee.fr). The main objective was to develop a Dockerized dashboard application accompanied by a database populated with data scraped from a selected website.
