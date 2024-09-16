@@ -79,4 +79,4 @@ pip install scrapy plotly dash pymongo
   **It is likely that the dashboard window will not fit the dimensions of your screen. Use Ctrl - or Ctrl + to adjust the display size accordingly.**
 
 ## 📧 Contact
-For any inquiries or further information, please contact [Lucien Laumont] at lucien.laumont@edu.esiee.fr or Emmanuelle Lepage at emmanuelle.lepage@edu.esiee.fr.
+For any inquiries or further information, please contact Lucien Laumont at lucien.laumont@edu.esiee.fr or Emmanuelle Lepage at emmanuelle.lepage@edu.esiee.fr.
